@@ -699,13 +699,13 @@
           "verse": 8,
           "canonical_ref": "Luke 8:22",
           "english": "And it happened on one of the days... he said to them: \"Let us pass over to the other side of the lake.\"",
-          "greek": null
+          "greek": "Ἐγένετο δὲ ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ, καὶ εἶπεν πρὸς αὐτούς· Διέλθωμεν εἰς τὸ πέραν τῆς λίμνης· καὶ ἀνήχθησαν."
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 8:24-25",
           "english": "...And he, being awakened, rebuked the wind and the surging of the water, and they ceased, and there was a calm. And he said to them: \"Where is your faith?\" And they, being afraid, wondered, saying to one another: \"Who then is this, that he commands the winds and the water, and they obey him?\"",
-          "greek": null
+          "greek": "προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· Ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα. ὁ δὲ ἐγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος· καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη. εἶπεν δὲ αὐτοῖς· Ποῦ ἡ πίστις ὑμῶν;"
         }
       ],
       "notes": [
@@ -826,13 +826,13 @@
           "verse": 9,
           "canonical_ref": "Luke 8:40-41",
           "english": "And it happened, when Jesus returned, the crowd welcomed him, for they were all expecting him. And behold, there came a man whose name was Jairus, and he was a ruler of the assembly; and falling at the feet of Jesus, he was begging him to enter into his house.",
-          "greek": null
+          "greek": "Ἐν δὲ τῷ ὑποστρέφειν τὸν Ἰησοῦν ἀπεδέξατο αὐτὸν ὁ ὄχλος· ἦσαν γὰρ πάντες προσδοκῶντες αὐτόν. καὶ ἰδοὺ ἦλθεν ἀνὴρ ᾧ ὄνομα Ἰάϊρος καὶ οὗτος ἄρχων τῆς συναγωγῆς ὑπῆρχεν, καὶ πεσὼν παρὰ τοὺς πόδας Ἰησοῦ παρεκάλει αὐτὸν εἰσελθεῖν εἰς τὸν οἶκον αὐτοῦ."
         },
         {
           "verse": 10,
           "canonical_ref": "Luke 8:42",
           "english": "For he had an only daughter, about twelve years old, and she was dying.",
-          "greek": null
+          "greek": "ὅτι θυγάτηρ μονογενὴς ἦν αὐτῷ ὡς ἐτῶν δώδεκα καὶ αὐτὴ ἀπέθνησκεν."
         },
         {
           "verse": 11,
@@ -945,6 +945,22 @@
         {
           "term": "Abyss (ἄβυσσον - abysson)",
           "explanation": "A specific Jamesian/Ebionite term for the place of disorder. The spirits recognize Jesus's authority to impose order over the \"chaos\" of the material world. The spirit's plea recognizes Jesus's authority to impose order on the chaotic ultimates of the material realm."
+        },
+        {
+          "term": "Assembly (συναγωγῆς - synagōgēs)",
+          "explanation": "Rendered as 'assembly' to denote the functional Judean community center, stripping away later ecclesiastical weight."
+        },
+        {
+          "term": "Welcomed (ἀπεδέξατο - apedexato)",
+          "explanation": "This term reflects a clinical forensic fact of Jesus's reception within the social Ultimates of the period."
+        },
+        {
+          "term": "Only daughter (θυγάτηρ μονογενὴς - thygatēr monogenēs)",
+          "explanation": "The use of 'monogenēs' emphasizes the unique status of the child, a detail preserved across early strata."
+        },
+        {
+          "term": "Dying (ἀπέθνησκεν - apethnēsken)",
+          "explanation": "The imperfect tense indicates a process in action, establishing the necessity for pneumatic intervention."
         },
         {
           "term": "Fringe (κρασπέδου - kraspedou)",
@@ -1075,7 +1091,7 @@
           "verse": 7,
           "canonical_ref": "Luke 9:26",
           "english": "\"For whoever is ashamed of me and my words, of him the son of man shall be ashamed when he comes in his glory.\"",
-          "greek": null
+          "greek": "ὃς γὰρ ἂν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους, τοῦτον ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται ὅταν ἔλθῃ ἐν τῇ δόξῃ αὐτοῦ."
         },
         {
           "verse": 8,
@@ -1105,13 +1121,13 @@
           "verse": 12,
           "canonical_ref": "Luke 9:44",
           "english": "\"Place these words in your ears; for the son of man is about to be delivered into the hands of men.\"",
-          "greek": null
+          "greek": "θέσθε ὑμεῖς εἰς τὰ ὦτα ὑμῶν τοὺς λόγους τούτους· ὁ γὰρ υἱὸς τοῦ ἀνθρώπου μέλλει παραδίδοσθαι εἰς χεῖρας ἀνθρώπων."
         },
         {
           "verse": 13,
           "canonical_ref": "Luke 9:47-48",
           "english": "And Jesus, seeing the reasoning of their heart, took a child and set him by himself, and said to them: \"Whoever receives this child in my name receives me; and whoever receives me receives him who sent me.\"",
-          "greek": null
+          "greek": "ὁ δὲ Ἰησοῦς εἰδὼς τὸν διαλογισμὸν τῆς καρδίας αὐτῶν, ἐπιλαβόμενος παιδίον ἔστησεν αὐτὸ παρ' ἑαυτῷ καὶ εἶπεν αὐτοῖς· ὃς ἐὰν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου, ἐμὲ δέχεται· καὶ ὃς ἂν ἐμὲ δέξηται, δέχεται τὸν ἀποστείλαντά με."
         },
         {
           "verse": 14,
@@ -1158,6 +1174,10 @@
           "explanation": "The Greek refers to the \"Son of the Human.\" In this stratum, it denotes the representative of the restored humanity, often used by Jesus to refer to himself as the eschatological judge."
         },
         {
+          "term": "Ashamed (ἐπαισχυνθῇ - epaischynthē) in 9:26",
+          "explanation": "Used here as a forensic title for the representative of the restored pneumatic humanity. Following the Marcionite and primitive witnesses, the reference to 'holy messengers' (angels) is absent, focusing the eschatological gaze directly on the glory of the Father."
+        },
+        {
           "term": "ἀποδοκιμασθῆναι (apodokimasthēnai)",
           "explanation": "A forensic term meaning \"to be rejected after examination.\" This emphasizes the clinical necessity of the Messenger's rejection by the institutional \"vessels\" of the old age."
         },
@@ -1172,6 +1192,22 @@
         {
           "term": "σταυρόν (stauron)",
           "explanation": "The \"stake\" or \"cross.\" In the Jamesian context, this is a literal call to martyrdom and total divestment of the material self."
+        },
+        {
+          "term": "Place (θέσθε - thesthe) in 9:44",
+          "explanation": "A clinical command to deposit these facts into the permanent memory of the community."
+        },
+        {
+          "term": "Delivered (παραδίδοσθαι - paradidosthai) in 9:44",
+          "explanation": "A dry forensic term for a legal transfer or betrayal within the historical timeframe."
+        },
+        {
+          "term": "Reasoning (διαλογισμὸν - dialogismon) in 9:47",
+          "explanation": "The text identifies internal debate as the source of communal debris; the child is utilized as a clinical corrective."
+        },
+        {
+          "term": "Receives (δέχεται - dechetai) in 9:48",
+          "explanation": "This implies a hospitable inclusion into the community of use, establishing a chain of pneumatic authority from the Father to the Messenger."
         },
         {
           "term": "ἕτερον (heteron)",
@@ -1600,19 +1636,19 @@
           "verse": 6,
           "canonical_ref": "Luke 12:10",
           "english": "And everyone who shall speak a word against the son of man, it shall be forgiven him; but to the one having spoken against the Holy Spirit, it shall not be forgiven.",
-          "greek": null
+          "greek": "καὶ ὃς ἂν εἴπῃ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ· τῷ δὲ εἰς τὸ ἅγιον πνεῦμα εἴποντι οὐκ ἀφεθήσεται."
         },
         {
           "verse": 7,
           "canonical_ref": "Luke 12:11",
           "english": "And when they bring you before the assemblies and the rulers and the authorities, do not worry how you shall defend or what you shall say.",
-          "greek": null
+          "greek": "ὅταν δὲ εἰσφέρωσιν ὑμᾶς ἐπὶ τὰς συναγωγὰς καὶ τὰς ἀρχὰς καὶ τὰς ἐξουσίας, μὴ μεριμνήσητε πῶς ἢ τί ἀπολογήσησθε ἢ τί εἴπητε."
         },
         {
           "verse": 8,
           "canonical_ref": "Luke 12:12",
           "english": "For the Holy Spirit shall teach you in that very hour what it is necessary to say.",
-          "greek": null
+          "greek": "τὸ γὰρ ἅγιον πνεῦμα διδάξει ὑμᾶς ἐν αὐτῇ τῇ ὥρᾳ ἃ δεῖ εἰπεῖν."
         },
         {
           "verse": 9,
@@ -1665,8 +1701,8 @@
         {
           "verse": 17,
           "canonical_ref": "Luke 12:32",
-          "english": "\"Fear not, little flock, for your Father was well-pleased to give you the kingdom.\"",
-          "greek": null
+          "english": "\"Fear not, little flock, for the Father was well-pleased to give you the kingdom.\"",
+          "greek": "μὴ φοβοῦ, τὸ μικρὸν ποίμνιον, ὅτι εὐδόκησεν ὁ πατὴρ δοῦναι ὑμῖν τὴν βασιλείαν."
         },
         {
           "verse": 18,
@@ -1690,19 +1726,19 @@
           "verse": 21,
           "canonical_ref": "Luke 12:40",
           "english": "\"And you, become ready, for in the hour you do not think, the son of man comes.\"",
-          "greek": null
+          "greek": "καὶ ὑμεῖς γίνεσθε ἕτοιμοι, ὅτι ᾗ ὥρᾳ οὐ δοκεῖτε ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται."
         },
         {
           "verse": 22,
           "canonical_ref": "Luke 12:41",
           "english": "And Peter said to him: \"Lord, do you speak this parable to us or also to all?\"",
-          "greek": null
+          "greek": "εἶπεν δὲ ὁ Πέτρος· κύριε, πρὸς ἡμᾶς τὴν παραβολὴν ταύτην λέγεις ἢ καὶ πρὸς πάντας;"
         },
         {
           "verse": 23,
           "canonical_ref": "Luke 12:49",
           "english": "\"I came to cast fire upon the earth.\"",
-          "greek": null
+          "greek": "Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν."
         },
         {
           "verse": 24,
@@ -1726,7 +1762,7 @@
           "verse": 27,
           "canonical_ref": "Luke 12:56",
           "english": "\"Hypocrites! You know how to judge the face of the heaven and of the earth, but how do you not judge this time?\"",
-          "greek": null
+          "greek": "Ὑποκριταί, τὸ πρόσωπον τοῦ οὐρανοῦ καὶ τῆς γῆς οἴδατε δοκιμάζειν, τὸν δὲ καιρὸν τοῦτον πῶς οὐ δοκιμάζετε;"
         }
       ],
       "notes": [
@@ -1751,8 +1787,44 @@
           "explanation": "The reference to \"messengers\" (angels) found in the canonical text is removed. The earliest historical witnesses, including the Marcionite and Jamesian layers, record a direct pneumatic accountability before the Divine (ἔμπροσθεν τοῦ θεοῦ), avoiding later celestial bureaucracies."
         },
         {
+          "term": "Speak Against (εἴπῃ εἰς - eipē eis) in 12:10",
+          "explanation": "The reconstruction utilizes 'speak toward/against' in both halves of the verse, creating a clinical parallel between the two speech-acts."
+        },
+        {
+          "term": "Omission of Blasphemy in 12:10",
+          "explanation": "The term 'blaspheming' (βλασφημήσαντι) is excluded in the second half to reflect the primitive Marcionite/Jamesian reading, which focuses on the act of rejecting the pneumatic influx."
+        },
+        {
           "term": "ὁ υἱὸς τοῦ ἀνθρώπου (ho huios tou anthrōpou)",
           "explanation": "\"The Son of the Human.\" This title denotes the Messenger as the representative of the restored pneumatic humanity."
+        },
+        {
+          "term": "Assemblies (συναγωγάς - synagōgas) in 12:11",
+          "explanation": "Rendered as 'assemblies' to maintain the literal sense of a gathering place within the Judean administrative framework, stripped of later specialized religious weight."
+        },
+        {
+          "term": "Rulers and Authorities (ἀρχὰς καὶ ἐξουσίας) in 12:11",
+          "explanation": "These terms denote the institutional structures of the Old Aeon—the 'debris' that the Kingdom actively bypasses."
+        },
+        {
+          "term": "Worry (μεριμνήσητε - merimnēsēte) in 12:11",
+          "explanation": "The command shuns the 'calculating logic' of the state in favor of an absolute reliance on Divine Influx."
+        },
+        {
+          "term": "Word Order in 12:12",
+          "explanation": "The reconstruction follows the Marcionite sequence (τὸ γὰρ ἅγιον πνεῦμα), which prioritizes the quality of the Spirit as the primary actor."
+        },
+        {
+          "term": "Necessity (δεῖ - dei) in 12:12",
+          "explanation": "The use of δεῖ implies a forensic or divine necessity; the speech given under pressure is a direct result of pneumatic influx rather than prepared rhetoric."
+        },
+        {
+          "term": "Excision of 'Your' (ὑμῶν) in 12:32",
+          "explanation": "Epiphanius (Pan. 42.11.6, scholion 34) explicitly attests that Marcion's Gospel did not read 'your' before 'Father'. The omission is a diagnostic marker of the Jamesian/Marcionite stratum, decoupling the Father from specific biological or tribal ownership."
+        },
+        {
+          "term": "Little Flock (τὸ μικρὸν ποίμνιον) in 12:32",
+          "explanation": "This term refers to the Ebionim (the Poor Ones), identified here as the sole heirs of the established Kingdom."
         },
         {
           "term": "Judge or Divider (κριτὴν ἢ μεριστήν - kritēn ē meristēn)",
@@ -1785,6 +1857,42 @@
         {
           "term": "Evening Watch (ἑσπερινῇ φυλακῇ - hesperinē phylakē)",
           "explanation": "This is the specific variant in the Jamesian Protograph, suggesting a much more urgent, immediate context for the Parousia than the later canonical \"second or third watch.\""
+        },
+        {
+          "term": "Become ready (γίνεσθε ἕτοιμοι - ginesthe hetoimoi) in 12:40",
+          "explanation": "The imperative denotes a required state of pneumatic alertness rather than a passive expectation."
+        },
+        {
+          "term": "Omission of 'therefore' (οὖν) in 12:40",
+          "explanation": "The reconstruction omits the conjunction following P75 and B, reflecting the blunt, non-connective style of the primitive source."
+        },
+        {
+          "term": "Lord (κύριε - kyrie) in 12:41",
+          "explanation": "The vocative translates the Greek term used to address the teacher in his functional capacity as master of the word."
+        },
+        {
+          "term": "To us or to all (πρὸς ἡμᾶς... ἢ καὶ πρὸς πάντας) in 12:41",
+          "explanation": "Peter's query highlights the division between the inner community of use and the external sensory debris of the crowd."
+        },
+        {
+          "term": "Upon (ἐπὶ - epi) in 12:49",
+          "explanation": "The reconstruction utilizes 'upon' (with the accusative) following P45, P75, and the Western tradition to emphasize the outward, forceful manifestation of the spirit upon the physical realm."
+        },
+        {
+          "term": "Earth (γῆν - gēn) in 12:49",
+          "explanation": "The term identifies the material arena that is to be purged by the divine influx."
+        },
+        {
+          "term": "Hypocrites (ὑποκριταί - hypokritai) in 12:56",
+          "explanation": "A clinical description of those whose internal spiritual perception is masked by their external focus on material signs."
+        },
+        {
+          "term": "Face (πρόσωπον - prosōpon) in 12:56",
+          "explanation": "Refers to the visible sensory debris of the material universe."
+        },
+        {
+          "term": "Time (καιρὸν - kairon) in 12:56",
+          "explanation": "The specific, appointed eschatological moment or season that requires pneumatic discernment."
         },
         {
           "term": "Division (διαμερισμόν - diamerismon)",
@@ -2535,7 +2643,7 @@
           "verse": 9,
           "canonical_ref": "Luke 4:27",
           "english": "\"And he said: 'There were many lepers in Israel in the days of Elisha the prophet; and none of them was cleansed, except Naaman the Syrian.'\"",
-          "greek": null
+          "greek": "πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐν ἡμέραις Ἐλισσαίου τοῦ προφήτου καὶ οὐδεὶς αὐτῶν ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος."
         },
         {
           "verse": 10,
@@ -2559,7 +2667,7 @@
           "verse": 13,
           "canonical_ref": "Luke 17:19",
           "english": "And he said to him: \"Arise, go; your faith has saved you.\"",
-          "greek": null
+          "greek": "καὶ εἶπεν αὐτῷ· ἀναστάς πορεύου· ἡ πίστις σου σέσωκέν σε."
         },
         {
           "verse": 14,
@@ -2577,7 +2685,7 @@
           "verse": 16,
           "canonical_ref": "Luke 17:22",
           "english": "And he said to the disciples: \"The days will come when you will desire to see one of the days of the son of man, and you will not see it.\"",
-          "greek": null
+          "greek": "Εἶπεν δὲ πρὸς τοὺς μαθητάς· ἐλεύσονται ἡμέραι ὅτε ἐπιθυμήσετε μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ἰδεῖν καὶ οὐκ ὄψεσθε."
         },
         {
           "verse": 17,
@@ -2589,7 +2697,7 @@
           "verse": 18,
           "canonical_ref": "Luke 17:25",
           "english": "\"But first it is necessary for him to suffer many things and to be rejected by this generation.\"",
-          "greek": null
+          "greek": "πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῆς γενεᾶς ταύτης."
         },
         {
           "verse": 19,
@@ -2601,13 +2709,13 @@
           "verse": 20,
           "canonical_ref": "Luke 17:28",
           "english": "\"Likewise also as it happened in the days of Lot...\"",
-          "greek": null
+          "greek": "ὁμοίως καθὼς ἐγένετο ἐν ταῖς ἡμέραις Λώτ."
         },
         {
           "verse": 21,
           "canonical_ref": "Luke 17:32",
           "english": "\"Remember Lot's wife.\"",
-          "greek": null
+          "greek": "μνημονεύετε τῆς γυναικὸς Λώτ."
         }
       ],
       "notes": [
@@ -2646,6 +2754,18 @@
         {
           "term": "Observation (παρατηρήσεως - paraterēseōs)",
           "explanation": "This term refers to the outward monitoring of celestial or political signs. The Protograph rejects the external \"State\" model of the Kingdom in favor of a pneumatic reality."
+        },
+        {
+          "term": "Arise (ἀναστάς - anastas) in 17:19",
+          "explanation": "An aorist participle indicating the completed inward shift necessary before outward movement."
+        },
+        {
+          "term": "Saved (σέσωκέν - sesōken) in 17:19",
+          "explanation": "The perfect tense denotes a completed state of preservation resulting from the pneumatic shift triggered by faith."
+        },
+        {
+          "term": "Faith (πίστις - pistis) in 17:19",
+          "explanation": "In the Jamesian stratum, this refers to loyalty or stability in the Word rather than an abstract belief."
         },
         {
           "term": "Within you (ἐντὸς ὑμῶν - entos hymon)",
@@ -2778,7 +2898,7 @@
           "verse": 14,
           "canonical_ref": "Luke 18:21",
           "english": "And he said: \"All these things I have guarded from my youth.\"",
-          "greek": null
+          "greek": "ὁ δὲ εἶπεν· ταῦτα πάντα ἐφύλαξα ἐκ νεότητος."
         },
         {
           "verse": 15,
@@ -2790,7 +2910,7 @@
           "verse": 16,
           "canonical_ref": "Luke 18:23",
           "english": "But hearing these things, he became very sorrowful, for he was rich exceedingly.",
-          "greek": null
+          "greek": "ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγενήθη· ἦν γὰρ πλούσιος σφόδρα."
         },
         {
           "verse": 17,
@@ -2832,7 +2952,7 @@
           "verse": 23,
           "canonical_ref": "Luke 18:43",
           "english": "And immediately he saw, and he followed him, glorifying God.",
-          "greek": null
+          "greek": "καὶ παραχρῆμα ἀνέβλεψεν καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν."
         }
       ],
       "notes": [
@@ -2867,6 +2987,30 @@
         {
           "term": "I know the commandments (Τὰς ἐντολὰς οἶδα - Tas entolas oida)",
           "explanation": "This is the definitive Jamesian variant where the Ruler asserts personal mastery over the Law, treating it as a baseline of knowledge rather than the climax of the Messenger's teaching. In the Jamesian Protograph and Marcionite witnesses, this phrase is spoken by the Ruler as a statement of his own standing, rather than by Jesus as an instruction."
+        },
+        {
+          "term": "Guarded (ἐφύλαξα - ephylaxa) in 18:21",
+          "explanation": "\"Guarded\" reflects the clinical sense of observing or keeping a legal deposit. In the Jamesian layer, the Law is treated as a baseline of knowledge rather than the climax of the Messenger's teaching."
+        },
+        {
+          "term": "Omission of 'My' (μου) in 18:21",
+          "explanation": "The reconstruction follows the primitive variant which often omits the personal possessive pronoun in this stratum, focusing on the act of guarding the Law as a dry fact."
+        },
+        {
+          "term": "Very sorrowful (περίλυπος - perilypos) in 18:23",
+          "explanation": "This denotes an intense, encompassing sorrow. In the Ebionite (Poor) context, wealth is identified as a definitive consolidation of the corrupt current age, creating a clinical barrier to the Kingdom."
+        },
+        {
+          "term": "Rich exceedingly (πλούσιος σφόδρα) in 18:23",
+          "explanation": "The term σφόδρα emphasizes the extreme nature of the material 'ultimate' that obstructed the ruler's pneumatic transition."
+        },
+        {
+          "term": "Immediately (παραχρῆμα - parachrēma) in 18:43",
+          "explanation": "A clinical marker of the sudden manifestation of power in the Jamesian Protograph. Faith in this stratum is viewed as a functional stability or loyalty to the Word that triggers immediate restoration."
+        },
+        {
+          "term": "He saw (ἀνέβλεψεν - aneblepsen) in 18:43",
+          "explanation": "Literally 'looked up' or 'saw again.' The restoration of sight serves as forensic proof of the Messenger's authority within the material realm."
         },
         {
           "term": "Sell all (πάντα ὅσα ἔχεις πώλησον - panta hosa echeis pōlēson)",
@@ -3619,8 +3763,8 @@
         {
           "verse": 17,
           "canonical_ref": "Luke 22:45-46",
-          "english": "And rising from the prayer, coming to the disciples, he found them sleeping... and said to them: 'Why do you sleep? Rise and pray, that you may not enter into temptation.'",
-          "greek": null
+          "english": "And rising from the prayer, coming to the disciples, he found them sleeping from the sorrow, and said to them: 'Why do you sleep? Rise and pray, that you may not enter into temptation.'",
+          "greek": "καὶ ἀναστὰς ἀπὸ τῆς προσευχῆς, ἐλθὼν πρὸς τοὺς μαθητὰς εὗρεν κοιμωμένους αὐτοὺς ἀπὸ τῆς λύπης, καὶ εἶπεν αὐτοῖς· τί καθεύδετε; ἀναστάντες προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν."
         },
         {
           "verse": 18,
@@ -3733,6 +3877,14 @@
         {
           "term": "Omission of Bloody Sweat (22:43-44)",
           "explanation": "The narrative of the 'angel from heaven' and the 'sweat like drops of blood' is a later interpolation (absent in P75, א, and B). Its removal restores the Jamesian Christ of stoic resolve, facing death with spiritual confidence."
+        },
+        {
+          "term": "Sleeping from sorrow (κοιμωμένους... ἀπὸ τῆς λύπης) in 22:45",
+          "explanation": "The reconstruction includes the causal phrase 'from the sorrow,' attested in the primitive witnesses. This details the pneumatic weight on the disciples during the eschatological transition."
+        },
+        {
+          "term": "Temptation (πειρασμόν - peirasmon) in 22:46",
+          "explanation": "In the Protograph, the focus remains on the community's internal vigilance and the clinical rejection of material anxiety during the eschatological transition."
         },
         {
           "term": "Authority of darkness (ἐξουσία τοῦ σκότους)",
@@ -3871,13 +4023,13 @@
           "verse": 17,
           "canonical_ref": "Luke 23:39-40",
           "english": "And one of the criminals who were hanged railed on him, saying: 'If you are the Christ, save yourself and us!' But the other answering rebuked him, saying: 'Do you not fear God, seeing you are in the same condemnation?'",
-          "greek": null
+          "greek": "εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτὸν λέγων· οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς. ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ;"
         },
         {
           "verse": 18,
           "canonical_ref": "Luke 23:42-43",
           "english": "And he said to Jesus: 'Lord, remember me when you come into your kingdom.' And Jesus said to him: 'Verily I say to you, today you shall be with me in Paradise.'",
-          "greek": null
+          "greek": "καὶ ἔλεγεν· Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς εἰς τὴν βασιλείαν σου. καὶ εἶπεν αὐτῷ· ἀμήν σοι λέγω, σήμερον μετ᾿ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ."
         },
         {
           "verse": 19,
@@ -3942,6 +4094,22 @@
         {
           "term": "Criminals (κακούργοι - kakourgoi)",
           "explanation": "The use of this term maintains a focus on the clinical reality of the execution."
+        },
+        {
+          "term": "Criminals (κακούργων - kakourgōn) in 23:39",
+          "explanation": "Literally 'evil-doers' or 'workers of bad.' The reconstruction maintains this dry forensic descriptor."
+        },
+        {
+          "term": "Condemnation (κρίματι - krimati) in 23:40",
+          "explanation": "The Jamesian layer uses this dialogue to highlight the judgment between the 'powerful/arrogant' and the 'poor/humble' at the moment of death."
+        },
+        {
+          "term": "Today (σήμερον - sēmeron) in 23:43",
+          "explanation": "This is a core Jamesian marker. It emphasizes an immediate pneumatic transition (exaltation) rather than a delayed material resuscitation."
+        },
+        {
+          "term": "Paradise (παραδείσῳ - paradeisō) in 23:43",
+          "explanation": "The reconstruction preserves the verse as found in the Marcionite/Tertullian stratum, representing the immediate spiritual enthronement of the Messenger."
         },
         {
           "term": "Skull (Κρανίον - Kranion)",
