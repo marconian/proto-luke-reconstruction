@@ -1756,7 +1756,7 @@
           "verse": 26,
           "canonical_ref": "Luke 12:53",
           "english": "\"The father shall be divided against the son and the son against the father, mother against daughter and daughter against mother.\"",
-          "greek": "διαμερισθήσονται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί."
+          "greek": "διαμερισθήσονται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί, καὶ μήτηρ ἐπὶ θυγατρὶ καὶ θυγάτηρ ἐπὶ μητρί."
         },
         {
           "verse": 27,
@@ -2137,14 +2137,14 @@
         {
           "verse": 9,
           "canonical_ref": "Luke 14:22",
-          "english": "And the slave said, \"Lord, it is done as you commanded, and there is still place.\"",
-          "greek": null
+          "english": "And the slave said, \"Lord, it has been done as you commanded, and still there is room.\"",
+          "greek": "καὶ εἶπεν ὁ δοῦλος· κύριε, γέγονεν ὃ ἐπέταξας, καὶ ἔτι τόπος ἐστίν."
         },
         {
           "verse": 10,
           "canonical_ref": "Luke 14:23",
-          "english": "And the lord said to the slave, \"Go out into the roads and hedges, and compel them to come in, that my house may be filled.\"",
-          "greek": null
+          "english": "And the lord said to the slave, \"Go out into the roads and hedges and compel them to come in, that my house may be filled.\"",
+          "greek": "καὶ εἶπεν ὁ κύριος πρὸς τὸν δοῦλον· ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς καὶ ἀνάγκασον εἰσελθεῖν, ἵνα γεμισθῇ μου ὁ οἶκος."
         },
         {
           "verse": 11,
@@ -2850,7 +2850,7 @@
           "verse": 6,
           "canonical_ref": "Luke 18:9",
           "english": "And he spoke also toward certain ones having trusted in themselves that they are righteous and treating the rest with contempt, this parable.",
-          "greek": null
+          "greek": "Ἔλεγεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ᾽ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην."
         },
         {
           "verse": 7,
@@ -2892,7 +2892,7 @@
           "verse": 13,
           "canonical_ref": "Luke 18:20",
           "english": "The Ruler said: \"I know the commandments: You should not commit adultery, you should not kill, you should not steal, you should not bear false witness, honour your father and your mother.\"",
-          "greek": "Τὰς ἐντολὰς οἶδα."
+          "greek": "ὁ δὲ ἄρχων εἶπεν· Τὰς ἐντολὰς οἶδα· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου."
         },
         {
           "verse": 14,
@@ -3310,66 +3310,54 @@
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 20:9-18",
-          "english": "[The Parable of the Wicked Tenants is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 7,
           "canonical_ref": "Luke 20:19",
           "english": "And the scribes and the chief priests sought to lay hands on him in that very hour, and they feared the people.",
           "greek": "Καὶ ἐζήτησαν οἱ γραμματεῖς καὶ οἱ ἀρχιερεῖς ἐπιβαλεῖν ἐπ᾿ αὐτὸν τὰς χεῖρας ἐν αὐτῇ τῇ ὥρᾳ, καὶ ἐφοβήθησαν τὸν λαόν."
         },
         {
-          "verse": 8,
+          "verse": 7,
           "canonical_ref": "Luke 20:24",
           "english": "Show me a denarius. Whose image and inscription does it have? And they said, 'Caesar's.'",
           "greek": "Δείξατέ μοι δηνάριον· τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν; οἱ δὲ εἶπαν· Καίσαρος."
         },
         {
-          "verse": 9,
+          "verse": 8,
           "canonical_ref": "Luke 20:25",
           "english": "And he said to them: 'Give back therefore the things of Caesar to Caesar, and the things of God to God.'",
           "greek": "ὁ δὲ εἶπεν αὐτοῖς· Τοίνυν ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ."
         },
         {
-          "verse": 10,
+          "verse": 9,
           "canonical_ref": "Luke 20:27",
           "english": "And certain of the Sadducees came to him, those saying against there being a resurrection, and questioned him.",
           "greek": "Προσελθόντες δέ τινες τῶν Σαδδουκαίων, οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι, ἐπηρώτησαν αὐτόν."
         },
         {
-          "verse": 11,
+          "verse": 10,
           "canonical_ref": "Luke 20:34-35",
           "english": "And Jesus said to them: 'The sons of this age marry and are given in marriage, but those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage.'",
           "greek": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται, οἱ δὲ καταξιωθέντες τοῦ αἰῶνος ἐκείνου τυχεῖν καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται·"
         },
         {
-          "verse": 12,
+          "verse": 11,
           "canonical_ref": "Luke 20:36",
           "english": "For they cannot die anymore, for they are equal to messengers and are sons of God, being sons of the resurrection.",
           "greek": "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται, ἰσάγγελοι γάρ εἰσιν καὶ υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες."
         },
         {
-          "verse": 13,
-          "canonical_ref": "Luke 20:37-38a",
-          "english": "[The passage concerning Moses and the Bush is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 14,
+          "verse": 12,
           "canonical_ref": "Luke 20:41",
           "english": "And he said to them: 'How do they say that the Christ is the son of David?'",
           "greek": "Εἶπεν δὲ πρὸς αὐτούς· Πῶς λέγουσιν τὸν χριστὸν εἶναι υἱὸν Δαυίδ;"
         },
         {
-          "verse": 15,
+          "verse": 13,
           "canonical_ref": "Luke 20:44",
           "english": "David therefore calls him 'Lord,' and how is he his son?",
           "greek": "Δαυὶδ οὖν κύριον αὐτὸν καλεῖ, καὶ πῶς αὐτοῦ υἱός ἐστιν;"
         },
         {
-          "verse": 16,
+          "verse": 14,
           "canonical_ref": "Luke 20:45-46",
           "english": "And while all the people were listening, he said to the disciples: 'Beware of the scribes who desire to walk around in robes and love greetings in the marketplaces and chief seats in the assemblies and chief places at the suppers.'",
           "greek": "Ἀκούοντος δὲ παντὸς τοῦ λαοῦ εἶπεν τοῖς μαθηταῖς· Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις."
@@ -3475,7 +3463,7 @@
           "verse": 4,
           "canonical_ref": "Luke 21:9-10",
           "english": "And when you hear of wars and disturbances, do not be terrified; for these things must first happen, but the end is not immediately. Then he said to them, 'Nation shall rise against nation, and kingdom against kingdom.'",
-          "greek": "Τότε ἔλεγεν αὐτοῖς· ἐγερθήσεται ἔθνος ἐπ᾽ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν."
+          "greek": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας, μὴ πτοηθῆτε· δεῖ γὰρ ταῦτα γενέσθαι πρῶτον, ἀλλ᾽ οὐκ εὐθέως τὸ τέλος. Τότε ἔλεγεν αὐτοῖς· ἐγερθήσεται ἔθνος ἐπ᾽ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν."
         },
         {
           "verse": 5,
@@ -3493,7 +3481,7 @@
           "verse": 7,
           "canonical_ref": "Luke 21:15",
           "english": "For I will give you a mouth and wisdom which all those opposing you will not be able to resist or contradict.",
-          "greek": "σοφίαν, ᾗ οὐ δυνήσονται ἀντιστῆναι οὐδὲ ἀντειπεῖν."
+          "greek": "ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἢ ἀντειπεῖν πάντες οἱ ἀντικείμενοι ὑμῖν."
         },
         {
           "verse": 8,
@@ -3672,138 +3660,102 @@
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 22:3",
-          "english": "[The phrase 'And Satan entered into Judas' is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 3,
           "canonical_ref": "Luke 22:4-6",
           "english": "And Judas went away and spoke with the commanders how he might deliver him to them. And they were glad and agreed to give him silver.",
           "greek": "καὶ ἀπελθὼν συνελάλησεν τοῖς ἀρχιερεῦσιν καὶ στρατηγοῖς τὸ πῶς αὐτοῖς παραδῷ αὐτόν. καὶ ἐχάρησαν καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι."
         },
         {
-          "verse": 4,
+          "verse": 3,
           "canonical_ref": "Luke 22:7-8",
           "english": "And the day of unleavened bread came... And he sent Peter and the rest, saying, 'Go and prepare the Passover for us, that we may eat.'",
           "greek": "καὶ εἶπεν τῷ Πέτρῳ καὶ τοῖς λοιποῖς· ἀπελθόντες ἑτοιμάσατε ἵνα φάγωμεν τὸ πάσχα."
         },
         {
-          "verse": 5,
+          "verse": 4,
           "canonical_ref": "Luke 22:14-15",
           "english": "And when the hour came, he lay down, and the twelve were with him. And he said to them: 'With desire I have desired to eat this Passover with you before I suffer.'",
           "greek": "Καὶ ὅτε ἐγένετο ἡ ὥρα, ἀνέπεσεν καὶ οἱ δώδεκα σὺν αὐτῷ. καὶ εἶπεν πρὸς αὐτούς· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ' ὑμῶν πρὸ τοῦ με παθεῖν·"
         },
         {
-          "verse": 6,
-          "canonical_ref": "Luke 22:16",
-          "english": "[The saying regarding not eating again is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 7,
+          "verse": 5,
           "canonical_ref": "Luke 22:17-18",
           "english": "And receiving a cup, having given thanks, he said: 'Take this and divide it among yourselves. For I say to you, I will not drink from the fruit of the vine until the kingdom of God comes.'",
           "greek": "καὶ δεξάμενος ποτήριον εὐχαριστήσας εἶπεν· λάβετε τοῦτο καὶ διαμερίσατε εἰς ἑαυτούς· λέγω γὰρ ὑμῖν, οὐ μὴ πίω ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ."
         },
         {
-          "verse": 8,
+          "verse": 6,
           "canonical_ref": "Luke 22:19a",
           "english": "And taking bread, having given thanks, he broke it and gave it to them, saying: 'This is my body.'",
           "greek": "καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· τοῦτό ἐστιν τὸ σῶμά μου."
         },
         {
-          "verse": 9,
-          "canonical_ref": "Luke 22:19b-20",
-          "english": "[The 'Western Short Text' is restored: the words regarding 'new covenant in blood' and 'body given for you' are LATER INTERPOLATIONS]",
-          "greek": null
-        },
-        {
-          "verse": 10,
+          "verse": 7,
           "canonical_ref": "Luke 22:21-22",
           "english": "But behold, the hand of the one delivering me up is with mine on the table. For the son of man goes... but woe to that man through whom he is delivered up.",
           "greek": "πλὴν ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος με μετ᾿ ἐμοῦ ἐπὶ τῆς τραπέζης. οὐαὶ δὲ τῷ ἀνθρώπῳ ἐκείνῳ δι᾿ οὗ παραδίδοται ὁ υἱὸς τοῦ ἀνθρώπου."
         },
         {
-          "verse": 11,
+          "verse": 8,
           "canonical_ref": "Luke 22:24-27",
           "english": "There arose also a dispute among them, as to which of them was thought to be greatest. But he said to them: 'The kings of the nations exercise authority over them, and those exercising authority over them are called benefactors. But you are not so; instead, let the greatest among you become as the younger, and the leader as the one who serves. For who is greater, the one reclining or the one who serves? Is it not the one reclining? But I am in your midst as the one who serves.'",
           "greek": "Ἐγένετο δὲ καὶ φιλονεικία ἐν αὐτοῖς, τὸ τίς αὐτῶν δοκεῖ εἶναι μείζων. ὁ δὲ εἶπεν αὐτοῖς· οἱ βασιλεῖς τῶν ἐθνῶν κυριεύουσιν αὐτῶν καὶ οἱ ἐξουσιάζοντες αὐτῶν εὐεργέται καλοῦνται. ὑμεῖς δὲ οὐχ οὕτως, ἀλλ᾽ ὁ μείζων ἐν ὑμῖν γινέσθω ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς ὁ διακονῶν. τίς γὰρ μείζων, ὁ ἀνακείμενος ἢ ὁ διακονῶν; οὐχὶ ὁ ἀνακείμενος; ἐγὼ δὲ ἐν μέσῳ ὑμῶν εἰμι ὡς ὁ διακονῶν."
         },
         {
-          "verse": 12,
+          "verse": 9,
           "canonical_ref": "Luke 22:28-30",
           "english": "You are those who have remained with me in my trials. And I assign to you, as my Father assigned to me, a kingdom, that you may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
           "greek": "ὑμεῖς δέ ἐστε οἱ διαμεμενηκότες μετ᾿ ἐμοῦ ἐν τοῖς πειρασμοῖς μου· κἀγὼ διατίθεμαι ὑμῖν καθὼς διέθετό μοι ὁ πατήρ μου βασιλείαν, ἵνα ἔσθητε καὶ πίνητε ἐπὶ τῆς τραπέζης μου ἐν τῇ βασιλείᾳ μου, καὶ καθήσεσθε ἐπὶ θρόνων τὰς δώδεκα φυλὰς κρίνοντες τοῦ Ἰσραήλ."
         },
         {
-          "verse": 13,
+          "verse": 10,
           "canonical_ref": "Luke 22:31-34",
           "english": "Simon, Simon, behold, the adversary has demanded to sift you like wheat. But I have prayed for you that your faith may not fail; and you, when you have turned back, strengthen your brothers. But he said to him: 'Lord, I am ready to go with you both to prison and to death.' But he said: 'I say to you, Peter, a cock will not crow today until you have three times denied that you know me.'",
           "greek": "Σίμων Σίμων, ἰδοὺ ὁ σατανᾶς ἐξῃτήσατο ὑμᾶς τοῦ σινιάσαι ὡς τὸν σῖτον· ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου. ὁ δὲ εἶπεν· λέγω σοι, Πέτρε, οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι."
         },
         {
-          "verse": 14,
-          "canonical_ref": "Luke 22:35-38",
-          "english": "[The 'Two Swords' pericope is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 15,
+          "verse": 11,
           "canonical_ref": "Luke 22:39-42",
           "english": "And going out, he went according to custom to the Mount of Olives; and the disciples also followed him. And coming to the place, he said to them: 'Pray not to enter into temptation.' And he was withdrawn from them about a stone's throw, and placing his knees, he prayed, saying: 'Father, if you are willing, remove this cup from me; yet not my will, but yours be done.'",
           "greek": "καὶ αὐτὸς ἀπεσπάσθη ἀπ᾿ αὐτῶν ὡσεὶ λίθου βολὴν καὶ θεὶς τὰ γόνατα προσηύχετο λέγων· πάτερ, εἰ βούλει παρένεγκε τοῦτο τὸ ποτήριον ἀπ᾿ ἐμοῦ· πλὴν μὴ τὸ θέλημά μου ἀλλὰ τὸ σὸν γινέσθω."
         },
         {
-          "verse": 16,
-          "canonical_ref": "Luke 22:43-44",
-          "english": "[The 'angel from heaven' and 'sweat like drops of blood' are LATER INTERPOLATIONS absent in P75, א, and B]",
-          "greek": null
-        },
-        {
-          "verse": 17,
+          "verse": 12,
           "canonical_ref": "Luke 22:45-46",
           "english": "And rising from the prayer, coming to the disciples, he found them sleeping from the sorrow, and said to them: 'Why do you sleep? Rise and pray, that you may not enter into temptation.'",
           "greek": "καὶ ἀναστὰς ἀπὸ τῆς προσευχῆς, ἐλθὼν πρὸς τοὺς μαθητὰς εὗρεν κοιμωμένους αὐτοὺς ἀπὸ τῆς λύπης, καὶ εἶπεν αὐτοῖς· τί καθεύδετε; ἀναστάντες προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν."
         },
         {
-          "verse": 18,
+          "verse": 13,
           "canonical_ref": "Luke 22:47-48",
           "english": "While he was still speaking, behold a crowd, and the one called Judas, one of the twelve, was going before them and drew near to Jesus to kiss him. But Jesus said to him: 'Judas, do you deliver up the son of man with a kiss?'",
           "greek": "ἔτι αὐτοῦ λαλοῦντος ἰδοὺ ὄχλος, καὶ ὁ λεγόμενος Ἰούδας, εἷς τῶν δώδεκα, προήρχετο αὐτοὺς καὶ ἤγγισεν τῷ Ἰησοῦ καταφιλῆσαι αὐτόν. Ἰησοῦς δὲ εἶπεν αὐτῷ· Ἰούδα, φιλήματι τὸν υἱὸν τοῦ ἀνθρώπου παραδίδως;"
         },
         {
-          "verse": 19,
-          "canonical_ref": "Luke 22:49-51",
-          "english": "[The healing of the high priest's servant's ear is ABSENT]",
-          "greek": null
-        },
-        {
-          "verse": 20,
+          "verse": 14,
           "canonical_ref": "Luke 22:52-53",
           "english": "Then Jesus said to the chief priests and commanders of the temple and elders who had come out against him: 'Have you come out as against a robber with swords and clubs? While I was with you daily in the temple, you did not stretch out your hands against me; but this is your hour and the authority of darkness.'",
           "greek": "εἶπεν δὲ Ἰησοῦς πρὸς τοὺς παραγενομένους ἐπ᾿ αὐτὸν ἀρχιερεῖς καὶ στρατηγοὺς τοῦ ἱεροῦ καὶ πρεσβυτέρους· ὡς ἐπὶ λῃστὴν ἐξήλθατε μετὰ μαχαιρῶν καὶ ξύλων; καθ᾿ ἡμέραν ὄντος μου μεθ᾿ ὑμῶν ἐν τῷ ἱερῷ οὐκ ἐξετείνατε τὰς χεῖρας ἐπ᾿ ἐμέ, ἀλλ᾿ αὕτη ἐστὶν ὑμῶν ἡ ὥρα καὶ ἡ ἐξουσία τοῦ σκότους."
         },
         {
-          "verse": 21,
+          "verse": 15,
           "canonical_ref": "Luke 22:63-65",
           "english": "And the men who were holding him were mocking him, beating him. And having blindfolded him, they were asking, saying: 'Prophesy! Who is the one who struck you?'",
           "greek": "Καὶ οἱ ἄνδρες οἱ συνέχοντες αὐτὸν ἐνέπαιζον αὐτῷ δέροντες, καὶ περικαλύψαντες αὐτὸν ἐπηρώτων λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;"
         },
         {
-          "verse": 22,
+          "verse": 16,
           "canonical_ref": "Luke 22:66-67",
           "english": "And as it became day, the assembly of the elders of the people was gathered... and they led him away into their council, saying: 'If you are the Christ, tell us.' But he said to them: 'If I tell you, you will not believe.'",
           "greek": "Καὶ ὡς ἐγένετο ἡμέρα, συνήχθη τὸ πρεσβυτέριον τοῦ λαοῦ, ἀρχιερεῖς τε καὶ γραμματεῖς, καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν λέγοντες· εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· ἐὰν ὑμῖν εἴπω, οὐ μὴ πιστεύσητε."
         },
         {
-          "verse": 23,
+          "verse": 17,
           "canonical_ref": "Luke 22:69",
           "english": "But from now on the son of man shall be seated at the right hand of the power of God.",
           "greek": "ἀπὸ τοῦ νῦν δὲ ἔσται ὁ υἱὸς τοῦ ἀνθρώπου καθήμενος ἐκ δεξιῶν τῆς δυνάμεως τοῦ θεοῦ."
         },
         {
-          "verse": 24,
+          "verse": 18,
           "canonical_ref": "Luke 22:70",
           "english": "And they all said: 'Are you then the Son of God?' And he said to them: 'You say it.'",
           "greek": "εἶπαν δὲ πάντες· σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ; ὁ δὲ πρὸς αὐτοὺς ἔφη· ὑμεῖς λέγετε ὅτι ἐγώ εἰμι."
@@ -3950,101 +3902,83 @@
         {
           "verse": 5,
           "canonical_ref": "Luke 23:6-12",
-          "english": "[NOTE: The Herod pericope exists in two variants. Tertullian and Epiphanius attest its presence in some Marcionite texts, while the Greek reconstruction excises it as a later harmonization]",
-          "greek": null
+          "english": "And Pilate, having heard, asked if the man was a Galilean. And knowing that he was from the jurisdiction of Herod, he sent him to Herod, who was himself in Jerusalem in those days. And Herod, seeing Jesus, was very glad, for he had for a long time desired to see him. And he questioned him in many words, but he answered him nothing. And Herod with his soldiers, having treated him with contempt and mocked him, having thrown a shining robe around him, sent him back to Pilate.",
+          "greek": "Πιλᾶτος δὲ ἀκούσας ἐπηρώτησεν εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν. καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην, ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις. ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν, ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτόν. ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς, αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ. ἐξουθενήσας δὲ αὐτὸν [καὶ] ὁ Ἡρῴδης σὺν τοῖς στρατεύμασιν αὐτοῦ καὶ ἐμπαίξας περιβαλὼν ἐσθῆτα λαμπρὰν ἀνέπεμψεν αὐτὸν τῷ Πιλάτῳ."
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 23:7-11 (if present)",
-          "english": "And when Pilate learned that he was of Herod's jurisdiction, he sent him to Herod, who was himself in Jerusalem in those days. And Herod, seeing Jesus, was very glad... And he questioned him with many words, but he answered him nothing. And Herod with his soldiers, having treated him with contempt and mocked him, having thrown a shining robe around him, sent him back to Pilate.",
-          "greek": "Καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστίν, ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην. ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν· ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτὸν διὰ τὸ ἀκούειν περὶ αὐτοῦ, καὶ ἤλπιζέν τι σημεῖον ἰδεῖν ὑπ᾽ αὐτοῦ γινόμενον. ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς· αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ."
-        },
-        {
-          "verse": 7,
           "canonical_ref": "Luke 23:13-16",
           "english": "Pilate, having called together the chief priests and the rulers and the people, said to them: 'You brought me this man as one perverting the people, and behold, I, having examined him before you, found nothing blameworthy in this man regarding the charges you bring against him. No, nor did Herod, for he sent him back to us; and behold, nothing worthy of death has been done by him. Having disciplined him, therefore, I will release him.'",
           "greek": "Πιλᾶτος δὲ συγκαλεσάμενος τοὺς ἀρχιερεῖς καὶ τοὺς ἄρχοντας καὶ τὸν λαὸν εἶπεν πρὸς αὐτούς· προσηνέγκατέ μοι τὸν ἄνθρωπον τοῦτον ὡς ἀποστρέφοντα τὸν λαόν, καὶ ἰδοὺ ἐγὼ ἐνώπιον ὑμῶν ἀνακρίνας οὐθὲν εὗρον ἐν τῷ ἀνθρώπῳ τούτῳ αἴτιον ὧν κατηγορεῖτε κατ᾽ αὐτοῦ· ἀλλ᾽ οὐδὲ Ἡρῴδης, ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς, καὶ ἰδοὺ οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω."
         },
         {
-          "verse": 8,
+          "verse": 7,
           "canonical_ref": "Luke 23:18-19",
           "english": "And they cried out all at once, saying: 'Away with this man, and release to us Barabbas!' (Who for a certain sedition made in the city, and for murder, was cast into prison.)",
           "greek": "ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν."
         },
         {
-          "verse": 9,
+          "verse": 8,
           "canonical_ref": "Luke 23:21",
           "english": "But they cried out, saying: 'Crucify, crucify him!'",
           "greek": "οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν."
         },
         {
-          "verse": 10,
+          "verse": 9,
           "canonical_ref": "Luke 23:25",
           "english": "And he released to them him that for sedition and murder was cast into prison... but he delivered Jesus to their will.",
           "greek": "ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν."
         },
         {
-          "verse": 11,
+          "verse": 10,
           "canonical_ref": "Luke 23:26",
           "english": "And as they led him away, having seized Simon, a certain Cyrenian coming from the country, they laid upon him the cross to carry behind Jesus.",
           "greek": "Καὶ ὡς ἀπήγαγον αὐτόν, ἐπιλαβόμενοι Σίμωνά τινα Κυρηναῖον ἐρχόμενον ἀπ᾿ ἀγροῦ ἐπέθηκαν αὐτῷ τὸν σταυρὸν φέρειν ὄπισθεν τοῦ Ἰησοῦ."
         },
         {
-          "verse": 12,
+          "verse": 11,
           "canonical_ref": "Luke 23:32-33",
           "english": "And there were also two others, criminals, led with him to be put to death. And when they were come to the place, which is called Skull, there they crucified him, and the criminals, one on the right hand, and the other on the left.",
           "greek": "ἤγοντο δὲ καὶ ἕτεροι δύο κακοῦργοι σὺν αὐτῷ ἀναιρεθῆναι. Καὶ ὅτε ἀπῆλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους."
         },
         {
-          "verse": 13,
-          "canonical_ref": "Luke 23:34a",
-          "english": "[The prayer 'Father, forgive them' is UNATTESTED in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 14,
-          "canonical_ref": "Luke 23:34b",
-          "english": "[The narrative of soldiers dividing garments and casting lots is NOT PRESENT in this stratum]",
-          "greek": null
-        },
-        {
-          "verse": 15,
+          "verse": 12,
           "canonical_ref": "Luke 23:35",
           "english": "And the people stood watching. And the rulers also were mocking, saying: 'He saved others, let him save himself, if this is the Christ of God, the Chosen One.'",
           "greek": "Καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες λέγοντες· Ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς τοῦ θεοῦ ὁ ἐκλεκτός."
         },
         {
-          "verse": 16,
+          "verse": 13,
           "canonical_ref": "Luke 23:38",
           "english": "And there was also an inscription over him: 'This is the king of the Jews.'",
           "greek": "ἦν δὲ καὶ ἐπιγραφὴ ἐπ᾿ αὐτῷ· Οὗτός ἐστιν ὁ βασιλεὺς τῶν Ἰουδαίων."
         },
         {
-          "verse": 17,
+          "verse": 14,
           "canonical_ref": "Luke 23:39-40",
           "english": "And one of the criminals who were hanged railed on him, saying: 'If you are the Christ, save yourself and us!' But the other answering rebuked him, saying: 'Do you not fear God, seeing you are in the same condemnation?'",
           "greek": "εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτὸν λέγων· οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς. ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ;"
         },
         {
-          "verse": 18,
+          "verse": 15,
           "canonical_ref": "Luke 23:42-43",
           "english": "And he said to Jesus: 'Lord, remember me when you come into your kingdom.' And Jesus said to him: 'Verily I say to you, today you shall be with me in Paradise.'",
           "greek": "καὶ ἔλεγεν· Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς εἰς τὴν βασιλείαν σου. καὶ εἶπεν αὐτῷ· ἀμήν σοι λέγω, σήμερον μετ᾿ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ."
         },
         {
-          "verse": 19,
+          "verse": 16,
           "canonical_ref": "Luke 23:44-45",
           "english": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour. And the sun was darkened, and the veil of the temple was rent in the midst.",
           "greek": "Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ᾿ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον."
         },
         {
-          "verse": 20,
+          "verse": 17,
           "canonical_ref": "Luke 23:46",
           "english": "And when Jesus had cried with a loud voice, he said: 'Father, into your hands I commend my spirit'; and having said thus, he expired.",
           "greek": "καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν· Πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου· τοῦτο δὲ εἰπὼν ἐξέπνευσεν."
         },
         {
-          "verse": 21,
+          "verse": 18,
           "canonical_ref": "Luke 23:50-53",
           "english": "And, behold, there was a man named Joseph, a counselor... (The same had not consented to the counsel and deed of them)... This man went to Pilate, and begged the body of Jesus. And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, where never man before was laid.",
           "greek": "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων, ἀνὴρ ἀγαθὸς καὶ δίκαιος — οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν — οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ, καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος."
@@ -4190,66 +4124,54 @@
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 24:12",
-          "english": "[The account of Peter running to the tomb is a secondary interpolation found in the Alexandrian tradition but absent in the Western and Marcionite layers]",
-          "greek": null
-        },
-        {
-          "verse": 6,
           "canonical_ref": "Luke 24:13-16",
           "english": "And behold, two of them on that same day were going to a village sixty stadia from Jerusalem, whose name was Emmaus, and they were talking to each other about all these things that had happened. And it happened that while they were talking and debating, Jesus himself drew near and went with them. But their eyes were held so they did not recognize him.",
           "greek": "Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλήμ, ᾗ ὄνομα Ἐμμαοῦς, καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων. καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς, οἱ δὲ ὀφθαλμοὶ αὐτῶν ἐκρατοῦντο τοῦ μὴ ἐπιγνῶναι αὐτόν."
         },
         {
-          "verse": 7,
+          "verse": 6,
           "canonical_ref": "Luke 24:19",
           "english": "And he said to them: 'What things?' And they said to him: 'The things concerning Jesus the Nazarene, who was a man, a prophet mighty in deed and word before God and all the people.'",
           "greek": "καὶ εἶπεν αὐτοῖς· Ποῖα; οἱ δὲ εἶπαν αὐτῷ· τὰ περὶ Ἰησοῦ τοῦ Ναζωραίου, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ."
         },
         {
-          "verse": 8,
+          "verse": 7,
           "canonical_ref": "Luke 24:30-31",
           "english": "And it happened that when he reclined with them, taking the bread, he blessed and, breaking it, he gave it to them. Their eyes were opened, and they recognized him; and he became invisible to them.",
           "greek": "καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ' αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς· αὐτῶν δὲ διηνοίχθησαν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν· καὶ αὐτὸς ἄφαντος ἐγένετο ἀπ' αὐτῶν."
         },
         {
-          "verse": 9,
+          "verse": 8,
           "canonical_ref": "Luke 24:32",
           "english": "And they said to one another: 'Was not our heart burning within us while he spoke to us on the road, as he opened the scriptures to us?'",
           "greek": "καὶ εἶπαν πρὸς ἀλλήλους· Οὐχὶ ἡ καρδία ἡμῶν καιομένη ἦν ἐν ἡμῖν ὡς ἐλάλει ἡμῖν ἐν τῇ ὁδῷ, ὡς διήνοιγεν ἡμῖν τὰς γραφάς;"
         },
         {
-          "verse": 10,
+          "verse": 9,
           "canonical_ref": "Luke 24:36-39",
           "english": "While they were saying these things, he himself stood in the midst of them and said: 'Peace to you.' But being terrified and afraid, they thought they were seeing a spirit. And he said to them: 'Why are you troubled, and why do debates arise in your hearts?' 'See my hands and my feet, that it is I myself.'",
           "greek": "Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν. καὶ εἶπεν αὐτοῖς· Τί τεταραγμένοι ἐστὲ καὶ διὰ τί διαλογισμοὶ ἀναβαίνουσιν ἐν τῇ καρδίᾳ ὑμῶν; ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός."
         },
         {
-          "verse": 11,
-          "canonical_ref": "Luke 24:39b-43",
-          "english": "[The claims of 'flesh and bones' and the act of eating fish are omitted as late anti-Docetic additions. They were designed to materialize the resurrection in direct contradiction to the earlier Jamesian/Pauline teaching that 'flesh and blood cannot inherit the kingdom' (1 Cor 15:50)]",
-          "greek": null
-        },
-        {
-          "verse": 12,
+          "verse": 10,
           "canonical_ref": "Luke 24:44-45",
           "english": "And he said to them: \"These are my words which I spoke to you while I was still with you, that it is necessary for all things written in the law of Moses and the prophets and psalms about me to be fulfilled.\" Then he opened their mind to understand the scriptures.",
           "greek": "Εἶπεν δὲ πρὸς αὐτούς· Οὗτοι οἱ λόγοι μου οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ τοῖς προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ. τότε διήνοιξεν αὐτῶν τὸν νοῦν τοῦ συνιέναι τὰς γραφάς."
         },
         {
-          "verse": 13,
+          "verse": 11,
           "canonical_ref": "Luke 24:47-48",
           "english": "...and that repentance into forgiveness of sins should be proclaimed in his name to all the nations. You are witnesses of these things.",
           "greek": "...κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη. ὑμεῖς μάρτυρες τούτων."
         },
         {
-          "verse": 14,
+          "verse": 12,
           "canonical_ref": "Luke 24:51",
           "english": "And it happened while he was blessing them, he parted from them.",
           "greek": "καὶ ἐγένετο ἐν τῷ εὐλογεῖν αὐτὸν αὐτοὺς διέστη ἀπ' αὐτῶν."
         },
         {
-          "verse": 15,
+          "verse": 13,
           "canonical_ref": "Luke 24:52-53",
           "english": "...they returned to Jerusalem with great joy, and they were continually in the Temple praising and blessing God.",
           "greek": "...ὑπέστρεψαν εἰς Ἰερουσαλήμ μετὰ χαρᾶς μεγάλης, καὶ ἦσαν διὰ παντὸς ἐν τῷ ἱερῷ αἰνοῦντες καὶ εὐλογοῦντες τὸν θεόν."
