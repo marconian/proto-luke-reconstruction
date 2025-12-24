@@ -270,7 +270,7 @@
         {
           "verse": 2,
           "canonical_ref": "Luke 6:13",
-          "english": "And when it became day, he called his disciples, and choosing twelve from them, whom also he named messengers.",
+          "english": "And when it became day, he called his disciples, and choosing twelve from them, whom also he named emissaries.",
           "greek": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾿ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν."
         },
         {
@@ -360,7 +360,7 @@
       ],
       "notes": [
         {
-          "term": "Messengers (ἀποστόλους - apostolous)",
+          "term": "Emissaries (ἀποστόλους - apostolous)",
           "explanation": "The dry fact of the Greek is \"sent ones\" or \"emissaries.\" This reconstruction avoids the later high-church \"Apostle\" to reflect the functional role of these men as agents of the Kingdom."
         },
         {
@@ -776,150 +776,138 @@
       "verses": [
         {
           "verse": 1,
-          "canonical_ref": "Luke 8:22",
-          "english": "And it came to pass on one of the days, he entered into a boat and his disciples, and said to them: \"Let us pass over to the other side of the lake.\" And they launched out.",
-          "greek": "Ἐγένετο δὲ ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ, καὶ εἶπεν πρὸς αὐτούς· Διέλθωμεν εἰς τὸ πέραν τῆς λίμνης· καὶ ἀνήχθησαν."
-        },
-        {
-          "verse": 2,
-          "canonical_ref": "Luke 8:24-25",
-          "english": "And they came to him and awakened him, saying: \"Master, Master, we perish!\" And he arose and rebuked the wind and the raging of the water; and they ceased, and there was a calm. And he said to them: \"Where is your faith?\"",
-          "greek": "προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· Ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα. ὁ δὲ ἐγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος· καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη. εἶπεν δὲ αὐτοῖς· Ποῦ ἡ πίστις ὑμῶν;"
-        },
-        {
-          "verse": 3,
           "canonical_ref": "Luke 8:26",
           "english": "And they sailed down to the region of the Gerasenes, which is over against Galilee.",
           "greek": "Καὶ κατέπλευσαν εἰς τὴν χώραν τῶν Γερασηνῶν, ἥτις ἐστὶν ἀντιπέρα τῆς Γαλιλαίας."
         },
         {
-          "verse": 4,
+          "verse": 2,
           "canonical_ref": "Luke 8:27",
           "english": "And when he went out upon the land, a certain man from the city met him who had daimons for a long time.",
           "greek": "ἐξελθόντι δὲ αὐτῷ ἐπὶ τὴν γῆν ὑπήντησεν ἀνήρ τις ἐκ τῆς πόλεως ἔχων δαιμόνια χρόνῳ ἱκανῷ."
         },
         {
-          "verse": 5,
+          "verse": 3,
           "canonical_ref": "Luke 8:28",
           "english": "And when he saw Jesus, he cried out, and fell down before him, and with a loud voice said: \"What is to me and to you, Jesus, Son of the Most High God? I beseech you, do not torment me.\"",
           "greek": "ἰδὼν δὲ τὸν Ἰησοῦν ἀνακράξας προσέπεσεν αὐτῷ καὶ φωνῇ μεγάλῃ εἶπεν· Τί ἐμοὶ καὶ σοί, Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; δέομαί σου, μή με βασανίσῃς."
         },
         {
-          "verse": 6,
+          "verse": 4,
           "canonical_ref": "Luke 8:30",
           "english": "And Jesus asked him: \"What is your name?\" and he said, \"Legion,\" because many daimons had entered into him.",
           "greek": "ἐπηρώτησεν δὲ αὐτὸν ὁ Ἰησοῦς· Τί σοί ἐστιν ὄνομα; ὁ δὲ εἶπεν· Λεγιών, ὅτι δαιμόνια πολλὰ εἰσῆλθεν εἰς αὐτόν."
         },
         {
-          "verse": 7,
+          "verse": 5,
           "canonical_ref": "Luke 8:31",
           "english": "And they were begging him that he would not command them to go away into the abyss.",
           "greek": "καὶ παρεκάλουν αὐτὸν ἵνα μὴ ἐπιτάξῃ αὐτοῖς εἰς τὴν ἄβυσσον ἀπελθεῖν."
         },
         {
-          "verse": 8,
+          "verse": 6,
           "canonical_ref": "Luke 8:32-33",
           "english": "Now there was a herd of many swine feeding on the mountain; and they begged him to allow them to enter into those. And he allowed them. And the daimons, coming out from the man, entered into the swine, and the herd rushed down the cliff into the lake and were drowned.",
           "greek": "ἦν δὲ ἐκεῖ ἀγέλη χοίρων ἱκανῶν βοσκομένων ἐν τῷ ὄρει· καὶ παρεκάλουν αὐτὸν ἵνα ἐπιτρέψῃ αὐτοῖς εἰς ἐκείνους εἰσελθεῖν· καὶ ἐπέτρεψεν αὐτοῖς. ἐξελθόντα δὲ τὰ δαιμόνια ἀπὸ τοῦ ἀνθρώπου εἰσῆλθον εἰς τοὺς χοίρους, καὶ ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν λίμνην καὶ ἀπεπνίγη."
         },
         {
-          "verse": 9,
+          "verse": 7,
           "canonical_ref": "Luke 8:40-41",
           "english": "And it happened, when Jesus returned, the crowd welcomed him, for they were all expecting him. And behold, there came a man whose name was Jairus, and he was a ruler of the assembly; and falling at the feet of Jesus, he was begging him to enter into his house.",
           "greek": "Ἐν δὲ τῷ ὑποστρέφειν τὸν Ἰησοῦν ἀπεδέξατο αὐτὸν ὁ ὄχλος· ἦσαν γὰρ πάντες προσδοκῶντες αὐτόν. καὶ ἰδοὺ ἦλθεν ἀνὴρ ᾧ ὄνομα Ἰάϊρος καὶ οὗτος ἄρχων τῆς συναγωγῆς ὑπῆρχεν, καὶ πεσὼν παρὰ τοὺς πόδας Ἰησοῦ παρεκάλει αὐτὸν εἰσελθεῖν εἰς τὸν οἶκον αὐτοῦ."
         },
         {
-          "verse": 10,
+          "verse": 8,
           "canonical_ref": "Luke 8:42",
           "english": "For he had an only daughter, about twelve years old, and she was dying.",
           "greek": "ὅτι θυγάτηρ μονογενὴς ἦν αὐτῷ ὡς ἐτῶν δώδεκα καὶ αὐτὴ ἀπέθνησκεν."
         },
         {
-          "verse": 11,
+          "verse": 9,
           "canonical_ref": "Luke 8:43-44",
           "english": "And a woman being in a flow of blood for twelve years, coming up behind, touched the fringe of his garment, and immediately the flow of her blood stopped.",
           "greek": "καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα, προσελθοῦσα ὄπισθεν ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ, καὶ παραχρῆμα ἔστη ἡ ῥύσις τοῦ αἵματος αὐτῆς."
         },
         {
-          "verse": 12,
+          "verse": 10,
           "canonical_ref": "Luke 8:45",
           "english": "And Jesus said: \"Who touched me?\"",
           "greek": "καὶ εἶπεν ὁ Ἰησοῦς· Τίς μου ἥψατο;"
         },
         {
-          "verse": 13,
+          "verse": 11,
           "canonical_ref": "Luke 8:46",
           "english": "But Jesus said: \"Someone touched me, for I knew power going out from me.\"",
           "greek": "ὁ δὲ Ἰησοῦς εἶπεν· Ἥψατό μού τις, ἐγὼ γὰρ ἔγνων δύναμιν ἐξεληλυθυῖαν ἀπ᾿ ἐμοῦ."
         },
         {
-          "verse": 14,
+          "verse": 12,
           "canonical_ref": "Luke 8:48",
           "english": "And he said to her: \"Daughter, your faith has saved you; go in peace.\"",
           "greek": "ὁ δὲ εἶπεν αὐτῇ· Θυγάτηρ, ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην."
         },
         {
-          "verse": 15,
+          "verse": 13,
           "canonical_ref": "Luke 8:54-55",
           "english": "But he, taking hold of her hand, called, saying: \"Child, arise.\" And her spirit returned, and she arose immediately.",
           "greek": "αὐτὸς δὲ κρατήσας τῆς χειρὸς αὐτῆς ἐφώνησεν λέγων· Ἡ παῖς, ἐγείρου. καὶ ἐπέστρεψεν τὸ πνεῦμα αὐτῆς, καὶ ἀνέστη παραχρῆμα."
         },
         {
-          "verse": 16,
+          "verse": 14,
           "canonical_ref": "Luke 9:1-2",
           "english": "And calling together the twelve, he gave them power and authority over all the daimons and to heal diseases. And he sent them to announce the kingdom of God and to heal.",
           "greek": "Συγκαλεσάμενος δὲ τοὺς δώδεκα ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν· καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι τοὺς ἀσθενεῖς."
         },
         {
-          "verse": 17,
+          "verse": 15,
           "canonical_ref": "Luke 9:3",
           "english": "And he said to them: \"Take nothing for the road, neither staff, nor scrip, nor bread, nor silver, nor to have two tunics.\"",
           "greek": "καὶ εἶπεν πρὸς αὐτούς· Μηδὲν αἴρετε εἰς τὴν ὁδόν, μήτε ῥάβδον μήτε πήραν μήτε ἄρτον μήτε ἀργύριον."
         },
         {
-          "verse": 18,
+          "verse": 16,
           "canonical_ref": "Luke 9:5",
           "english": "\"And as many as do not receive you, going out from that city, shake off the dust from your feet for a testimony against them.\"",
           "greek": "καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον ἐπ᾿ αὐτούς."
         },
         {
-          "verse": 19,
+          "verse": 17,
           "canonical_ref": "Luke 9:6",
           "english": "And going out, they were going through the villages, announcing the good news and healing everywhere.",
           "greek": "ἐξερχόμενοι δὲ διήρχοντο κατὰ τὰς κώμας εὐαγγελιζόμενοι καὶ θεραπεύοντες πανταχοῦ."
         },
         {
-          "verse": 20,
+          "verse": 18,
           "canonical_ref": "Luke 9:7-8",
           "english": "And Herod the tetrarch heard all the things being done and was perplexed because it was said by some that John had been raised from the dead, and by some that Elijah had appeared, and by others that a certain prophet of the ancients had risen.",
           "greek": "Ἤκουσεν δὲ Ἡρώδης ὁ τετραάρχης τὰ γινόμενα πάντα καὶ διηπόρει διὰ τὸ λέγεσθαι ὑπό τινων ὅτι Ἰωάννης ἠγέρθη ἐκ νεκρῶν, ὑπό τινων δὲ ὅτι Ἠλίας ἐφάνη, ἄλλων δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη."
         },
         {
-          "verse": 21,
+          "verse": 19,
           "canonical_ref": "Luke 9:10-11",
-          "english": "And the messengers, having returned, described to him as many things as they had done. And taking them, he withdrew privately into a city called Bethsaida. But the crowds, knowing, followed him; and receiving them, he was speaking to them about the kingdom of God, and those having need of healing he was healing.",
+          "english": "And the emissaries, having returned, described to him as many things as they had done. And taking them, he withdrew privately into a city called Bethsaida. But the crowds, knowing, followed him; and receiving them, he was speaking to them about the kingdom of God, and those having need of healing he was healing.",
           "greek": "Καὶ ὑποστρέψαντες οἱ ἀπόστολοι διηγήσαντο αὐτῷ ὅσα ἐποίησαν. καὶ παραλαβὼν αὐτοὺς ὑπεχώρησεν κατ᾿ ἰδίαν εἰς πόλιν καλουμένην Βηθσαϊδά. οἱ δὲ ὄχλοι γνόντες ἠκολούθησαν αὐτῷ· καὶ ἀποδεξάμενος αὐτοὺς ἐλάλει αὐτοῖς περὶ τῆς βασιλείας τοῦ θεοῦ, καὶ τοὺς χρείαν ἔχοντας θεραπείας ἰᾶτο."
         },
         {
-          "verse": 22,
+          "verse": 20,
           "canonical_ref": "Luke 9:12",
           "english": "And the day began to decline; and the twelve came and said to him: \"Send away the multitude, that they may go into the villages and country round about, and lodge, and get provisions, for here we are in a desert place.\"",
           "greek": "Ἡ δὲ ἡμέρα ἤρξατο κλίνειν· προσελθόντες δὲ οἱ δώδεκα εἶπαν αὐτῷ· Ἀπόλυσον τὸν ὄχλον, ἵνα πορευθέντες εἰς τὰς κύκλῳ κώμας καὶ ἀγροὺς καταλύσωσιν καὶ εὕρωσιν ἐπισιτισμόν, ὅτι ὧδε ἐν ἐρήμῳ τόπῳ ἐσμέν."
         },
         {
-          "verse": 23,
+          "verse": 21,
           "canonical_ref": "Luke 9:13-14",
           "english": "But he said to them: \"You give them something to eat.\" And they said: \"There are not to us more than five loaves and two fishes.\" For they were about five thousand men.",
           "greek": "εἶπεν δὲ πρὸς αὐτούς· Δότε αὐτοῖς ὑμεῖς φαγεῖν. οἱ δὲ εἶπαν· Οὐκ εἰσὶν ἡμῖν πλεῖον ἢ ἄρτοι πέντε καὶ ἰχθύες δύο. ἦσαν γὰρ ὡσεὶ ἄνδρες πεντακισχίλιοι."
         },
         {
-          "verse": 24,
+          "verse": 22,
           "canonical_ref": "Luke 9:16",
           "english": "And taking the five loaves and the two fishes, looking up into the heaven, he blessed them and broke them.",
           "greek": "λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ."
         },
         {
-          "verse": 25,
+          "verse": 23,
           "canonical_ref": "Luke 9:17",
           "english": "And they ate and were all satisfied.",
           "greek": "καὶ ἔφαγον καὶ ἐχορτάσθησαν πάντες."
@@ -1458,7 +1446,7 @@
         {
           "verse": 10,
           "canonical_ref": "Luke 11:17-18",
-          "english": "But he, knowing their thoughts, said to them: \"Every kingdom divided against itself is brought to desolation, and house falls upon house. And if Satan also is divided against himself, how shall his kingdom stand?\"",
+          "english": "But he, knowing their thoughts, said to them: \"Every kingdom divided against itself is brought to desolation, and house falls upon house. And if the Adversary also is divided against himself, how shall his kingdom stand?\"",
           "greek": "εἰδὼς δὲ αὐτῶν τὰ διανοήματα εἶπεν αὐτοῖς· Πᾶσα βασιλεία ἐφ᾽ ἑαυτὴν διαμερισθεῖσα ἐρημοῦται, καὶ οἶκος ἐπὶ οἶκον πίπτει. εἰ δὲ καὶ ὁ σατανᾶς ἐφ᾽ ἑαυτὸν διεμερίσθη, πῶς σταθήσεται ἡ βασιλεία αὐτοῦ;"
         },
         {
@@ -1946,7 +1934,7 @@
         {
           "verse": 3,
           "canonical_ref": "Luke 13:16",
-          "english": "\"And this woman, being a daughter of Abraham, whom the Satan bound—behold, for eighteen years—was it not necessary to be loosed from this bond on the day of the Sabbath?\"",
+          "english": "\"And this woman, being a daughter of Abraham, whom the Adversary bound—behold, for eighteen years—was it not necessary to be loosed from this bond on the day of the Sabbath?\"",
           "greek": "ταύτην δὲ θυγατέρα Ἀβραὰμ οὖσαν, ἣν ἔδησεν ὁ Σατανᾶς ἰδοὺ δεκαοκτὼ ἔτη, οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου;"
         },
         {
@@ -2018,8 +2006,8 @@
           "explanation": "The Greek term refers specifically to a feeding trough; the comparison is used to expose the inconsistency of the legalistic restrictions on the Sabbath."
         },
         {
-          "term": "The Satan (ὁ Σατανᾶς - ho Satanas)",
-          "explanation": "The Greek retains the definite article, designating a functional entity or personification of unrighteousness rather than a proper name."
+          "term": "The Adversary (ὁ Σατανᾶς - ho Satanas)",
+          "explanation": "The Greek retains the definite article (ὁ), signifying a functional title rather than a personal name. Rendered as 'the Adversary' (from Hebrew Śāṭān) to reflect its role as the personification of the cosmic 'Opposition' within the Jamesian/Zoroastrian dualism absorbed by the Jerusalem community. This entity functions as the prosecutor or 'stumbling block' within the eschatological framework."
         },
         {
           "term": "Garden (κῆπον - kēpon)",
@@ -2223,8 +2211,8 @@
           "explanation": "Refers specifically to the \"men\" of the institutional elite who were originally called."
         },
         {
-          "term": "Hate (μισεί - misei)",
-          "explanation": "Retained as the stark \"hate\" found in the Proto-Lukan/Marcionite layer, rejecting any attempts to soften it to \"love less,\" as it represents the radical asceticism of the Jerusalem Pillars."
+          "term": "Hate (μισεῖ - misei)",
+          "explanation": "Retained as the stark 'hate' found in the Proto-Lukan layer. Luke 14:26 is technically unattested in the direct lists of Marcionite variations (Tertullian, Epiphanius, Adamantius), though Epiphanius references it in refutation 70. The harsh formulation aligns with the radical ascetic requirements of the L/Q source substrate; 'love less' is an ecclesiastical softening unsupported by the primitive text. In the Jamesian stratum, μισεῖ functions as a forensic requirement to detach the self from the 'Proprium' (self-love) and biological 'debris' that inhibit absolute loyalty to the spiritual order. This aligns with the Ebionim (The Poor), who practiced total liquidation of private property and material ties. While Mark uses family hostility as polemic against Jesus's biological family, the Jamesian Protograph utilizes this language as a requirement for 'final separation' from the maternal/finite self—James was simultaneously the Davidic 'Bulwark' and leader of a sect requiring renunciation of all possessions."
         },
         {
           "term": "Renounce all possessions (ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν)",
@@ -2395,7 +2383,7 @@
         {
           "verse": 5,
           "canonical_ref": "Luke 16:13",
-          "english": "\"No slave is able to serve two masters; for either he will hate the one and love the other, or he will hold to one and despise the other. You are not able to serve God and mammon.\"",
+          "english": "\"No house-slave is able to serve two masters; for either he will hate the one and love the other, or he will hold to one and despise the other. You are not able to serve God and mammon.\"",
           "greek": "Οὐδεὶς οἰκέτης δύναται δυσὶν κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ."
         },
         {
@@ -2420,7 +2408,7 @@
           "verse": 9,
           "canonical_ref": "Luke 16:17",
           "english": "\"It is easier for heaven and earth to pass than for one tittle of my words to pass.\"",
-          "greek": "εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τοῦ νόμου μίαν κεραίαν πεσεῖν."
+          "greek": "εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τῶν λόγων μου μίαν κεραίαν πεσεῖν."
         },
         {
           "verse": 10,
@@ -2503,8 +2491,8 @@
       ],
       "notes": [
         {
-          "term": "Excision of 16:1-8 (Unjust Steward)",
-          "explanation": "The Parable of the Unjust Steward is unattested as a narrative in this stratum, though its themes of stewardship inform the following verses. The transition moves directly from the recovery of the lost (Chapter 13) to the socio-economic mandates for the community of the Poor."
+          "term": "Status of 16:1-8 (Unjust Steward)",
+          "explanation": "CONFLICTING EVIDENCE. Tertullian (Adv. Marc. 4.33.1) explicitly alludes to 'that servant' (servi illius exemplum) who was removed from office and 'reduces the debts' of his master's debtors. This contradicts the claim that the parable was absent from the Marcionite layer. The parable was likely present in some form, with its themes of stewardship informing the subsequent verses on Mammon and faithful service."
         },
         {
           "term": "Mammon of unrighteousness (μαμωνᾶ τῆς ἀδικίας - mamōna tēs adikias)",
@@ -2515,8 +2503,8 @@
           "explanation": "While canonical texts read \"your own\" (τὸ ὑμέτερον), the Jamesian Protograph emphasizes that spiritual wealth is the specific property of the Messenger, which he chooses to share with the faithful. This establishes a clinical hierarchy: the Spirit's resources belong to the Messenger/Father, and the follower is merely a steward of what is \"His.\""
         },
         {
-          "term": "Slave (οἰκέτης - oiketēs)",
-          "explanation": "Strictly rendered as \"slave\" (specifically a house-slave) to reflect the total, singular loyalty required by the household economy of the Kingdom."
+          "term": "House-slave (οἰκέτης - oiketēs)",
+          "explanation": "The term derives from οἶκος (oikos), meaning house or household. It is strictly rendered as \"house-slave\" to reflect the total, singular loyalty required within the specific \"household economy\" (oikonomia) of the Kingdom mission. This distinguishes it from the generic δοῦλος (doulos), preserving the specific dualism of the passage: one cannot be a domestic agent of the Kingdom while maintaining a domestic contract with Mammon."
         },
         {
           "term": "Abomination (βδέλυγμα - bdelygma)",
@@ -2532,7 +2520,7 @@
         },
         {
           "term": "My words (τῶν λόγων μου - tōn logōn mou)",
-          "explanation": "Multiple sources indicate that in this stratum, the permanence of Jesus's own proclamation replaces the permanence of the Mosaic Law."
+          "explanation": "This reading replaces the canonical 'the Law' (τοῦ νόμου). In the Jamesian Protograph, the authority of the 'Old Aeon' (the Law and Prophets) reaches its terminus with John. The permanence once ascribed to the Torah is transferred to the pneumatic proclamation of the Savior. Tertullian notes this specific 'emendation,' though forensically it is treated as the original reading of the Proto-Lukan source. The replacement identifies the Messenger as a new Lawgiver whose internal 'Law of Love' supersedes the external ritual requirements of the Temple cult."
         },
         {
           "term": "Lazarus (Λάζαρος - Lazaros)",
@@ -2745,7 +2733,7 @@
         },
         {
           "term": "Naaman Precedent (Luke 4:27)",
-          "explanation": "The structural displacement of the Naaman reference into this narrative is a primary characteristic of the Jamesian Protograph, providing a forensic scriptural warrant for the healing of the non-Israelite."
+          "explanation": "The structural displacement of the Naaman reference into this narrative is explicitly attested by the primary forensic witnesses. Tertullian (Adv. Marc. 4.35.6) links the Naaman reference to the healing of the ten lepers, stating that Christ 'prefaced' (praefatus est) the healing with this historical precedent. Epiphanius (Pan. 42.11.6, scholion 48) identifies this verse as occurring within the Luke 17 pericope, noting that Marcion 'cut away much' (ἀπέκοψε δὲ πολλά) from the original and replaced/supplemented it with the Naaman reference (ἄλλα ἀντὶ ἄλλων ἐποίησε). Based on these data points (Harnack/Tsutsui), forensic reconstructions place Luke 4:27 immediately before Luke 17:14 in the Jamesian Protograph. Evidence of canonical displacement exists in Luke 4:23's reference to Capernaum miracles before Jesus arrives there narratively—proving editorial rearrangement of a pre-existing source."
         },
         {
           "term": "Priests (ἱερεῦσιν - hiereusin)",
@@ -2891,8 +2879,8 @@
         {
           "verse": 13,
           "canonical_ref": "Luke 18:20",
-          "english": "The Ruler said: \"I know the commandments: You should not commit adultery, you should not kill, you should not steal, you should not bear false witness, honour your father and your mother.\"",
-          "greek": "ὁ δὲ ἄρχων εἶπεν· Τὰς ἐντολὰς οἶδα· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου."
+          "english": "The Ruler said: \"I know the commandments: You should not commit adultery, you should not kill, you should not steal, you should not bear false witness, honour father and mother.\"",
+          "greek": "ὁ δὲ ἄρχων εἶπεν· Τὰς ἐντολὰς οἶδα· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα καὶ τὴν μητέρα."
         },
         {
           "verse": 14,
@@ -2986,7 +2974,7 @@
         },
         {
           "term": "I know the commandments (Τὰς ἐντολὰς οἶδα - Tas entolas oida)",
-          "explanation": "This is the definitive Jamesian variant where the Ruler asserts personal mastery over the Law, treating it as a baseline of knowledge rather than the climax of the Messenger's teaching. In the Jamesian Protograph and Marcionite witnesses, this phrase is spoken by the Ruler as a statement of his own standing, rather than by Jesus as an instruction."
+          "explanation": "This is the definitive Jamesian variant where the Ruler asserts personal mastery over the Law. The Adamantius Dialogue (92,29) explicitly introduces a speaker shift with 'ὁ δὲ ἔφη' (but he said), indicating the ruler begins his recitation at this point. Epiphanius (Pan. 42.11.6, scholion 50) records the reading 'I know (οἶδα)' rather than the canonical 'You know (οἶδας).' Scholars (Zahn, Lieu) argue that placing the Law in the mouth of the ruler serves to relieve Jesus of any direct appeal to the law. Tertullian (Marc. 4.36.4, 7) contradicts this variant, recording Jesus as the speaker with 'nostis/scis' (you know), suggesting variation between Greek and Latin copies. Tertullian (4.36.5) also omits the possessive 'your' (σου) after 'father,' a reading reflected in this reconstruction."
         },
         {
           "term": "Guarded (ἐφύλαξα - ephylaxa) in 18:21",
@@ -3597,7 +3585,7 @@
         },
         {
           "term": "Abomination of Desolation (βδέλυγμα τῆς ἐρημώσεως)",
-          "explanation": "CRITICAL FORENSIC RESTORATION. Canonical Luke 21:20 (post-70 CE) reads 'surrounded by armies,' but the Jamesian Protograph/Marcionite layer preserves the cryptic Danielic phrase also found in Mark 13:14. This functioned as the 'Oracle' mentioned by Eusebius that warned the Jerusalem Church to flee to Pella before the circumvallation was complete."
+          "explanation": "CRITICAL FORENSIC RESTORATION. The term βδέλυγμα (bdelygma) refers to something ritually detestable, while ἐρήμωσις (erēmōseōs) denotes a clinical laying-waste. Tertullian (Adv. Marc. 4.39.9) actually attests the canonical reading 'surrounded by armies' (vallari exercitibus), indicating his Latin copy had already been updated to conform to historical events. However, forensic stratigraphy identifies the 'armies' detail as a vaticinium ex eventu—a prophecy written after the fact to match the Roman siege of Titus. The 'Abomination' warning (matching Mark 13:14, Matthew 24:15) provided the pre-emptive signal required for the Jerusalem Church to flee to Pella, as mentioned by Eusebius. A warning of 'armies surrounding the city' is clinically useless for flight since the city would already be sealed. This restoration identifies the Jamesian Protograph as a document drafted before 70 CE."
         },
         {
           "term": "Distress (συνοχή - synochē)",
@@ -3709,7 +3697,7 @@
         {
           "verse": 10,
           "canonical_ref": "Luke 22:31-34",
-          "english": "Simon, Simon, behold, the adversary has demanded to sift you like wheat. But I have prayed for you that your faith may not fail; and you, when you have turned back, strengthen your brothers. But he said to him: 'Lord, I am ready to go with you both to prison and to death.' But he said: 'I say to you, Peter, a cock will not crow today until you have three times denied that you know me.'",
+          "english": "Simon, Simon, behold, the Adversary has demanded to sift you like wheat. But I have prayed for you that your faith may not fail; and you, when you have turned back, strengthen your brothers. But he said to him: 'Lord, I am ready to go with you both to prison and to death.' But he said: 'I say to you, Peter, a cock will not crow today until you have three times denied that you know me.'",
           "greek": "Σίμων Σίμων, ἰδοὺ ὁ σατανᾶς ἐξῃτήσατο ὑμᾶς τοῦ σινιάσαι ὡς τὸν σῖτον· ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου. ὁ δὲ εἶπεν· λέγω σοι, Πέτρε, οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι."
         },
         {
@@ -3784,7 +3772,7 @@
         },
         {
           "term": "Western Short Text (22:19b-20 Omitted)",
-          "explanation": "The forensic reconstruction follows the Western/Marcionite layer, which excises the 'longer reading' regarding the cup being the 'blood of the new covenant poured out for you.' In this stratum, the meal is an eschatological transition, not a vicarious atonement ritual."
+          "explanation": "CONTESTED. The forensic reconstruction follows the Western/Marcionite layer (D, Old Latin), which omits the second cup with 'blood of the new covenant poured out for you.' However, Tertullian (Adv. Marc. 4.40.4) alludes to 'blood sealing,' suggesting conflicting witnesses. Epiphanius omits the second cup entirely. In the primitive stratum, the meal was an eschatological anticipation for the 'Poor' (Ebionim), not a Pauline mystery cult centered on vicarious atonement. The evidence is genuinely divided between witnesses."
         },
         {
           "term": "Among yourselves (ἑαυτούς - heautous)",
@@ -3819,8 +3807,8 @@
           "explanation": "The term used for an insurrectionist or social bandit, highlighting the Temple elite's attempt to categorize the movement as a political threat."
         },
         {
-          "term": "The adversary (ὁ Σατανᾶς - ho Satanas)",
-          "explanation": "Translated as 'the adversary' to reflect the functional role of the prosecutor in the transition between aeons."
+          "term": "The Adversary (ὁ Σατανᾶς - ho Satanas)",
+          "explanation": "Rendered as 'the Adversary' to reflect the functional role of the prosecutor in the transition between aeons. The verb ἐξῃτήσατο (exētēsato) is a forensic term meaning 'to demand for trial' or 'to claim by legal suit,' reinforcing the identity of this entity as a celestial prosecutor rather than a mythological demon."
         },
         {
           "term": "Omission of Two Swords (22:35-38)",
@@ -3998,8 +3986,8 @@
           "explanation": "The elite view the spread of the Word as a forensic disturbance. The geographic scope (Galilee to Judea) marks the clinical progression of the Spirit's descent."
         },
         {
-          "term": "Herod pericope variance",
-          "explanation": "Tertullian and Epiphanius confirm Herod's presence in some versions, reflecting the consensus of local and imperial authorities in rejecting the Messenger. The Greek reconstruction may excise it as harmonization."
+          "term": "Herod pericope (Luke 23:6-12)",
+          "explanation": "RETAINED. Tertullian (Adv. Marc. 4.42.3) provides detailed attestation: Jesus is sent to Herod as a 'munus' (gift), Herod is 'delectatus' (delighted), 'exspectaverat' (had long expected), 'interrogavit' (questioned him), and 'nec vocem ullam ab eo audivit' (heard no voice from him). Epiphanius confirms without flagging as interpolation. The vocabulary ἐξουθενήσας (treated with contempt) represents forensic nullification of Jesus's status; ἐσθῆτα λαμπρὰν (shining robe) functions as mockery of the pneumatic claim. The sequence provides a dual judicial rejection (Herod/Pilate) essential to the trial narrative."
         },
         {
           "term": "Nothing blameworthy (οὐθὲν αἴτιον - outhen aition)",
