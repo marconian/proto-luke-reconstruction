@@ -796,14 +796,14 @@
         {
           "id": 2,
           "term": "ἰαθήτω (iathētō)",
-          "verse_refs": [4],
+          "verse_refs": [3],
           "category": "translation",
           "explanation": "Passive imperative: \"let him be healed.\" The centurion recognizes that the Savior's word operates as a forensic command over physical reality."
         },
         {
           "id": 3,
           "term": "In Israel (ἐν τῷ Ἰσραήλ)",
-          "verse_refs": [5],
+          "verse_refs": [4],
           "category": "textual",
           "explanation": "Tertullian and Epiphanius both preserve this word order, which places the emphasis on the lack of internal spiritual loyalty within the established religious center."
         },
@@ -1376,7 +1376,7 @@
           "id": 14,
           "term": "ἐγείρου (egeirou)",
           "explanation": "Imperative: \"Be awakened\" or \"rise.\" The command is addressed to the spirit (πνεῦμα), which is recorded as \"returning\" (epestrepsen) to the biological shell.",
-          "verse_refs": [14],
+          "verse_refs": [13],
           "category": "translation"
         },
         {
@@ -3002,7 +3002,7 @@
           "id": 16,
           "term": "Renounce all possessions (ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν)",
           "explanation": "\"Says farewell to all his possessions.\" This is the definitive forensic requirement for entry into the community of the Poor. Discipleship is contingent upon the total liquidation of private material goods.",
-          "verse_refs": [14],
+          "verse_refs": [13],
           "category": "theological"
         }
       ],
