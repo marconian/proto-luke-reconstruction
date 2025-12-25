@@ -95,24 +95,24 @@
         },
         {
           "id": 8,
-          "term": "Omission of 3:21–4:13",
+          "term": "Omission of 3:19–4:13 (The Orthodox Wrapper)",
           "verse_refs": [],
           "category": "excision",
-          "explanation": "The Baptism of John and the Temptation in the Wilderness are absent in this earliest stratum. This preserves a Christology where the Savior requires no validation from the prophets of the old aeon, appearing as a fully empowered agent of the Divine."
+          "explanation": "The Baptism, Genealogy, and Temptation (Luke 3:19–4:13) constitute the 'Orthodox Wrapper'—second-century interpolations designed to domesticate the Messenger. In the Jamesian/Marcionite stratum, these are absent because they subordinate the Christ to John the Baptist or test him against the 'Creator' of the old aeon. The Protograph's Christ descends fully empowered, requiring no validation. By joining 3:1a directly to 4:31, the reconstruction restores the Incipit of the earliest Gospel sequence."
         },
         {
           "id": 9,
-          "term": "Excision of 3:2–3:22",
+          "term": "Vertical Christology: κατῆλθεν (katēlthen)",
           "verse_refs": [],
-          "category": "excision",
-          "explanation": "The narrative of John's baptism and the genealogy are entirely absent. The \"word of God\" (ῥῆμα θεοῦ) in verse 2 is treated as an interpolation to link the Messenger to the old prophetic modulo."
+          "category": "theological",
+          "explanation": "In canonical Luke, 'coming down' (κατῆλθεν) refers to geographical travel from Nazareth's hills to seaside Capernaum. In the Protograph, however, with the Tiberius/Pilate dating immediately preceding (3:1), the word signifies a pneumatic descent into history—the sudden appearance of the Messenger in ultimates rather than local geography."
         }
       ]
     },
     {
       "chapter": 2,
       "title": "Proto-Luke Chapter 2",
-      "preamble": "Following the rejection at Nazareth, the narrative shifts to the clinical manifestations of the Spirit's power in Capernaum and the subsequent formation of the core community.",
+      "preamble": "In the reconstructed Jamesian sequence, the Capernaum ministry precedes the Nazareth rejection. This exorcism provides the empirical proof of authority that the Nazareth crowd later references in Luke 4:23 ('whatever we heard happened in Capernaum'). The canonical order reveals editorial fatigue—Luke's thematic front-loading created a structural inconsistency where Jesus is challenged about Capernaum miracles before he has visited Capernaum.",
       "verses": [
         {
           "verse": 1,
@@ -365,89 +365,107 @@
         {
           "verse": 2,
           "canonical_ref": "Luke 6:13",
-          "english": "And when it became day, he called his disciples, and choosing twelve from them, whom also he named emissaries.",
-          "greek": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾿ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν."
+          "english": "And when it became day, he called his disciples; and choosing from them twelve, whom he also designated as emissaries:",
+          "greek": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾿ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν·"
         },
         {
           "verse": 3,
+          "canonical_ref": "Luke 6:14",
+          "english": "Simon, whom also he named Peter, and Andrew his brother, [and James and John]...",
+          "greek": "Σίμωνα, ὃν καὶ ὠνόμασεν Πέτρον, καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, {καὶ Ἰάκωβον καὶ Ἰωάννην}..."
+        },
+        {
+          "verse": 4,
+          "canonical_ref": "Luke 6:15",
+          "english": "...",
+          "greek": "..."
+        },
+        {
+          "verse": 5,
+          "canonical_ref": "Luke 6:16",
+          "english": "[and Judas of James] and Judas Iscariot, who became a betrayer.",
+          "greek": "{καὶ Ἰούδαν Ἰακώβου} καὶ Ἰούδαν Ἰσκαριώθ, ὃς ἐγένετο προδότης."
+        },
+        {
+          "verse": 6,
           "canonical_ref": "Luke 6:17-19",
           "english": "And coming down with them, he stood on a level place, and a great crowd of his disciples, and a great multitude of the people from all Judea and Jerusalem and the coast of Tyre and Sidon, who came to hear him and to be healed from their diseases; and those troubled by unclean spirits were being healed. And all the crowd was seeking to touch him, because power was going out from him and healing all.",
           "greek": "Καὶ καταβὰς μετ᾿ αὐτῶν ἔστη ἐπὶ τόπου πεδινοῦ, καὶ ὄχλος πολὺς μαθητῶν αὐτοῦ, καὶ πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς Ἰουδαίας καὶ Ἱερουσαλήμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος, οἳ ἦλθον ἀκοῦσαι αὐτοῦ καὶ ἰαθῆναι ἀπὸ τῶν νόσων αὐτῶν· καὶ οἱ ἐνοχλούμενοι ἀπὸ πνευμάτων ἀκαθάρτων ἐθεραπεύοντο. καὶ πᾶς ὁ ὄχλος ἐζήτουν ἅπτεσθαι αὐτοῦ, ὅτι δύναμις παρ᾿ αὐτοῦ ἐξήρχετο καὶ ἰᾶτο πάντας."
         },
         {
-          "verse": 4,
+          "verse": 7,
           "canonical_ref": "Luke 6:20",
           "english": "And he, lifting up his eyes upon his disciples, said: \"Blessed are you, the poor, for yours is the kingdom of God.\"",
           "greek": "Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· Μακάριοι οἱ πτωχοί, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τοῦ θεοῦ."
         },
         {
-          "verse": 5,
+          "verse": 8,
           "canonical_ref": "Luke 6:21",
           "english": "Blessed are you who hunger now, for you shall be satisfied. Blessed are you who weep now, for you shall laugh.",
           "greek": "μακάριοι οἱ πεινῶντες νῦν, ὅτι χορτασθήσεσθε. μακάριοι οἱ κλαίοντες νῦν, ὅτι γελάσετε."
         },
         {
-          "verse": 6,
+          "verse": 9,
           "canonical_ref": "Luke 6:22-23",
           "english": "Blessed are you when men hate you, and when they exclude you and reproach you and cast out your name as evil, on account of the son of man. Rejoice in that day and leap for joy, for behold, your reward is great in the heaven; for according to the same things their fathers did to the prophets.",
           "greek": "μακάριοί ἐστε ὅταν μισήσωσιν ὑμᾶς οἱ ἄνθρωποι καὶ ὅταν ἀφορίσωσιν ὑμᾶς καὶ ὀνειδίσωσιν καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου· χάρητε ἐν ἐκείνῃ τῇ ἡμέρᾳ καὶ σκιρτήσατε, ἰδοὺ γὰρ ὁ μισθὸς ὑμῶν πολὺς ἐν τῷ οὐρανῷ· κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν."
         },
         {
-          "verse": 7,
+          "verse": 10,
           "canonical_ref": "Luke 6:24",
           "english": "But woe to you, the rich, for you have received your consolation.",
           "greek": "Πλὴν οὐαὶ ὑμῖν τοῖς πλουσίοις, ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν."
         },
         {
-          "verse": 8,
+          "verse": 11,
           "canonical_ref": "Luke 6:25-26",
           "english": "Woe to you who are full now, for you shall hunger. Woe, those laughing now, for you shall mourn and weep. Woe when all men speak well of you.",
           "greek": "οὐαὶ ὑμῖν, οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε. οὐαὶ, οἱ γελῶντες νῦν, ὅτι πενθήσετε καὶ κλαύσετε. οὐαὶ ὅταν ὑμᾶς καλῶς εἴπωσιν πάντες οἱ ἄνθρωποι."
         },
         {
-          "verse": 9,
+          "verse": 12,
           "canonical_ref": "Luke 6:27-28",
           "english": "But I say to you who listen: Love your enemies, bless those who hate you, and pray for those who mistreat you.",
           "greek": "Ἀλλὰ ὑμῖν λέγω τοῖς ἀκούουσιν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, εὐλογεῖτε τοὺς μισοῦντας ὑμᾶς καὶ προσεύχεσθε περὶ τῶν ἐπηρεαζόντων ὑμᾶς."
         },
         {
-          "verse": 10,
+          "verse": 13,
           "canonical_ref": "Luke 6:29",
           "english": "To the one striking you on the jaw, offer also the other; and from the one taking your outer-garment, do not withhold the tunic.",
           "greek": "τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην, καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς."
         },
         {
-          "verse": 11,
+          "verse": 14,
           "canonical_ref": "Luke 6:31",
           "english": "And as you wish that men should do to you, do likewise to them.",
           "greek": "καὶ καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, ποιεῖτε αὐτοῖς ὁμοίως."
         },
         {
-          "verse": 12,
+          "verse": 15,
           "canonical_ref": "Luke 6:35",
           "english": "But love your enemies and do good and lend, despairing of nothing; and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and evil.",
           "greek": "πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ ὑψίστου."
         },
         {
-          "verse": 13,
+          "verse": 16,
           "canonical_ref": "Luke 6:46",
           "english": "And why do you call me 'Lord, Lord,' and do not do what I say?",
           "greek": "Τί δέ με καλεῖτε· Κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω;"
         },
         {
-          "verse": 14,
+          "verse": 17,
           "canonical_ref": "Luke 6:47",
           "english": "Everyone coming to me and hearing my words and doing them—I will show you whom he is like.",
           "greek": "πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς, ὑποδείξω ὑμῖν τίνι ἐστὶν ὅμοιος."
         },
         {
-          "verse": 15,
+          "verse": 18,
           "canonical_ref": "Luke 6:48",
           "english": "He is like a man building a house, who dug and deepened and laid a foundation upon the rock; and when a flood happened, the river broke against that house and was not strong enough to shake it, because it was built well.",
           "greek": "ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν."
         },
         {
-          "verse": 16,
+          "verse": 19,
           "canonical_ref": "Luke 6:49",
           "english": "But the one hearing and not doing is like a man building a house upon the ground without a foundation, against which the river broke, and immediately it collapsed, and the crash of that house was great.",
           "greek": "ὁ δὲ ἀκούσας καὶ μὴ ποιήσας ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα."
@@ -456,94 +474,164 @@
       "notes": [
         {
           "id": 1,
-          "term": "Emissaries (ἀποστόλους - apostolous)",
-          "verse_refs": [2],
+          "term": "Prayer of God (τῇ προσευχῇ τοῦ θεοῦ - tē proseuchē tou theou)",
+          "verse_refs": [1],
           "category": "translation",
-          "explanation": "The dry fact of the Greek is \"sent ones\" or \"emissaries.\" This reconstruction avoids the later high-church \"Apostle\" to reflect the functional role of these men as agents of the Kingdom."
+          "explanation": "Retained as literal 'prayer of God.' While traditional translations soften this to 'prayer to God,' the source text uses the genitive τοῦ θεοῦ, implying a state of being 'in the prayer belonging to God' or a specific divine influx."
         },
         {
           "id": 2,
-          "term": "Mountain (τὸ ὄρος - to oros)",
-          "verse_refs": [1],
-          "category": "theological",
-          "explanation": "In the Jamesian framework, the mountain is the site of the new \"Opposition Priesthood\" law-giving, mirroring Sinai but internalizing the command."
+          "term": "Verse Division (Luke 6:12-13)",
+          "verse_refs": [1, 2],
+          "category": "textual",
+          "explanation": "Both Codex Sinaiticus (01) and Codex Vaticanus (03) treat Luke 6:12 as a distinct narrative unit (Section 43 in critical apparatus). Tertullian references the mountain withdrawal independently in Adversus Marcionem 4.13.1, discussing it as a specific 'work of power' before addressing the selection in 4.13.4. This separation preserves the deliberate 'wait' in the text—the movement from night-long divine communion to daylight human selection."
         },
         {
           "id": 3,
-          "term": "Poor (πτωχοί - ptōchoi)",
-          "verse_refs": [4],
-          "category": "theological",
-          "explanation": "Unlike the Matthean \"poor in spirit,\" this stratum uses the literal term for material poverty. This aligns with the \"Jamesian Layer\" which identifies the followers as the Ebionim (The Poor)."
+          "term": "Designated (ὠνόμασεν - ōnomasen)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The verb implies more than simple naming; it is the forensic conferral of a title or office. 'Named' is a literal translation of the root 'onoma,' but 'designated' more accurately reflects the clinical appointment of a specific group to a specific rank within the pneumatic hierarchy."
         },
         {
           "id": 4,
-          "term": "The Rich (πλουσίοις - plousiois)",
-          "verse_refs": [7],
-          "category": "theological",
-          "explanation": "This forensic \"Woe\" is unique to the Lukan/Proto-Lukan stratum and is a primary marker of Jamesian theology, which views wealth as a consolidation of the current corrupt age. The \"Woes\" are restored as an integral part of the \"Charter of the Hebrews.\" They define the Kingdom by what it excludes—the material security and social status of the Roman-era elite."
+          "term": "Emissaries (ἀποστόλους - apostolous)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The Greek denotes 'those sent out with a specific commission.' Using 'emissaries' strips away later ecclesiastical hagiography and returns the figure to its functional role as a legal representative of the Messenger."
         },
         {
           "id": 5,
-          "term": "παράκλησιν (paraklēsin)",
-          "verse_refs": [7],
-          "category": "translation",
-          "explanation": "Used here in its forensic sense of a legal \"advocacy\" or \"comfort\" that has already been exhausted by material wealth."
+          "term": "Positioning of the Apostolic Clause",
+          "verse_refs": [2],
+          "category": "textual",
+          "explanation": "In both the canonical Lukan substrate and the Marcionite layer reported by Tertullian (Adversus Marcionem 4.13.4), the designation clause ('whom he also designated as emissaries') is positioned as the climax of the selection process (v. 2), not as a summary at the end of the name list. Moving it to the end of the list is not supported by major uncials such as 01 (Sinaiticus) or 03 (Vaticanus) and creates a narrative disconnect."
         },
         {
           "id": 6,
-          "term": "Tunic (χιτῶνα - chitōna)",
-          "verse_refs": [10],
-          "category": "translation",
-          "explanation": "This refers to the inner garment. The command is to allow the total stripping of the external self to preserve the internal \"Royal Law\" of love."
+          "term": "Abbreviated Name List (Luke 6:14-16)",
+          "verse_refs": [3, 4, 5],
+          "category": "textual",
+          "explanation": "The full twelve-name list is not forensically preserved in the Marcionite/Proto-Lukan witnesses. Tertullian (Adv. Marc. 4.13.6) specifically attests Simon/Peter and Judas Iscariot. The middle names (Philip, Bartholomew, Matthew, Thomas, James of Alphaeus, Simon the Zealot) are unattested in the Marcionite layer—Tertullian passes over them in silence, moving directly from the 'Pillars' to the betrayer. Ellipses indicate the forensic gap."
         },
         {
           "id": 7,
-          "term": "Despairing of nothing (μηδὲν ἀπελπίζοντες - mēden apelpizontes)",
-          "verse_refs": [12],
+          "term": "Named Peter (ὠνόμασεν Πέτρον - ōnomasen Petron)",
+          "verse_refs": [3],
           "category": "translation",
-          "explanation": "A difficult Greek phrase. In the Jamesian context, it implies an absolute reliance on divine providence rather than a calculated \"return\" on a loan, shunning the commercial logic of the state."
+          "explanation": "The verb indicates the conferral of a title ('The Rock'). Specifically attested by Tertullian (Adv. Marc. 4.13.6) as an act of power. In the Jamesian stratum, this highlights the specific functional role Peter was meant to play within the community's legal framework."
         },
         {
           "id": 8,
-          "term": "Doing (ποιῶν - poiōn)",
-          "verse_refs": [11, 13, 14],
-          "category": "theological",
-          "explanation": "This present participle denotes continuous, active loyalty. This is the cornerstone of the \"Jamesian Layer\"—that \"Faith-Alone\" (the Pauline Layer) is insufficient without the Ma'asim (Works of Love). The imperative \"do\" is the active verb governing the Golden Rule (6:31), which Jamesian theology regards as the \"Law of Liberty.\""
+          "term": "Betrayer (προδότης - prodōtēs)",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "The identification of Judas as a 'betrayer' (not merely 'traitor') is verified by Tertullian (4.13.6) and is essential to the stratum's narrative arc regarding the failure of biological associations and the legal necessity of the Passion."
         },
         {
           "id": 9,
+          "term": "Judas Iscariot (Ἰούδαν Ἰσκαριώθ - Ioudan Iskariōth)",
+          "verse_refs": [5],
+          "category": "textual",
+          "explanation": "The spelling 'Iskariōth' is retained over 'Iskariōtēs' to remain honest to the Western and Marcionite tradition (Codex Bezae 05), which identifies him by a term likely reflecting his origin or a sectarian label rather than the later standardized Greek patronymic."
+        },
+        {
+          "id": 10,
+          "term": "Mountain (τὸ ὄρος - to oros)",
+          "verse_refs": [1],
+          "category": "theological",
+          "explanation": "In the Jamesian framework, the mountain is the site of the new 'Opposition Priesthood' law-giving, mirroring Sinai but internalizing the command."
+        },
+        {
+          "id": 11,
+          "term": "Poor (πτωχοί - ptōchoi)",
+          "verse_refs": [7],
+          "category": "theological",
+          "explanation": "Unlike the Matthean 'poor in spirit,' this stratum uses the literal term for material poverty. This aligns with the 'Jamesian Layer' which identifies the followers as the Ebionim (The Poor)."
+        },
+        {
+          "id": 12,
+          "term": "The Rich (πλουσίοις - plousiois)",
+          "verse_refs": [10],
+          "category": "theological",
+          "explanation": "This forensic 'Woe' is unique to the Lukan/Proto-Lukan stratum and is a primary marker of Jamesian theology, which views wealth as a consolidation of the current corrupt age. The 'Woes' are restored as an integral part of the 'Charter of the Hebrews.' They define the Kingdom by what it excludes—the material security and social status of the Roman-era elite."
+        },
+        {
+          "id": 13,
+          "term": "παράκλησιν (paraklēsin)",
+          "verse_refs": [10],
+          "category": "translation",
+          "explanation": "Used here in its forensic sense of a legal 'advocacy' or 'comfort' that has already been exhausted by material wealth."
+        },
+        {
+          "id": 14,
+          "term": "Tunic (χιτῶνα - chitōna)",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "This refers to the inner garment. The command is to allow the total stripping of the external self to preserve the internal 'Royal Law' of love."
+        },
+        {
+          "id": 15,
+          "term": "Despairing of nothing (μηδὲν ἀπελπίζοντες - mēden apelpizontes)",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "A difficult Greek phrase. In the Jamesian context, it implies an absolute reliance on divine providence rather than a calculated 'return' on a loan, shunning the commercial logic of the state."
+        },
+        {
+          "id": 16,
+          "term": "Doing (ποιῶν - poiōn)",
+          "verse_refs": [14, 16, 17],
+          "category": "theological",
+          "explanation": "This present participle denotes continuous, active loyalty. This is the cornerstone of the 'Jamesian Layer'—that 'Faith-Alone' (the Pauline Layer) is insufficient without the Ma'asim (Works of Love). The imperative 'do' is the active verb governing the Golden Rule (6:31), which Jamesian theology regards as the 'Law of Liberty.'"
+        },
+        {
+          "id": 17,
           "term": "Foundation (θεμέλιον - themelion)",
-          "verse_refs": [15, 16],
+          "verse_refs": [18, 19],
           "category": "theological",
           "explanation": "In this stratum, the foundation is not a creed or a church hierarchy (Orthodoxy Layer), but the internal practice of the words of Christ in action—actual ethical conduct."
         },
         {
-          "id": 10,
+          "id": 18,
           "term": "πέτραν (petran)",
-          "verse_refs": [15],
+          "verse_refs": [18],
           "category": "theological",
-          "explanation": "The \"Rock\" in this stratum is not an institutional figure (Peter) but the \"words\" of the Messenger himself, providing the only stable foundation against the instability of the material age."
+          "explanation": "The 'Rock' in this stratum is not an institutional figure (Peter) but the 'words' of the Messenger himself, providing the only stable foundation against the instability of the material age."
         },
         {
-          "id": 11,
+          "id": 19,
           "term": "Omission in 6:23",
-          "verse_refs": [6],
+          "verse_refs": [9],
           "category": "excision",
-          "explanation": "The reference to \"their fathers\" and the \"prophets\" is often viewed as a later addition to tether the \"Poor\" to the old national history; the Protograph focuses on the immediate pneumatic reward."
+          "explanation": "The reference to 'their fathers' and the 'prophets' is often viewed as a later addition to tether the 'Poor' to the old national history; the Protograph focuses on the immediate pneumatic reward."
         },
         {
-          "id": 12,
+          "id": 20,
           "term": "Hate (μισοῦντας - misountas)",
-          "verse_refs": [9],
+          "verse_refs": [12],
           "category": "textual",
           "explanation": "The reconstruction prioritizes 'those who hate you' over the canonical 'those who curse you' (καταρωμένους). This reflects the forensic reality of the Jamesian community facing active social and legal opposition from the established elite."
         },
         {
-          "id": 13,
+          "id": 21,
           "term": "Mistreat (ἐπηρεαζόντων - epēreazontōn)",
-          "verse_refs": [9],
+          "verse_refs": [12],
           "category": "translation",
           "explanation": "'Mistreat' captures the sense of malicious prosecution or active harassment. The command establishes the 'Royal Law of Liberty' as a non-resistant internal governor."
+        },
+        {
+          "id": 22,
+          "term": "Forensic Gap (Luke 6:15)",
+          "verse_refs": [4],
+          "category": "textual",
+          "explanation": "Verse 4 (Luke 6:15) is entirely unattested in the Marcionite witnesses. The clinical nature of the Jamesian layer focuses on the office of the Twelve and the figures of Peter and Judas, passing over the intermediate names (Philip, Bartholomew, Matthew, Thomas, James of Alphaeus, Simon the Zealot) in silence. The ellipsis marks this forensic gap transparently."
+        },
+        {
+          "id": 23,
+          "term": "The Brethren (James and John)",
+          "verse_refs": [3],
+          "category": "textual",
+          "explanation": "Andrew, James, and John appear in brackets as high-probability inclusions in the pre-canonical substrate. Though lacking the specific polemical verification Tertullian provides for Peter, their presence among the 'Pillars' (Gal. 2:9) makes their inclusion forensically reasonable."
         }
       ],
       "additional_explanation": {
