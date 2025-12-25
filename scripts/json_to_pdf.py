@@ -491,8 +491,8 @@ def main():
     """Main entry point."""
     script_dir = Path(__file__).parent
     project_dir = script_dir.parent
-    json_path = project_dir / 'proto_luke.json'
-    output_path = project_dir / 'output' / 'proto_luke.pdf'
+    json_path = project_dir / 'data' / 'proto_luke.json'
+    output_path = project_dir / 'output' / 'Proto-Luke_Jamesian_Protograph.pdf'
     
     # Ensure output directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)

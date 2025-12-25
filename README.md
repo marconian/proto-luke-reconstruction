@@ -35,12 +35,26 @@ These layers were added in the second century to anchor the primitive narrative 
 ## Project Structure
 
 ```
-├── proto_luke.json          # Primary data: Greek text, English translation, notes
-├── research_questions.md    # Scholarly questions and resolutions
-├── data/                    # Source markdown files by chapter
-├── output/                  # Generated PDF
-└── scripts/                 # PDF generation scripts
+├── data/
+│   ├── proto_luke.json              # Primary source: Greek text, English translation, notes
+│   └── THE GOSPEL (PROTO-LUKE)*.md  # Chapter markdown sources
+├── docs/
+│   └── research_questions.md        # Scholarly questions and resolutions
+├── output/
+│   └── Proto-Luke_Jamesian_Protograph.pdf  # Generated PDF
+├── scripts/
+│   ├── json_to_pdf.py               # PDF generation
+│   ├── json_to_latex.py             # LaTeX generation
+│   └── generate_text.py             # Text extraction
+└── README.md
 ```
+
+## Branching Strategy (GitFlow)
+
+- **main** — Stable releases only
+- **develop** — Active development and research
+- **feature/** — New features or chapters
+- **hotfix/** — Urgent fixes to main
 
 ## Output
 
