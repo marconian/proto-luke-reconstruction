@@ -123,7 +123,7 @@
         {
           "verse": 2,
           "canonical_ref": "Luke 4:35",
-          "english": "And Jesus rebuked him.",
+          "english": "And Jesus rebuked him, saying: 'Be silenced and come out from him.' And after the daimon had thrown him into the middle, it came out from him, having harmed him not at all.",
           "greek": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἀπ᾿ αὐτοῦ. καὶ ῥῖψαν αὐτὸν τὸ δαιμόνιον εἰς τὸ μέσον ἐξῆλθεν ἀπ᾿ αὐτοῦ μηδὲν βλάψαν αὐτόν"
         },
         {
@@ -248,48 +248,83 @@
         },
         {
           "id": 5,
+          "term": "ἐπετίμησεν (epetimēsen)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Translated as 'rebuked.' This term denotes a formal, authoritative censure. In the forensic layer of the Protograph, it functions as a legalistic command issued by a superior pneumatic authority to a subordinate entity of the material age."
+        },
+        {
+          "id": 6,
+          "term": "φιμώθητι (phimōthēti)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Literally 'be muzzled.' Rendered as 'be silenced' to convey the forceful binding of the entity's voice, rejecting softer western variants like 'hold thy peace.'"
+        },
+        {
+          "id": 7,
+          "term": "εἰς μέσον (eis meson)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Translated as 'into the middle.' Refers to the central space of the synagogue assembly. This detail indicates that the exorcism was a public, forensic demonstration intended to provide 'witness' to the community."
+        },
+        {
+          "id": 8,
+          "term": "μηδὲν βλάψαν αὐτόν (mēden blapsan auton)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Translated as 'having harmed him not at all.' The use of μηδὲν (nothing/not at all) and βλάψαν (harming/injuring) emphasizes the totality of the Messenger's authority. The entity is permitted a final physical exertion (the throw) but is legally barred from inflicting biological injury upon the host."
+        },
+        {
+          "id": 9,
+          "term": "ἐξ αὐτοῦ / ἀπ᾽ αὐτοῦ",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The Greek shifts from ἐξ (out from the interior) to ἀπ᾽ (away from the person). This tracks the clinical sequence of the entity leaving the internal space and subsequently detaching from the man's presence."
+        },
+        {
+          "id": 10,
           "term": "Kingdom of God (τὴν βασιλείαν τοῦ θεοῦ - tēn basileian tou theou)",
           "verse_refs": [5],
           "category": "theological",
           "explanation": "This phrase is a hallmark of the Lukan/Proto-Lukan layer. It identifies the \"Actual Jesus\" not as a personal savior, but as the herald of a new spiritual order. The \"Kingdom of God\" is the central thematic marker of the Jamesian Protograph, denoting the internal spiritual order that supersedes the physical administration of the world."
         },
         {
-          "id": 6,
+          "id": 11,
           "term": "εὐαγγελίσασθαι (euangelisasthai)",
           "verse_refs": [5],
           "category": "translation",
           "explanation": "The Greek identifies the Messenger's primary function as an announcer or herald of a new governance."
         },
         {
-          "id": 7,
+          "id": 12,
           "term": "Catching Men (ἀνθρώπους ἔσῃ ζωγρῶν - anthrōpous esē zōgrōn)",
           "verse_refs": [13],
           "category": "translation",
           "explanation": "Literally \"catching alive.\" The specific Lukan vocation narrative (5:1-11) is retained as a Jamesian original. Unlike the abrupt Markan calling, this emphasizes a \"miraculous catch,\" establishing the dependence of the disciples on divine providence rather than their own merit."
         },
         {
-          "id": 8,
+          "id": 13,
           "term": "ἀφέντες πάντα (aphentes panta)",
           "verse_refs": [14],
           "category": "theological",
           "explanation": "The \"leaving of all\" is a fundamental Ebionite requirement, establishing the socio-economic baseline of the community."
         },
         {
-          "id": 9,
+          "id": 14,
           "term": "λέπρας (lepras)",
           "verse_refs": [15, 16],
           "category": "theological",
           "explanation": "In the Jamesian layer, the cleansing of the leper is a forensic proof of the Spirit's power to restore the human \"vessel\" to its correct internal state."
         },
         {
-          "id": 10,
+          "id": 15,
           "term": "Moses Commanded (καθὼς προσέταξε Μωυσῆς - kathōs prosetaxe Mōysēs)",
           "verse_refs": [17],
           "category": "theological",
           "explanation": "The preservation of this reference (5:14) is critical. It shows the Jamesian Jesus upholding the Law as a \"testimony,\" prioritizing the internal reality of cleansing while maintaining external continuity with the Torah."
         },
         {
-          "id": 11,
+          "id": 16,
           "term": "ἱερεῖ (hierei)",
           "verse_refs": [17],
           "category": "translation",
@@ -818,13 +853,13 @@
         {
           "verse": 4,
           "canonical_ref": "Luke 8:17",
-          "english": "\"For there is nothing hidden which will not become manifest...\"",
+          "english": "\"For there is nothing hidden which will not become manifest, nor secret which will not be known.\"",
           "greek": "οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται, οὐδὲ ἀπόκρυφον ὃ οὐ μὴ γνωσθῇ."
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 8:18",
-          "english": "\"Look then how you hear; for whoever has, to him shall be given; and whoever has not, even what he thinks he has shall be taken from him.\"",
+          "english": "\"Look then how you hear; for whoever has, to him shall be given; and whoever does not have, even what he seems to have shall be taken away from him.\"",
           "greek": "βλέπετε οὖν πῶς ἀκούετε· ὃς ἂν γὰρ ἔχῃ, δοθήσεται αὐτῷ, καὶ ὃς ἂν μὴ ἔχῃ, καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ᾽ αὐτοῦ."
         },
         {
@@ -843,13 +878,13 @@
           "verse": 8,
           "canonical_ref": "Luke 8:22",
           "english": "And it happened on one of the days... he said to them: \"Let us pass over to the other side of the lake.\"",
-          "greek": "Ἐγένετο δὲ ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ, καὶ εἶπεν πρὸς αὐτούς· Διέλθωμεν εἰς τὸ πέραν τῆς λίμνης· καὶ ἀνήχθησαν."
+          "greek": "Ἐγένετο δὲ ἐν μιᾷ τῶν ἡμερῶν ... εἶπεν πρὸς αὐτούς· Διέλθωμεν εἰς τὸ πέραν τῆς λίμνης."
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 8:24-25",
           "english": "...And he, being awakened, rebuked the wind and the surging of the water, and they ceased, and there was a calm. And he said to them: \"Where is your faith?\" And they, being afraid, wondered, saying to one another: \"Who then is this, that he commands the winds and the water, and they obey him?\"",
-          "greek": "προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· Ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα. ὁ δὲ ἐγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος· καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη. εἶπεν δὲ αὐτοῖς· Ποῦ ἡ πίστις ὑμῶν;"
+          "greek": "... ὁ δὲ ἐγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος· καὶ ἐπαύσαντο καὶ ἐγένετο γαλήνη. εἶπεν δὲ αὐτοῖς· Ποῦ ἡ πίστις ὑμῶν; φοβηθέντες δὲ ἐθαύμασαν λέγοντες πρὸς ἀλλήλους· Τίς ἄρα οὗτός ἐστιν ὅτι καὶ τοῖς ἀνέμοις ἐπιτάσσει καὶ τῷ ὕδατι, καὶ ὑπακούουσιν αὐτῷ;"
         }
       ],
       "notes": [
@@ -879,49 +914,119 @@
           "term": "Hidden (κρυπτόν - krypton)",
           "verse_refs": [4],
           "category": "theological",
-          "explanation": "Tertullian (4.19.5) and the Protograph prioritize the manifestation of truth in the physical realm. The \"Light\" is not a private Gnostic secret but the public manifestation of Love."
+          "explanation": "Refers to that which is covered or concealed. Paired with 'manifest' (φανερόν — phaneron, meaning 'apparent' or 'visible'), this establishes the eschatological certainty that pneumatic truth will overwrite the material deception of the current age. Tertullian (4.19.5) and the Protograph prioritize the manifestation of truth in the physical realm. The 'Light' is not a private Gnostic secret but the public manifestation of Love."
         },
         {
           "id": 5,
-          "term": "What he thinks he has (ὃ δοκεῖ ἔχειν - ho dokei echein)",
-          "verse_refs": [5],
-          "category": "theological",
-          "explanation": "A forensic warning against intellectual \"faith\" that lacks the weight of actual work. The \"Faith-Alone\" practitioner (the Pauline Layer) is stripped of the \"grace\" they believe they possess because it never manifested in acts of Love."
+          "term": "Secret (ἀπόκρυφον - apokryphon)",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "Literally 'hidden away' or 'stored in a secret place.' Translated as 'secret' rather than using the ecclesiastical term 'apocryphal' to remain honest to the literal Greek sense of a thing kept out of sight."
         },
         {
           "id": 6,
+          "term": "Shall not be known (ὃ οὐ μὴ γνωσθῇ - ho ou mē gnōsthē)",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "The use of the double negative (οὐ μὴ) in the Greek indicates a strong emphasis on the impossibility of the secret remaining concealed. It functions as a forensic guarantee of the ultimate revelation of the Influx."
+        },
+        {
+          "id": 7,
+          "term": "Ellipsis and Attestation (8:17)",
+          "verse_refs": [4],
+          "category": "textual",
+          "explanation": "Tertullian (Adv. Marc. 4.19.5) only explicitly alludes to the first half of the verse—'hidden things becoming manifest'—leaving the second half regarding 'secrets' technically unattested in the polemical record. The full Greek text represents a restoration based on the high probability of the Lukan/Q-source substrate remaining intact."
+        },
+        {
+          "id": 8,
+          "term": "What he seems to have (ὃ δοκεῖ ἔχειν - ho dokei echein)",
+          "verse_refs": [5],
+          "category": "theological",
+          "explanation": "The term δοκεῖ (dokei) is retained to highlight the illusory nature of material possession in the Jamesian stratum. In the 'Epistemology of Use,' those who rely on the appearance of wealth find that it is technically non-existent. A forensic warning against intellectual 'faith' that lacks the weight of actual work. The 'Faith-Alone' practitioner (the Pauline Layer) is stripped of the 'grace' they believe they possess because it never manifested in acts of Love."
+        },
+        {
+          "id": 9,
           "term": "Excision of 8:19",
           "verse_refs": [6],
           "category": "excision",
           "explanation": "The arrival of the biological family is notably absent in the Marcionite/Jamesian layer to sharpen the impact of the definition in v. 21."
         },
         {
-          "id": 7,
+          "id": 10,
           "term": "Who is my mother...? (Τίς μου ἡ μήτηρ...)",
           "verse_refs": [7],
           "category": "textual",
           "explanation": "Tertullian (4.19.6, 4.19.11) confirms this interrogative opening, which is more polemical than the canonical \"My mother and my brothers are...\" The reconstruction follows the interrogative variant preserved by Tertullian and Marcion. It serves to decouple the Messenger from biological and biological-Davidic authority, prioritizing pneumatic loyalty."
         },
         {
-          "id": 8,
+          "id": 11,
           "term": "Do them (ποιοῦντες - poiountes)",
           "verse_refs": [7],
           "category": "theological",
           "explanation": "This present participle is the definitive Jamesian marker. The community is not defined by biological descent from David or the family of Jesus, but by the \"Doing\" of the internal Law of Love."
         },
         {
-          "id": 9,
+          "id": 12,
           "term": "Pass over (διέλθωμεν - dielthōmen)",
           "verse_refs": [8],
           "category": "textual",
-          "explanation": "Tertullian (4.20.3) uses the Latin \"transfretat,\" emphasizing the crossing into Gentile territory (the \"Other Side\")."
+          "explanation": "Tertullian (4.20.3) uses the Latin 'transfretat,' emphasizing the crossing into Gentile territory (the 'Other Side'). The reconstruction relies on Tertullian's focus exclusively on the crossing itself and the command to pass over; details of boarding the boat and departure are not attested in the polemical summaries of Marcion's Evangelion."
         },
         {
-          "id": 10,
-          "term": "Who then is this? (Τίς ἄρα οὗτός ἐστιν;)",
+          "id": 13,
+          "term": "Ellipsis as Forensic Marker (8:22)",
+          "verse_refs": [8],
+          "category": "excision",
+          "explanation": "The ellipsis in verse 8 is a deliberate forensic marker acknowledging that the source witness (Tertullian) skips the connecting descriptive narrative, moving directly from the setting of the 'days' to the clinical command of the Messenger. The phrases 'and he entered into a boat with his disciples' and 'and they set sail' found in Canonical Luke are excised as secondary editorial bridges designed to harmonize the primitive text into a smoother Greco-Roman narrative."
+        },
+        {
+          "id": 14,
+          "term": "Lake (λίμνης - limnēs)",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "Retained as 'lake' to remain honest to the Lukan substrate. While the Matthean and Markan parallels prefer 'sea' (thalassēs), the Jamesian Protograph preserves the more precise geographical designation for the body of water."
+        },
+        {
+          "id": 15,
+          "term": "Rebuked (ἐπετίμησεν - epetimēsen)",
           "verse_refs": [9],
-          "category": "theological",
-          "explanation": "The question highlights the Messiah's authority over the physical world. Jesus is recognized through his command over material elements (wind/water), reflecting the Jamesian view that divine authority must be verifiable in physical effects."
+          "category": "translation",
+          "explanation": "Rendered as 'rebuked' to reflect the authoritative, legalistic binding of the natural elements by the Messenger's pneumatic power."
+        },
+        {
+          "id": 16,
+          "term": "Surging of the water (κλύδωνι τοῦ ὕδατος - klydōni tou hydatos)",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "Translated literally as 'surging' or 'raging' of the water. This clinical detail emphasizes the physical debris of the storm that the Messenger successfully nullifies."
+        },
+        {
+          "id": 17,
+          "term": "Calm (γαλήνη - galēnē)",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "This term signifies the total restoration of order, a hallmark of the Influx in the Jamesian layer."
+        },
+        {
+          "id": 18,
+          "term": "Excision of 8:24a (Disciples' Cry)",
+          "verse_refs": [9],
+          "category": "excision",
+          "explanation": "The phrase 'And they approached and woke him, saying: Master, master, we are perishing!' (προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· Ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα) is not attested in the Marcionite layer. Tertullian skips this dialogue, moving directly to the act of the rebuke. The ellipsis is a forensic marker indicating that this 'agitated' narrative bridge is viewed as a later canonical expansion designed to emphasize the disciples' biological fear. By omitting the disciples' cry, the Protograph highlights the suddenness of the Influx—the transition from chaos to calm is immediate and procedural, not a response to human panic."
+        },
+        {
+          "id": 19,
+          "term": "Who then is this? (Τίς ἄρα οὗτός ἐστιν)",
+          "verse_refs": [9],
+          "category": "textual",
+          "explanation": "Unlike the disciples' cry, this final question is explicitly verified. In Adversus Marcionem 4.20.1, Tertullian cites the reaction: 'Who is this who commands the winds and the sea/water?' This reaction is essential to the Jamesian stratum because it records the empirical validation of the Messenger's authority over the material elements."
+        },
+        {
+          "id": 20,
+          "term": "Sea vs. Water (θαλάσσης vs. ὕδατος)",
+          "verse_refs": [9],
+          "category": "textual",
+          "explanation": "While Tertullian occasionally uses 'sea' (mari), the Greek substrate preserved in the Lukan tradition (and likely the Marcionite copy) maintains 'water' (toû hydatos), which is retained for accuracy."
         }
       ],
       "additional_explanation": {
@@ -1078,7 +1183,7 @@
           "verse": 22,
           "canonical_ref": "Luke 9:16",
           "english": "And taking the five loaves and the two fishes, looking up into the heaven, he blessed them and broke them.",
-          "greek": "λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ."
+          "greek": "λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν αὐτοὺς καὶ κατέκλασεν."
         },
         {
           "verse": 23,
@@ -1231,26 +1336,47 @@
         {
           "id": 21,
           "term": "Blessed (εὐλόγησεν - eulogēsen)",
-          "explanation": "The Adamantius Dialogue occasionally confuses this with \"gave thanks\" (εὐχαριστεῖ), but \"blessed\" is the more secure Jamesian reading, reflecting authority over the substance of the bread. The blessing of the bread is the \"Divine Bricolage\"—multiplication through pneumatic conjunction, replacing the Temple's function as the source of life.",
+          "explanation": "The Adamantius Dialogue occasionally confuses this with 'gave thanks' (εὐχαριστεῖ), but 'blessed' is the more secure Jamesian reading, reflecting authority over the substance of the bread. This is rejected as an imprecise liturgical harmonization from the Last Supper narrative. The blessing of the bread is the 'Divine Bricolage'—multiplication through pneumatic conjunction, replacing the Temple's function as the source of life.",
           "verse_refs": [22],
           "category": "theological"
         },
         {
           "id": 22,
+          "term": "The Heaven (τὸν οὐρανὸν - ton ouranon)",
+          "explanation": "The singular 'the heaven' is retained to remain honest to the Lukan/Jamesian substrate preserved in Epiphanius's first listing. The plural variant ('the heavens') appearing in later listings is identified as a Matthean/Septuagintal harmonization.",
+          "verse_refs": [22],
+          "category": "textual"
+        },
+        {
+          "id": 23,
+          "term": "Broke (κατέκλασεν - kateklasen)",
+          "explanation": "This refers to the formal, forensic act of dividing the loaves. In this stratum, the focus remains on the authority of the 'Breaking' rather than the mechanical quantity of the bread.",
+          "verse_refs": [22],
+          "category": "translation"
+        },
+        {
+          "id": 24,
+          "term": "Excision of Distribution Clause (9:16b)",
+          "explanation": "The final clause 'and was giving them to the disciples to set before the crowd' (καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ) is excised because it is unattested in the primary Marcionite witnesses. Tertullian passes over the distribution in silence, and Epiphanius (Scholion 15) restricts his citation to the act of looking up and blessing. In the Jamesian layer, the miracle is characterized by clinical, pneumatic suddenness—the narrative flows directly from the Messenger's act of 'breaking' (v. 22) to the crowds being 'satisfied' (v. 23) without the intervening logistics of distribution, which are viewed as secondary ecclesiastical additions emphasizing the mediating role of the twelve.",
+          "verse_refs": [22],
+          "category": "excision"
+        },
+        {
+          "id": 25,
           "term": "The Great Omission",
-          "explanation": "Following verse 9:17, Proto-Luke exhibits the \"Great Omission,\" skipping the material found in Mark 6:45–8:26 (walking on water, etc.). This confirms that Proto-Luke is an independent, coherent narrative that does not rely on Markan scaffolding, but preserves a distinct Jerusalem tradition.",
+          "explanation": "Following verse 9:17, Proto-Luke exhibits the 'Great Omission,' skipping the material found in Mark 6:45–8:26 (walking on water, etc.). This confirms that Proto-Luke is an independent, coherent narrative that does not rely on Markan scaffolding, but preserves a distinct Jerusalem tradition.",
           "verse_refs": [23],
           "category": "excision"
         },
         {
-          "id": 23,
+          "id": 26,
           "term": "Raised vs. Risen (ἠγέρθη / ἀνέστη)",
           "explanation": "The text distinguishes between being 'raised' (ἠγέρθη) by an external power and 'rising' (ἀνέστη) autonomously, reflecting the pneumatic eschatology of the period.",
           "verse_refs": [18],
           "category": "textual"
         },
         {
-          "id": 24,
+          "id": 27,
           "term": "Ancients (ἀρχαίων - archaiōn)",
           "explanation": "This term confirms that the Messenger was perceived as the return of the primitive Spirit of the Law, bypassing the institutional structures of the late Second Temple era.",
           "verse_refs": [18],
