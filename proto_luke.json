@@ -5,7 +5,7 @@
     {
       "chapter": 1,
       "title": "Proto-Luke Chapter 1",
-      "preamble": "The Gospel begins not with a birth, but with an arrival. In the fifteenth year of Tiberius Caesar, the Messenger descends into Galilee—teaching first in Capernaum, where his word carries an authority that astonishes those who hear it. From there he travels to Nazareth, his hometown, where the initial wonder at his gracious words will soon turn to hostility. This opening establishes the pattern of the entire narrative: the one who comes with power will be rejected by those closest to him.",
+      "preamble": "The Gospel begins not with a birth, but with an arrival. In the fifteenth year of Tiberius Caesar, Jesus descends into Galilee—teaching first in Capernaum, where his word carries an authority that astonishes those who hear it. From there he travels to Nazareth, his hometown, where the initial wonder at his gracious words will soon turn to hostility. This opening establishes the pattern of the entire narrative: the one who comes with power will be rejected by those closest to him.",
       "verses": [
         {
           "verse": 1,
@@ -99,21 +99,21 @@
           "term": "Omission of 3:19–4:13 (The Orthodox Wrapper)",
           "verse_refs": [],
           "category": "excision",
-          "explanation": "The Baptism, Genealogy, and Temptation (Luke 3:19–4:13) constitute the 'Orthodox Wrapper'—second-century interpolations designed to domesticate the Messenger. In the Jamesian/Marcionite stratum, these are absent because they subordinate the Christ to John the Baptist or test him against the 'Creator' of the old aeon. The Protograph's Christ descends fully empowered, requiring no validation. By joining 3:1a directly to 4:31, the reconstruction restores the Incipit of the earliest Gospel sequence."
+          "explanation": "The Baptism, Genealogy, and Temptation (Luke 3:19–4:13) constitute the 'Orthodox Wrapper'—second-century interpolations designed to domesticate Jesus. In the Jamesian/Marcionite stratum, these are absent because they subordinate the Anointed One to John the Baptist or test him against the 'Creator' of the old aeon. The Protograph's Christ descends fully empowered, requiring no validation. By joining 3:1a directly to 4:31, the reconstruction restores the Incipit of the earliest Gospel sequence."
         },
         {
           "id": 9,
           "term": "Vertical Christology: κατῆλθεν (katēlthen)",
           "verse_refs": [],
           "category": "theological",
-          "explanation": "In canonical Luke, 'coming down' (κατῆλθεν) refers to geographical travel from Nazareth's hills to seaside Capernaum. In the Protograph, however, with the Tiberius/Pilate dating immediately preceding (3:1), the word signifies a pneumatic descent into history—the sudden appearance of the Messenger in ultimates rather than local geography."
+          "explanation": "In canonical Luke, 'coming down' (κατῆλθεν) refers to geographical travel from Nazareth's hills to seaside Capernaum. In the Protograph, however, with the Tiberius/Pilate dating immediately preceding (3:1), the word signifies a pneumatic descent into history—the sudden appearance of Jesus in ultimates rather than local geography."
         }
       ]
     },
     {
       "chapter": 2,
       "title": "Proto-Luke Chapter 2",
-      "preamble": "The Messenger's authority, proclaimed in word, is now demonstrated in deed. In the assembly at Capernaum, he confronts an unclean spirit and commands it to silence and departure. The crowds witness a new kind of power—one that issues orders to the unseen world and is obeyed. Word spreads throughout the surrounding region. This is the empirical proof that will follow Jesus to Nazareth, where skeptics will demand: 'Do here what we heard you did in Capernaum.'",
+      "preamble": "Jesus's authority, proclaimed in word, is now demonstrated in deed. In the assembly at Capernaum, he confronts an unclean spirit and commands it to silence and departure. The crowds witness a new kind of power—one that issues orders to the unseen world and is obeyed. Word spreads throughout the surrounding region. This is the empirical proof that will follow Jesus to Nazareth, where skeptics will demand: 'Do here what we heard you did in Capernaum.'",
       "verses": [
         {
           "verse": 1,
@@ -238,14 +238,14 @@
           "term": "ὁ ἅγιος τοῦ θεοῦ (ho hagios tou theou)",
           "verse_refs": [1],
           "category": "theological",
-          "explanation": "The confession of the spirit is clinical; it recognizes the quality of holiness—the set-apart nature—of the Messenger."
+          "explanation": "The confession of the spirit is clinical; it recognizes the quality of holiness—the set-apart nature—of Jesus."
         },
         {
           "id": 4,
           "term": "Excision of Ναζαρηνέ (Nazarēne)",
           "verse_refs": [1],
           "category": "excision",
-          "explanation": "The term \"Nazarene\" is omitted in verse 34, following the earliest Marcionite and Jamesian witnesses. This decoupling serves to present the Messenger as a purely pneumatic figure rather than one defined by a specific geographical or biological origin."
+          "explanation": "The term \"Nazarene\" is omitted in verse 34, following the earliest Marcionite and Jamesian witnesses. This decoupling serves to present Jesus as a purely pneumatic figure rather than one defined by a specific geographical or biological origin."
         },
         {
           "id": 5,
@@ -273,7 +273,7 @@
           "term": "μηδὲν βλάψαν αὐτόν (mēden blapsan auton)",
           "verse_refs": [2],
           "category": "translation",
-          "explanation": "Translated as 'having harmed him not at all.' The use of μηδὲν (nothing/not at all) and βλάψαν (harming/injuring) emphasizes the totality of the Messenger's authority. The entity is permitted a final physical exertion (the throw) but is legally barred from inflicting biological injury upon the host."
+          "explanation": "Translated as 'having harmed him not at all.' The use of μηδὲν (nothing/not at all) and βλάψαν (harming/injuring) emphasizes the totality of Jesus's authority. The entity is permitted a final physical exertion (the throw) but is legally barred from inflicting biological injury upon the host."
         },
         {
           "id": 9,
@@ -294,7 +294,7 @@
           "term": "εὐαγγελίσασθαι (euangelisasthai)",
           "verse_refs": [5],
           "category": "translation",
-          "explanation": "The Greek identifies the Messenger's primary function as an announcer or herald of a new governance."
+          "explanation": "The Greek identifies Jesus's primary function as an announcer or herald of a new governance."
         },
         {
           "id": 12,
@@ -355,7 +355,7 @@
     {
       "chapter": 3,
       "title": "Proto-Luke Chapter 3",
-      "preamble": "On a level place, surrounded by a great crowd from Judea, Jerusalem, and the coastal regions, the Messenger delivers the foundational teaching of the movement. Here are the Beatitudes—not spiritualized blessings for the 'poor in spirit,' but direct declarations to those who are literally poor, hungry, and weeping. Here too are the corresponding Woes upon the rich and satisfied. This is the constitution of a new community: one built on radical generosity, love of enemies, and the rejection of judgment. The sermon concludes with the parable of two foundations—the one who hears and acts versus the one who hears and does nothing.",
+      "preamble": "On a level place, surrounded by a great crowd from Judea, Jerusalem, and the coastal regions, Jesus delivers the foundational teaching of the movement. Here are the Beatitudes—not spiritualized blessings for the 'poor in spirit,' but direct declarations to those who are literally poor, hungry, and weeping. Here too are the corresponding Woes upon the rich and satisfied. This is the constitution of a new community: one built on radical generosity, love of enemies, and the rejection of judgment. The sermon concludes with the parable of two foundations—the one who hears and acts versus the one who hears and does nothing.",
       "verses": [
         {
           "verse": 1,
@@ -499,7 +499,7 @@
           "term": "Emissaries (ἀποστόλους - apostolous)",
           "verse_refs": [2],
           "category": "translation",
-          "explanation": "The Greek denotes 'those sent out with a specific commission.' Using 'emissaries' strips away later ecclesiastical hagiography and returns the figure to its functional role as a legal representative of the Messenger."
+          "explanation": "The Greek denotes 'those sent out with a specific commission.' Using 'emissaries' strips away later ecclesiastical hagiography and returns the figure to its functional role as a legal representative of Jesus."
         },
         {
           "id": 5,
@@ -597,7 +597,7 @@
           "term": "πέτραν (petran)",
           "verse_refs": [18],
           "category": "theological",
-          "explanation": "The 'Rock' in this stratum is not an institutional figure (Peter) but the 'words' of the Messenger himself, providing the only stable foundation against the instability of the material age."
+          "explanation": "The 'Rock' in this stratum is not an institutional figure (Peter) but the 'words' of Jesus himself, providing the only stable foundation against the instability of the material age."
         },
         {
           "id": 19,
@@ -834,7 +834,7 @@
           "term": "Prophet (προφήτης - Prophētēs megas)",
           "verse_refs": [11],
           "category": "theological",
-          "explanation": "The identification of Jesus as a prophet is a hallmark of the Jamesian layer, grounding him in the historical prophetic tradition of Israel rather than the later \"Cosmic Christ\" of Paul. The crowd's recognition of a \"Great Prophet\" identifies the Messenger within the context of the promised \"Prophet like Moses,\" reinforcing the Jamesian community's continuity with the high prophetic tradition."
+          "explanation": "The identification of Jesus as a prophet is a hallmark of the Jamesian layer, grounding him in the historical prophetic tradition of Israel rather than the later \"Cosmic Christ\" of Paul. The crowd's recognition of a \"Great Prophet\" identifies Jesus within the context of the promised \"Prophet like Moses,\" reinforcing the Jamesian community's continuity with the high prophetic tradition."
         },
         {
           "id": 8,
@@ -1045,7 +1045,7 @@
           "term": "Who is my mother...? (Τίς μου ἡ μήτηρ...)",
           "verse_refs": [7],
           "category": "textual",
-          "explanation": "Tertullian (4.19.6, 4.19.11) confirms this interrogative opening, which is more polemical than the canonical \"My mother and my brothers are...\" The reconstruction follows the interrogative variant preserved by Tertullian and Marcion. It serves to decouple the Messenger from biological and biological-Davidic authority, prioritizing pneumatic loyalty."
+          "explanation": "Tertullian (4.19.6, 4.19.11) confirms this interrogative opening, which is more polemical than the canonical \"My mother and my brothers are...\" The reconstruction follows the interrogative variant preserved by Tertullian and Marcion. It serves to decouple Jesus from biological and biological-Davidic authority, prioritizing pneumatic loyalty."
         },
         {
           "id": 11,
@@ -1066,7 +1066,7 @@
           "term": "Ellipsis as Forensic Marker (8:22)",
           "verse_refs": [8],
           "category": "excision",
-          "explanation": "The ellipsis in verse 8 is a deliberate forensic marker acknowledging that the source witness (Tertullian) skips the connecting descriptive narrative, moving directly from the setting of the 'days' to the clinical command of the Messenger. The phrases 'and he entered into a boat with his disciples' and 'and they set sail' found in Canonical Luke are excised as secondary editorial bridges designed to harmonize the primitive text into a smoother Greco-Roman narrative."
+          "explanation": "The ellipsis in verse 8 is a deliberate forensic marker acknowledging that the source witness (Tertullian) skips the connecting descriptive narrative, moving directly from the setting of the 'days' to the clinical command of Jesus. The phrases 'and he entered into a boat with his disciples' and 'and they set sail' found in Canonical Luke are excised as secondary editorial bridges designed to harmonize the primitive text into a smoother Greco-Roman narrative."
         },
         {
           "id": 14,
@@ -1080,14 +1080,14 @@
           "term": "Rebuked (ἐπετίμησεν - epetimēsen)",
           "verse_refs": [9],
           "category": "translation",
-          "explanation": "Rendered as 'rebuked' to reflect the authoritative, legalistic binding of the natural elements by the Messenger's pneumatic power."
+          "explanation": "Rendered as 'rebuked' to reflect the authoritative, legalistic binding of the natural elements by Jesus's pneumatic power."
         },
         {
           "id": 16,
           "term": "Surging of the water (κλύδωνι τοῦ ὕδατος - klydōni tou hydatos)",
           "verse_refs": [9],
           "category": "translation",
-          "explanation": "Translated literally as 'surging' or 'raging' of the water. This clinical detail emphasizes the physical debris of the storm that the Messenger successfully nullifies."
+          "explanation": "Translated literally as 'surging' or 'raging' of the water. This clinical detail emphasizes the physical debris of the storm that Jesus successfully nullifies."
         },
         {
           "id": 17,
@@ -1108,7 +1108,7 @@
           "term": "Who then is this? (Τίς ἄρα οὗτός ἐστιν)",
           "verse_refs": [9],
           "category": "textual",
-          "explanation": "Unlike the disciples' cry, this final question is explicitly verified. In Adversus Marcionem 4.20.1, Tertullian cites the reaction: 'Who is this who commands the winds and the sea/water?' This reaction is essential to the Jamesian stratum because it records the empirical validation of the Messenger's authority over the material elements."
+          "explanation": "Unlike the disciples' cry, this final question is explicitly verified. In Adversus Marcionem 4.20.1, Tertullian cites the reaction: 'Who is this who commands the winds and the sea/water?' This reaction is essential to the Jamesian stratum because it records the empirical validation of Jesus's authority over the material elements."
         },
         {
           "id": 20,
@@ -1140,7 +1140,7 @@
     {
       "chapter": 6,
       "title": "Proto-Luke Chapter 6",
-      "preamble": "The Messenger's authority extends over nature, demons, disease, and death itself. Crossing the sea, Jesus calms a storm with a word, prompting the disciples to ask: 'Who then is this, that he commands even the winds and the water?' On the far shore, he confronts a man possessed by a legion of unclean spirits—a dramatic exorcism that sends the demons into a herd of swine. Returning across the lake, he heals a woman who had suffered for twelve years and raises a ruler's daughter from death. The chapter demonstrates that no force—natural, spiritual, or mortal—stands beyond his command.",
+      "preamble": "Jesus's authority extends over nature, demons, disease, and death itself. Crossing the sea, Jesus calms a storm with a word, prompting the disciples to ask: 'Who then is this, that he commands even the winds and the water?' On the far shore, he confronts a man possessed by a legion of unclean spirits—a dramatic exorcism that sends the demons into a herd of swine. Returning across the lake, he heals a woman who had suffered for twelve years and raises a ruler's daughter from death. The chapter demonstrates that no force—natural, spiritual, or mortal—stands beyond his command.",
       "verses": [
         {
           "verse": 1,
@@ -1285,7 +1285,7 @@
         {
           "id": 1,
           "term": "Ἐπιστάτα (Epistata)",
-          "explanation": "Literally \"Commander\" or \"Master.\" This Lukan term is preferred over \"Teacher\" (didaskale) to emphasize the clinical authority the Messenger holds over the material environment.",
+          "explanation": "Literally \"Commander\" or \"Master.\" This Lukan term is preferred over \"Teacher\" (didaskale) to emphasize the clinical authority Jesus holds over the material environment.",
           "verse_refs": [1],
           "category": "translation"
         },
@@ -1446,7 +1446,7 @@
         {
           "id": 24,
           "term": "Excision of Distribution Clause (9:16b)",
-          "explanation": "The final clause 'and was giving them to the disciples to set before the crowd' (καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ) is excised because it is unattested in the primary Marcionite witnesses. Tertullian passes over the distribution in silence, and Epiphanius (Scholion 15) restricts his citation to the act of looking up and blessing. In the Jamesian layer, the miracle is characterized by clinical, pneumatic suddenness—the narrative flows directly from the Messenger's act of 'breaking' (v. 22) to the crowds being 'satisfied' (v. 23) without the intervening logistics of distribution, which are viewed as secondary ecclesiastical additions emphasizing the mediating role of the twelve.",
+          "explanation": "The final clause 'and was giving them to the disciples to set before the crowd' (καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ) is excised because it is unattested in the primary Marcionite witnesses. Tertullian passes over the distribution in silence, and Epiphanius (Scholion 15) restricts his citation to the act of looking up and blessing. In the Jamesian layer, the miracle is characterized by clinical, pneumatic suddenness—the narrative flows directly from Jesus's act of 'breaking' (v. 22) to the crowds being 'satisfied' (v. 23) without the intervening logistics of distribution, which are viewed as secondary ecclesiastical additions emphasizing the mediating role of the twelve.",
           "verse_refs": [22],
           "category": "excision"
         },
@@ -1467,7 +1467,7 @@
         {
           "id": 27,
           "term": "Ancients (ἀρχαίων - archaiōn)",
-          "explanation": "This term confirms that the Messenger was perceived as the return of the primitive Spirit of the Law, bypassing the institutional structures of the late Second Temple era.",
+          "explanation": "This term confirms that Jesus was perceived as the return of the primitive Spirit of the Law, bypassing the institutional structures of the late Second Temple era.",
           "verse_refs": [18],
           "category": "translation"
         }
@@ -1620,7 +1620,7 @@
         {
           "id": 2,
           "term": "Χριστὸν τοῦ θεοῦ (Christon tou theou)",
-          "explanation": "\"The Anointed of God.\" The dynastic/functional title of the Davidic heir, which the Messenger immediately refines in the following verses.",
+          "explanation": "\"The Anointed of God.\" The dynastic/functional title of the Davidic heir, which Jesus immediately refines in the following verses.",
           "verse_refs": [2],
           "category": "translation"
         },
@@ -1641,14 +1641,14 @@
         {
           "id": 5,
           "term": "ἀποδοκιμασθῆναι (apodokimasthēnai)",
-          "explanation": "A forensic term meaning \"to be rejected after examination.\" This emphasizes the clinical necessity of the Messenger's rejection by the institutional \"vessels\" of the old age.",
+          "explanation": "A forensic term meaning \"to be rejected after examination.\" This emphasizes the clinical necessity of Jesus's rejection by the institutional \"vessels\" of the old age.",
           "verse_refs": [3],
           "category": "translation"
         },
         {
           "id": 6,
           "term": "ἐγερθῆναι (egerthēnai)",
-          "explanation": "Passive: \"to be raised.\" The Protograph identifies the resurrection as an act of the Divine upon the Messenger, rather than an autonomous biological revival.",
+          "explanation": "Passive: \"to be raised.\" The Protograph identifies the resurrection as an act of the Divine upon Jesus, rather than an autonomous biological revival.",
           "verse_refs": [3],
           "category": "translation"
         },
@@ -1690,7 +1690,7 @@
         {
           "id": 12,
           "term": "Receives (δέχεται - dechetai) in 9:48",
-          "explanation": "This implies a hospitable inclusion into the community, establishing a chain of pneumatic authority from the Father to the Messenger.",
+          "explanation": "This implies a hospitable inclusion into the community, establishing a chain of pneumatic authority from the Father to Jesus.",
           "verse_refs": [12],
           "category": "translation"
         },
@@ -1704,7 +1704,7 @@
         {
           "id": 14,
           "term": "Beloved (ἀγαπητός - agapētos)",
-          "explanation": "Marcion's text and the early Jamesian witnesses prioritize \"Beloved\" over the canonical \"Chosen\" (ἐκλελεγμένος). \"Beloved\" emphasizes the internal conjunction of Love between the Father and the Messenger.",
+          "explanation": "Marcion's text and the early Jamesian witnesses prioritize \"Beloved\" over the canonical \"Chosen\" (ἐκλελεγμένος). \"Beloved\" emphasizes the internal conjunction of Love between the Father and Jesus.",
           "verse_refs": [8],
           "category": "textual"
         },
@@ -1725,7 +1725,7 @@
         {
           "id": 17,
           "term": "Omission in 9:54",
-          "explanation": "The phrase \"as Elijah did\" (ὡς καὶ Ἠλίας ἐποίησεν) is omitted based on the Western substrate (P75, B). Its removal prevents a direct mapping of the Messenger onto the violent motifs of the old prophets.",
+          "explanation": "The phrase \"as Elijah did\" (ὡς καὶ Ἠλίας ἐποίησεν) is omitted based on the Western substrate (P75, B). Its removal prevents a direct mapping of Jesus onto the violent motifs of the old prophets.",
           "verse_refs": [15],
           "category": "excision"
         },
@@ -1765,7 +1765,7 @@
           },
           {
             "title": "The Authority of the Word",
-            "explanation": "By rebuking Peter's biological confession and substituting it with the Passion prediction (9:21-22), Jesus establishes that the Messenger is defined by his Suffering Use (service) and not his earthly status. This is the core of the Jamesian critique of the Pauline \"Cosmic Christ\"—true authority is found in the grit of ethical action on the way to Jerusalem."
+            "explanation": "By rebuking Peter's biological confession and substituting it with the Passion prediction (9:21-22), Jesus establishes that the Anointed One is defined by his Suffering Use (service) and not his earthly status. This is the core of the Jamesian critique of the Pauline \"Cosmic Christ\"—true authority is found in the grit of ethical action on the way to Jerusalem."
           }
         ]
       }
@@ -2187,7 +2187,7 @@
     {
       "chapter": 10,
       "title": "Proto-Luke Chapter 10",
-      "preamble": "Fear not, little flock. This chapter addresses the anxieties of those who would follow the Messenger. Do not fear those who can kill the body but can do nothing more. Do not worry about food or clothing—consider the ravens, consider the lilies. Your Father knows what you need. Instead, seek the kingdom, and these things will be added to you. The chapter also warns of coming division: households will be split, father against son, mother against daughter. The time of decision has arrived, and those who cannot read the signs of this moment are called hypocrites.",
+      "preamble": "Fear not, little flock. This chapter addresses the anxieties of those who would follow Jesus. Do not fear those who can kill the body but can do nothing more. Do not worry about food or clothing—consider the ravens, consider the lilies. Your Father knows what you need. Instead, seek the kingdom, and these things will be added to you. The chapter also warns of coming division: households will be split, father against son, mother against daughter. The time of decision has arrived, and those who cannot read the signs of this moment are called hypocrites.",
       "verses": [
         {
           "verse": 1,
@@ -2405,7 +2405,7 @@
         {
           "id": 8,
           "term": "ὁ υἱὸς τοῦ ἀνθρώπου (ho huios tou anthrōpou)",
-          "explanation": "\"The Son of the Human.\" This title denotes the Messenger as the representative of the restored pneumatic humanity.",
+          "explanation": "\"The Son of the Human.\" This title denotes Jesus as the representative of the restored pneumatic humanity.",
           "verse_refs": [6, 21],
           "category": "translation"
         },
@@ -2461,7 +2461,7 @@
         {
           "id": 16,
           "term": "Judge or Divider (κριτὴν ἢ μεριστήν - kritēn ē meristēn)",
-          "explanation": "The term \"divider\" (μεριστήν) is the literal translation denoting a functional office of legal distribution. The Messenger's refusal to act in this capacity reinforces the separation between the Kingdom and material debt-management.",
+          "explanation": "The term \"divider\" (μεριστήν) is the literal translation denoting a functional office of legal distribution. Jesus's refusal to act in this capacity reinforces the separation between the Kingdom and material debt-management.",
           "verse_refs": [10],
           "category": "translation"
         },
@@ -2587,7 +2587,7 @@
         {
           "id": 34,
           "term": "ἀπὸ τοῦ νῦν (apo tou nyn)",
-          "explanation": "\"From now on.\" This identifies the establishment of the Kingdom as a present, transformative event starting at the point of the Messenger's descent.",
+          "explanation": "\"From now on.\" This identifies the establishment of the Kingdom as a present, transformative event starting at the point of Jesus's descent.",
           "verse_refs": [25],
           "category": "translation"
         }
@@ -3017,7 +3017,7 @@
           },
           {
             "title": "The Rejection of Material Attachment",
-            "explanation": "The excuses offered in the Parable of the Banquet (14:18-20) represent worldly attachments—land, capital (oxen), and biological lineage. The 'Master' identifies these as the primary obstacles to following the Messenger."
+            "explanation": "The excuses offered in the Parable of the Banquet (14:18-20) represent worldly attachments—land, capital (oxen), and biological lineage. The 'Master' identifies these as the primary obstacles to following Jesus."
           },
           {
             "title": "The Call to the Margin",
@@ -3025,7 +3025,7 @@
           },
           {
             "title": "The Law of Hate",
-            "explanation": "The command to \"hate\" one's family (14:26) is a forensic requirement to detach the self from self-interest mediated through biological ties, ensuring absolute loyalty to the Messenger."
+            "explanation": "The command to \"hate\" one's family (14:26) is a forensic requirement to detach the self from self-interest mediated through biological ties, ensuring absolute loyalty to Jesus."
           }
         ]
       }
@@ -3101,7 +3101,7 @@
         {
           "id": 2,
           "term": "Drawing near (ἐγγίζοντες - engizontes)",
-          "explanation": "Literally \"drawing near.\" This describes a clinical proximity to the Messenger to receive the Word.",
+          "explanation": "Literally \"drawing near.\" This describes a clinical proximity to Jesus to receive the Word.",
           "verse_refs": [1],
           "category": "translation"
         },
@@ -3316,7 +3316,7 @@
         {
           "id": 3,
           "term": "Mine (τὸ ἐμὸν - to emon)",
-          "explanation": "While canonical texts read \"your own\" (τὸ ὑμέτερον), the Jamesian Protograph emphasizes that spiritual wealth is the specific property of the Messenger, which he chooses to share with the faithful. This establishes a clinical hierarchy: the Spirit's resources belong to the Messenger/Father, and the follower is merely a steward of what is \"His.\"",
+          "explanation": "While canonical texts read \"your own\" (τὸ ὑμέτερον), the Jamesian Protograph emphasizes that spiritual wealth is the specific property of Jesus, which he chooses to share with the faithful. This establishes a clinical hierarchy: the Spirit's resources belong to Jesus/the Father, and the follower is merely a steward of what is \"His.\"",
           "verse_refs": [4],
           "category": "textual"
         },
@@ -3351,7 +3351,7 @@
         {
           "id": 8,
           "term": "My words (τῶν λόγων μου - tōn logōn mou)",
-          "explanation": "This reading replaces the canonical 'the Law' (τοῦ νόμου). In the Jamesian Protograph, the authority of the 'Old Aeon' (the Law and Prophets) reaches its terminus with John. The permanence once ascribed to the Torah is transferred to the pneumatic proclamation of the Savior. Tertullian notes this specific 'emendation,' though forensically it is treated as the original reading of the Proto-Lukan source. The replacement identifies the Messenger as a new Lawgiver whose internal 'Law of Love' supersedes the external ritual requirements of the Temple cult.",
+          "explanation": "This reading replaces the canonical 'the Law' (τοῦ νόμου). In the Jamesian Protograph, the authority of the 'Old Aeon' (the Law and Prophets) reaches its terminus with John. The permanence once ascribed to the Torah is transferred to the pneumatic proclamation of the Savior. Tertullian notes this specific 'emendation,' though forensically it is treated as the original reading of the Proto-Lukan source. The replacement identifies Jesus as a new Lawgiver whose internal 'Law of Love' supersedes the external ritual requirements of the Temple cult.",
           "verse_refs": [9],
           "category": "textual"
         },
@@ -3400,7 +3400,7 @@
         {
           "id": 15,
           "term": "Should rise (ἀναστῇ - anastē)",
-          "explanation": "The final forensic statement links the rejection of the Messenger's word directly to the inability to perceive the Spirit, regardless of physical signs.",
+          "explanation": "The final forensic statement links the rejection of Jesus's word directly to the inability to perceive the Spirit, regardless of physical signs.",
           "verse_refs": [22],
           "category": "theological"
         },
@@ -3911,7 +3911,7 @@
         {
           "id": 9,
           "term": "Guarded (ἐφύλαξα - ephylaxa) in 18:21",
-          "explanation": "\"Guarded\" reflects the clinical sense of observing or keeping a legal deposit. In the Jamesian layer, the Law is treated as a baseline of knowledge rather than the climax of the Messenger's teaching.",
+          "explanation": "\"Guarded\" reflects the clinical sense of observing or keeping a legal deposit. In the Jamesian layer, the Law is treated as a baseline of knowledge rather than the climax of Jesus's teaching.",
           "verse_refs": [14],
           "category": "translation"
         },
@@ -3946,7 +3946,7 @@
         {
           "id": 14,
           "term": "He saw (ἀνέβλεψεν - aneblepsen) in 18:43",
-          "explanation": "Literally 'looked up' or 'saw again.' The restoration of sight serves as forensic proof of the Messenger's authority within the material realm.",
+          "explanation": "Literally 'looked up' or 'saw again.' The restoration of sight serves as forensic proof of Jesus's authority within the material realm.",
           "verse_refs": [22, 23],
           "category": "translation"
         },
@@ -3974,7 +3974,7 @@
         {
           "id": 18,
           "term": "Excision of \"of Nazareth\" (ὁ Ναζωραῖος)",
-          "explanation": "In verse 37, the reconstruction follows the primitive variant that omits the geographical/biological marker. This presents the Messenger as a clinical fact of spiritual power rather than a localized human entity.",
+          "explanation": "In verse 37, the reconstruction follows the primitive variant that omits the geographical/biological marker. This presents Jesus as a clinical fact of spiritual power rather than a localized human entity.",
           "verse_refs": [20],
           "category": "excision"
         },
@@ -3988,7 +3988,7 @@
         {
           "id": 20,
           "term": "Begging (ἐπαιτῶν - epaitōn)",
-          "explanation": "This detail reinforces the Messenger's association with the marginalized Ebionim.",
+          "explanation": "This detail reinforces Jesus's association with the marginalized Ebionim.",
           "verse_refs": [19],
           "category": "translation"
         }
@@ -4011,7 +4011,7 @@
           },
           {
             "title": "The Blind Man at Jericho",
-            "explanation": "The healing narrative, without the third passion prediction, maintains focus on the power of the Spirit over physical lack. The Messenger moves from the ethical encounter with the rich ruler directly to the restoration of the marginalized."
+            "explanation": "The healing narrative, without the third passion prediction, maintains focus on the power of the Spirit over physical lack. Jesus moves from the ethical encounter with the rich ruler directly to the restoration of the marginalized."
           }
         ]
       }
@@ -4140,7 +4140,7 @@
         {
           "id": 1,
           "term": "Zacchaeus (Ζακχαῖος)",
-          "explanation": "Tertullian identifies Zacchaeus as a foreigner (allophylus), yet his presence is retained as a dry fact of the Messenger's interaction with those outside the elite.",
+          "explanation": "Tertullian identifies Zacchaeus as a foreigner (allophylus), yet his presence is retained as a dry fact of Jesus's interaction with those outside the elite.",
           "verse_refs": [1, 2, 3, 4, 5],
           "category": "theological"
         },
@@ -4168,7 +4168,7 @@
         {
           "id": 5,
           "term": "Save the lost (σῶσαι τὸ ἀπολωλός - sōsai to apolōlos)",
-          "explanation": "The primitive stratum notably omits \"seek\" (ζητῆσαι) in some variants. The Messenger's function is defined as the final recovery of the human form from its lost state.",
+          "explanation": "The primitive stratum notably omits \"seek\" (ζητῆσαι) in some variants. Jesus's function is defined as the final recovery of the human form from its lost state.",
           "verse_refs": [8],
           "category": "textual"
         },
@@ -4259,7 +4259,7 @@
         {
           "id": 18,
           "term": "Excision of \"and buying\"",
-          "explanation": "The reconstruction omits \"and those buying,\" following the shorter reading which focuses the Messenger's action on the removal of commercial activity from the sacred space.",
+          "explanation": "The reconstruction omits \"and those buying,\" following the shorter reading which focuses Jesus's action on the removal of commercial activity from the sacred space.",
           "verse_refs": [19],
           "category": "excision"
         }
@@ -4274,7 +4274,7 @@
           },
           {
             "title": "The Rejection of the Temple Entry",
-            "explanation": "By omitting the Triumphal Entry (19:29-46), the Protograph avoids portraying Jesus as a Davidic king claiming the physical Temple. Instead, the narrative transitions directly from the stewardship of the minas to the internal reality of the Messenger's authority."
+            "explanation": "By omitting the Triumphal Entry (19:29-46), the Protograph avoids portraying Jesus as a Davidic king claiming the physical Temple. Instead, the narrative transitions directly from the stewardship of the minas to the internal reality of Jesus's authority."
           },
           {
             "title": "The Austere Master",
@@ -4454,7 +4454,7 @@
         {
           "id": 12,
           "term": "Christ not David's son (20:41-44)",
-          "explanation": "The Messenger uses the internal logic of the Spirit to decouple the Christ from biological Davidic ancestry, consistent with the Adoptionist stratum of the Jamesian source.",
+          "explanation": "Jesus uses the internal logic of the Spirit to decouple the Anointed One from biological Davidic ancestry, consistent with the Adoptionist stratum of the Jamesian source.",
           "verse_refs": [12, 13],
           "category": "theological"
         },
@@ -4472,7 +4472,7 @@
         "points": [
           {
             "title": "The Decoupling from the Prophets",
-            "explanation": "By omitting the Parable of the Wicked Tenants (20:9-18), the Protograph rejects the notion that Jesus is the 'heir' of the prophetic tradition in a biological or institutional sense. The authority of the Messenger comes directly from the Spirit, not through inheritance."
+            "explanation": "By omitting the Parable of the Wicked Tenants (20:9-18), the Protograph rejects the notion that Jesus is the 'heir' of the prophetic tradition in a biological or institutional sense. The authority of Jesus comes directly from the Spirit, not through inheritance."
           },
           {
             "title": "The Abolition of Marriage",
@@ -4624,7 +4624,7 @@
         {
           "id": 4,
           "term": "I am the Christ (ἐγώ εἰμι ὁ Χριστός)",
-          "explanation": "This specific phrasing is found in the Marcionite layer, distancing the Messenger from those claiming localized, material messiahship.",
+          "explanation": "This specific phrasing is found in the Marcionite layer, distancing Jesus from those claiming localized, material messiahship.",
           "verse_refs": [3],
           "category": "textual"
         },
@@ -4744,7 +4744,7 @@
           },
           {
             "title": "The Supersession of Matter",
-            "explanation": "In v. 33, the Messenger asserts that his 'words' are more permanent than the physical universe. This reflects a High Pneumatic Christology where the Spirit (the Word) is the only objective reality, and the material 'heaven and earth' are merely temporary vessels."
+            "explanation": "In v. 33, Jesus asserts that his 'words' are more permanent than the physical universe. This reflects a High Pneumatic Christology where the Spirit (the Word) is the only objective reality, and the material 'heaven and earth' are merely temporary vessels."
           },
           {
             "title": "The Law of Sobriety",
@@ -4927,7 +4927,7 @@
         {
           "id": 9,
           "term": "Benefactors (εὐεργέται - euergetai)",
-          "explanation": "A specific socio-political title of the Greco-Roman world. The Messenger uses it here to critique the 'Old Aeon' logic of patronage and hierarchy.",
+          "explanation": "A specific socio-political title of the Greco-Roman world. Jesus uses it here to critique the 'Old Aeon' logic of patronage and hierarchy.",
           "verse_refs": [8],
           "category": "translation"
         },
@@ -5160,14 +5160,14 @@
         {
           "id": 1,
           "term": "Destroying the law and the prophets (καταλύοντα τὸν νόμον καὶ τοὺς προφήτας)",
-          "explanation": "This specific charge is explicitly attested by Epiphanius as a diagnostic marker of this stratum. It confirms the clinical nature of the Messenger's mission: the total abrogation of the old legal and prophetic system rather than a mere internal reform.",
+          "explanation": "This specific charge is explicitly attested by Epiphanius as a diagnostic marker of this stratum. It confirms the clinical nature of Jesus's mission: the total abrogation of the old legal and prophetic system rather than a mere internal reform.",
           "verse_refs": [2],
           "category": "textual"
         },
         {
           "id": 2,
           "term": "The Christ (ὁ Χριστός)",
-          "explanation": "The reconstruction follows the variant where 'The Christ' is prioritized over the Roman political category 'King of the Jews,' centering the trial on the pneumatic function of the Messenger.",
+          "explanation": "The reconstruction follows the variant where 'The Christ' is prioritized over the Roman political category 'King of the Jews,' centering the trial on the pneumatic function of Jesus.",
           "verse_refs": [3],
           "category": "textual"
         },
@@ -5258,7 +5258,7 @@
         {
           "id": 15,
           "term": "Paradise (παραδείσῳ - paradeisō) in 23:43",
-          "explanation": "The reconstruction preserves the verse as found in the Marcionite/Tertullian stratum, representing the immediate spiritual enthronement of the Messenger.",
+          "explanation": "The reconstruction preserves the verse as found in the Marcionite/Tertullian stratum, representing the immediate spiritual enthronement of Jesus.",
           "verse_refs": [15],
           "category": "translation"
         },
@@ -5272,7 +5272,7 @@
         {
           "id": 17,
           "term": "Omission of 'Father forgive them' (23:34a)",
-          "explanation": "The earliest witnesses and the forensic reconstruction protocol excise this phrase as a secondary interpolation intended to soften the Messenger's resolve.",
+          "explanation": "The earliest witnesses and the forensic reconstruction protocol excise this phrase as a secondary interpolation intended to soften Jesus's resolve.",
           "verse_refs": [],
           "category": "excision"
         },
@@ -5300,7 +5300,7 @@
         {
           "id": 21,
           "term": "Relationship to the Father",
-          "explanation": "The prayer 'Father, into your hands...' contrasts with the Markan cry of abandonment, depicting the Messenger as one whose spiritual communion remains intact during physical suffering.",
+          "explanation": "The prayer 'Father, into your hands...' contrasts with the Markan cry of abandonment, depicting Jesus as one whose spiritual communion remains intact during physical suffering.",
           "verse_refs": [17],
           "category": "theological"
         },
@@ -5314,11 +5314,11 @@
       ],
       "additional_explanation": {
         "title": "The Trial and the Abrogation",
-        "content": "Chapter 21 of the Protograph presents the legal culmination of the Messenger's mission.",
+        "content": "Chapter 21 of the Protograph presents the legal culmination of Jesus's mission.",
         "points": [
           {
             "title": "The Unique Charge",
-            "explanation": "The accusation of 'destroying the law and the prophets' (23:2) is the forensic confession of the Jerusalem elite. They correctly identify the Messenger's purpose: not reform, but the complete abrogation of the old legal and prophetic order. This charge is absent from the canonical text but preserved in Epiphanius."
+            "explanation": "The accusation of 'destroying the law and the prophets' (23:2) is the forensic confession of the Jerusalem elite. They correctly identify Jesus's purpose: not reform, but the complete abrogation of the old legal and prophetic order. This charge is absent from the canonical text but preserved in Epiphanius."
           },
           {
             "title": "The Paradise Promise",
@@ -5440,7 +5440,7 @@
         {
           "id": 4,
           "term": "Son of Man (τὸν υἱὸν τοῦ ἀνθρώπου)",
-          "explanation": "Used here as the clinical referent for the Messenger's eschatological role.",
+          "explanation": "Used here as the clinical referent for Jesus's eschatological role.",
           "verse_refs": [3],
           "category": "translation"
         },
@@ -5468,7 +5468,7 @@
         {
           "id": 8,
           "term": "Western Non-Interpolation (24:6a)",
-          "explanation": "The explicit proclamation of resurrection at the tomb is clinically absent in the Western (D) and Marcionite witnesses; Proto-Luke focuses on the memory (anamnesis) of the Messenger's teaching rather than a kerygmatic proof.",
+          "explanation": "The explicit proclamation of resurrection at the tomb is clinically absent in the Western (D) and Marcionite witnesses; Proto-Luke focuses on the memory (anamnesis) of Jesus's teaching rather than a kerygmatic proof.",
           "verse_refs": [3],
           "category": "textual"
         },
@@ -5559,7 +5559,7 @@
       ],
       "additional_explanation": {
         "title": "Summary of the Jamesian Protograph",
-        "content": "This concluding chapter of the Jamesian Protograph (Proto-Luke) represents the primitive record of the spiritual manifestation (Soma Pneumatikon) of the Messenger. Unlike the later canonical expansion, this stratum is defined by the 'Western Non-Interpolations'—shorter readings that lack the secondary physicalist 'proofs' (flesh, bones, and eating) added in the second century to combat Gnosticism.",
+        "content": "This concluding chapter of the Jamesian Protograph (Proto-Luke) represents the primitive record of the spiritual manifestation (Soma Pneumatikon) of Jesus. Unlike the later canonical expansion, this stratum is defined by the 'Western Non-Interpolations'—shorter readings that lack the secondary physicalist 'proofs' (flesh, bones, and eating) added in the second century to combat Gnosticism.",
         "points": [
           {
             "title": "The Tomb as Ambiguous Sign",
