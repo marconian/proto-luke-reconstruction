@@ -10,7 +10,7 @@
 **9:1** Συγκαλεσάμενος δὲ τοὺς δώδεκα ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν· **2** καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι. **3** εἶπεν δὲ πρὸς αὐτούς· Μηδὲν αἴρετε εἰς τὴν ὁδόν, μήτε πήραν μήτε ἄρτον μήτε ἀργύριον, μήτε δύο χιτῶνας ἔχειν. **5** καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάξατε εἰς μαρτύριον ἐπ᾿ αὐτούς. **6** ἐξερχόμενοι δὲ διήρχοντο κατὰ πόλεις καὶ κώμας **εὐαγγελιζόμενοι** καὶ θεραπεύοντες πανταχοῦ 4, 5\.
 
 * *Notes on Translation and Textual Logic:*  
-* **Omission of the Staff (9:3):** *The "staff" (ῥάβδον) is omitted in this stratum to emphasize total reliance on the Divine Influx. This ascetic requirement aligns the mission of the twelve with the later mission of the seventy 4\.*  
+* **Omission of the Staff (9:3):** *The "staff" (ῥάβδον) is omitted in this stratum to emphasize total reliance on divine power. This ascetic requirement aligns the mission of the twelve with the later mission of the seventy 4\.*  
 * **εὐαγγελιζόμενοι (euangelizomenoi):** *“Announcing the good news.” This denotes the formal royal proclamation of the Kingdom, a diagnostic feature of the Proto-Lukan base 5, 6\.*
 
 **9:7** Ἤκουσεν δὲ Ἡρῴδης ὁ τετραάρχης τὰ γινόμενα πάντα, καὶ διηπόρει... **8** ...λέγεσθαι ὑπό τινων ὅτι **Ἠλίας** ἐφάνη, ἄλλων δὲ ὅτι **προφήτης** τις τῶν ἀρχαίων ἀνέστη 4\.

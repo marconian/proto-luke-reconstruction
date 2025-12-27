@@ -16,7 +16,7 @@
 **5:1** Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ, **2** καὶ εἶδεν δύο **πλοῖα** ἑστῶτα παρὰ τὴν λίμνην· οἱ δὲ ἁλιεῖς ἀπ᾿ αὐτῶν ἀποβάντες ἔπλυνον τὰ δίκτυα. **3** ἐμβὰς δὲ εἰς ἓν τῶν πλοίων, ὃ ἦν Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον· καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους.
 
 * *Notes on Translation and Textual Logic:*  
-* **Vocation Narrative:** *Verses 5:1–11 are retained as a non-Markan original central to the Jamesian community. This narrative establishes the dependence of the "Poor" (Ebionim) on the Divine Influx rather than an abrupt, unmotivated calling 1, 5\.*  
+* **Vocation Narrative:** *Verses 5:1–11 are retained as a non-Markan original central to the Jamesian community. This narrative establishes the dependence of the "Poor" (Ebionim) on divine power rather than an abrupt, unmotivated calling 1, 5\.*  
 * **Boats (πλοῖα \- ploia):** *The term is recorded as a dry economic fact, representing the material substrate of the Galilean movement 1\.*
 
 **5:4** Ὡς δὲ ἐπαύσατο λαλῶν, εἶπεν πρὸς τὸν Σίμωνα· Ἐπανάγαγε εἰς τὸ βάθος καὶ χαλάσατε τὰ δίκτυα ὑμῶν εἰς ἄγραν. **5** καὶ ἀποκριθεὶς Σίμων εἶπεν· **Ἐπιστάτα**, δι᾽ ὅλης νυκτὸς κοπιάσαντες οὐδὲν ἐλάβομεν, ἐπὶ δὲ τῷ ῥήματί σου χαλάσω τὰ δίκτυα. **6** καὶ τοῦτο ποιήσαντες συνέκλεισαν πλῆθος ἰχθύων πολύ, διερρήσσετο δὲ τὰ δίκτυα αὐτῶν.

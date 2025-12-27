@@ -18,7 +18,7 @@
 * *Notes on Translation and Textual Logic:*  
 * **δεῖπνον (deipnon):** *The reconstruction omits "great" (μέγα) following the primitive layer preserved in Marcionite witnesses* 2, 4\.  
 * **δοῦλον (doulon):** *Strictly rendered as "slave" to reflect the actual socioeconomic hierarchy of the Roman-Judean substrate* 2\.  
-* **παραιτεῖσθαι (paraiteisthai):** *“To excuse themselves.” The excuses focus on material Ultimates (land, labor, biological kinship) as the primary obstacles to the Kingdom* 2, 4\.
+* **παραιτεῖσθαι (paraiteisthai):** *“To excuse themselves.” The excuses focus on material possessions (land, labor, biological kinship) as the primary obstacles to the Kingdom* 2, 4\.
 
 **14:21** ...τοὺς πτωχοὺς καὶ ἀναπείρους καὶ τυφλοὺς καὶ χωλοὺς **εἰσάγαγε** ὧδε. **24** λέγω γὰρ ὑμῖν ὅτι οὐδεὶς τῶν **ἀνδρῶν** ἐκείνων τῶν κεκλημένων γεύσεταί μου τοῦ δείπνου.
 
@@ -29,5 +29,5 @@
 **14:33** οὕτως οὖν πᾶς ἐξ ὑμῶν ὃς οὐκ **ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν** αὐτοῦ οὐ δύναται εἶναί μου μαθητής.
 
 * *Notes on Translation and Textual Logic:*  
-* **ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν (apotassetai pasin tois hyparchousin):** *“Says farewell to all his possessions.” This is the definitive forensic requirement for entry into the community of the Poor. Discipleship is contingent upon the total liquidation of private material Ultimates* 2, 6\.
+* **ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν (apotassetai pasin tois hyparchousin):** *“Says farewell to all his possessions.” This is the definitive forensic requirement for entry into the community of the Poor. Discipleship is contingent upon the total liquidation of private material possessions* 2, 6\.
 

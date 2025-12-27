@@ -21,7 +21,7 @@
 
 * *Notes on Reconstruction and Translation Logic:*  
 * **δραχμάς (drachmas):** *“Drachmas.” A specific silver coin. The loss of a material ultimate serves to illustrate the forensic value of the individual within the community of the poor (Ebionim) 4, 5\.*  
-* **Joy before God (χαρὰ ἐνώπιον τοῦ θεοῦ):** *Consistent with the prior verse, the mention of "messengers" (angels) is explicitly absent in the primitive layer 5\. The "joy" is a direct result of the Divine Influx recognizing a return to pneumatic order 5\.*
+* **Joy before God (χαρὰ ἐνώπιον τοῦ θεοῦ):** *Consistent with the prior verse, the mention of "messengers" (angels) is explicitly absent in the primitive layer 5\. The "joy" is a direct result of divine power recognizing a return to pneumatic order 5\.*
 
 **15:11–32** Οὗτοι οἱ στίχοι, οἱ περὶ τοῦ ἀσώτου υἱοῦ, οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι. 5-7
 

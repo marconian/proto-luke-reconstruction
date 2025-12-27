@@ -17,7 +17,7 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **χιτῶνα (chitōna):** *The "inner garment." The command facilitates a total stripping of the material self to maintain the internal "Royal Law" of love 7\.*  
-* **μηδὲν ἀπελπίζοντες (mēden apelpizontes):** *Restored as "despairing of nothing." It signifies an absolute reliance on Divine Influx rather than the commercial logic of reciprocity or debt 7\.*  
+* **μηδὲν ἀπελπίζοντες (mēden apelpizontes):** *Restored as "despairing of nothing." It signifies an absolute reliance on divine power rather than the commercial logic of reciprocity or debt 7\.*  
 * **ποιεῖτε (poieite):** *The imperative "do" is the active verb governing the Golden Rule (6:31), which Jamesian theology regards as the "Law of Liberty" 6\.*
 
 **6:46** Τί δέ με καλεῖτε· Κύριε κύριε, καὶ οὐ **ποιεῖτε** ἃ λέγω; **47** πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ **ποιῶν** αὐτούς, ὑποδείξω ὑμῖν τίνι ἐστὶν ὅμοιος. **48** ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν **πέτραν**· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν.

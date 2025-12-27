@@ -11,7 +11,7 @@
 
 * *Notes on Reconstruction and Textual Logic:*  
 * **The Others (τοῖς λοιποῖς \- tois loipois):** *The Jamesian Protograph replaces "John" with "the others" in verse 8, a reading confirmed by Epiphanius (Scholion 61\) 3, 4\.*  
-* **Passover (πάσχα):** *Jesus identifies the meal specifically as "this Passover" (τοῦτο τὸ πάσχα), anchoring the event in current historical Ultimates rather than later abstract theology 5, 8\.*  
+* **Passover (πάσχα):** *Jesus identifies the meal specifically as "this Passover" (τοῦτο τὸ πάσχα), anchoring the event in current historical concrete reality rather than later abstract theology 5, 8\.*  
 * **Excision of Verse 16:** *The saying regarding never eating again until the Kingdom is fulfilled is absent in this stratum, maintaining a focus on the immediate fellowship of the community 6, 7\.*
 
 **22:17** καὶ δεξάμενος ποτήριον εὐχαριστήσας εἶπεν· λάβετε τοῦτο καὶ διαμερίσατε εἰς ἑαυτούς 7, 9\. **18** λέγω γὰρ ὑμῖν, οὐ μὴ πίω ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ 6, 7, 9\. **19a** καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· τοῦτό ἐστιν τὸ σῶμά μου 6, 7, 9, 10\.

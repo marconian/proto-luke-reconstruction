@@ -4,7 +4,7 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **δοῦλος (doulos):** *Strictly maintained as "slave." This is a clinical socioeconomic fact of the Roman military hierarchy; softening it to "servant" obscures the power dynamic inherent in the centurion’s confession of authority.* Persona Instruction, 1638\.  
-* **ἰαθήτω (iathētō):** *Passive imperative: "let him be healed." The centurion recognizes that the Savior’s word operates as a forensic command over physical Ultimates.* 1\.  
+* **ἰαθήτω (iathētō):** *Passive imperative: "let him be healed." The centurion recognizes that the Savior’s word operates as a forensic command over the physical realm.* 1\.  
 * **Omission of 7:3-5:** *The narrative of the Judean elders interceding for the centurion is absent in the earliest Marcionite witnesses. Its removal emphasizes the direct, unmediated faith of the Gentile officer.* 1\.
 
 **7:11** Καὶ ἐγένετο ἐν τῇ ἑξῆς ἐπορεύθη εἰς πόλιν καλουμένην Ναΐν, καὶ συνεπορεύοντο αὐτῷ οἱ μαθηταὶ αὐτοῦ καὶ ὄχλος πολύς. **12** ὡς δὲ ἤγγισεν τῇ πύλῃ τῆς πόλεως, καὶ ἰδοὺ ἐξεκομίζετο τεθνηκώς, υἱὸς μονογενὴς τῇ μητρὶ αὐτοῦ, καὶ αὐτὴ ἦν χήρα, καὶ ὄχλος τῆς πόλεως ἱκανὸς ἦν σὺν αὐτῇ. **13** καὶ ἰδὼν αὐτὴν ὁ κύριος ἐσπλαγχνίσθη ἐπ᾿ αὐτῇ καὶ εἶπεν αὐτῇ· Μὴ κλαῖε. **14** καὶ προσελθὼν ἥψατο τῆς σοροῦ, οἱ δὲ βαστάζοντες ἔστησαν, καὶ εἶπεν· Νεανίσκε, σοὶ λέγω, **ἐγέρθητι**. **15** καὶ ἀνεκάθισεν ὁ νεκρὸς καὶ ἤρξατο λαλεῖν, καὶ ἔδωκεν αὐτὸν τῇ μητρὶ αὐτοῦ. **16** ἔλαβεν δὲ φόβος πάντας καὶ ἐδόξαζον τὸν θεὸν λέγοντες ὅτι **Προφήτης μέγας ἠγέρθη ἐν ἡμῖν**, καὶ ὅτι ἐπεσκέψατο ὁ θεὸς τὸν λαὸν αὐτοῦ. 2, 3
@@ -17,6 +17,6 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **πτωχοὶ εὐαγγελίζονται (ptōchoi euangelizontai):** *The literal "poor" receive the formal announcement of the new governance. In the Jamesian Protograph, this is the clinical objective of the mission, proving the arrival of the new age through the reversal of material lack.* 4\.  
-* **Dead are raised (νεκροὶ ἐγείρονται):** *In the Jerusalem matrix, these works are forensic evidence of the Divine Human's authority over the material "Ultimates" of death and disease.* 4\.  
+* **Dead are raised (νεκροὶ ἐγείρονται):** *In the Jerusalem matrix, these works are forensic evidence of Jesus's authority over the material "material attachments" of death and disease.* 4\.  
 * **Omission of 7:24-35:** *While canonical Luke includes a lengthy discourse on John the Baptist, the Protograph focuses on the direct "Works of Love" as the sole validator of the mission.* 6\.
 

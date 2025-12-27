@@ -34,7 +34,7 @@
 
 * *Notes on Reconstruction and Translation Logic:*  
 * **18:22:** *The command to liquidate all property (πάντα ὅσα ἔχεις) is the foundational economic requirement for entry into the Ebionite community 13, 14\.*  
-* **θυσιαστήριον/θησαυρὸν (thēsauron):** *“Treasure.” The transition from material ultimates to pneumatic treasure reflects the core theology of reversal 13\.*
+* **θυσιαστήριον/θησαυρὸν (thēsauron):** *“Treasure.” The transition from material possessions to pneumatic treasure reflects the core theology of reversal 13\.*
 
 **18:31–33** Οὗτοι οἱ στίχοι, οἱ περὶ τῆς τρίτης προρρήσεως τοῦ πάθους, οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι.
 
@@ -45,5 +45,5 @@
 
 * *Notes on Reconstruction and Translation Logic:*  
 * **Ἰησοῦς (Iēsous):** *The reconstruction follows the primitive variant that omits “of Nazareth” (ὁ Ναζωραῖος) in verse 37, decoupling the Messenger from localized biological debris 11\.*  
-* **σέσωκέν σε (sesōken se):** *“Has saved you.” In this clinical context, salvation is synonymous with the restoration of physical and spiritual sight through the Influx 16\.*
+* **σέσωκέν σε (sesōken se):** *“Has saved you.” In this clinical context, salvation is synonymous with the restoration of physical and spiritual sight through divine power 16\.*
 

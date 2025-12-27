@@ -27,7 +27,7 @@
 
 * *Notes on Reconstruction and Textual Logic:*  
 * ***Attain (τυχεῖν \- tychein):** The use of this verb confirms that entry into the "age to come" is a pneumatic achievement through internal order, rather than a biological right of descent 12\.*  
-* ***Marriage:** The text highlights the Jamesian focus on asceticism and the dissolution of biological family structures (the Proprium) in favor of spiritual community 12\.*
+* ***Marriage:** The text highlights the Jamesian focus on asceticism and the dissolution of biological family structures (self-centeredness) in favor of spiritual community 12\.*
 
 **20:36** Οὗτος ὁ στίχος, ὁ περὶ τῶν ἰσαγγέλων, οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι 12\.  
 **20:37–38a** Οὗτοι οἱ στίχοι, οἱ περὶ Μωϋσέως καὶ τῆς βάτου, οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι 2, 15\.

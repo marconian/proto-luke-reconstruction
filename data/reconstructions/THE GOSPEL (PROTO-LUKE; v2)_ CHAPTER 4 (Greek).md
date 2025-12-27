@@ -3,15 +3,15 @@
 **7:1** Ἐπεὶ δὲ ἐπλήρωσεν πάντα τὰ ῥήματα αὐτοῦ εἰς τὰς ἀκοὰς τοῦ λαοῦ, εἰσῆλθεν εἰς Καφαρναούμ. 1 **2** Ἑκατοντάρχου δέ τινος **δοῦλος** κακῶς ἔχων ἤμελλεν τελευτᾶν, ὃς ἦν αὐτῷ ἔντιμος. 1 **9** ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς ἐθαύμασεν αὐτόν, καὶ στραφεὶς τῷ ἀκολουθοῦντι αὐτῷ ὄχλῳ εἶπεν· Λέγω ὑμῖν, οὐδὲ ἐν τῷ Ἰσραὴλ τοσαύτην πίστιν εὗρον. 1 **10** καὶ ὑποστρέψαντες εἰς τὸν οἶκον οἱ πεμφθέντες εὗρον τὸν **δοῦλον** ὑγιαίνοντα. 1
 
 * *Notes on Reconstruction and Translation:*  
-* **Slave (δοῦλος \- doulos):** *The dry fact of the text specifies "slave." I have avoided "servant" to reflect the actual socio-economic ultimates of the Roman and Judean household hierarchy 1, 2\.*  
+* **Slave (δοῦλος \- doulos):** *The dry fact of the text specifies "slave." I have avoided "servant" to reflect the actual socio-economic concrete reality of the Roman and Judean household hierarchy 1, 2\.*  
 * **Israel (Ἰσραὴλ):** *The Messenger notes the presence of faith outside the ethnic boundaries of the old order, signaling a pneumatic rather than biological prioritization 1, 3\.*  
-* **Distance Healing:** *This pericope highlights that the authority of the Word is not constrained by material proximity, a key feature of the "Divine Human in Ultimates" 3\.*
+* **Distance Healing:** *This pericope highlights that the authority of the Word is not constrained by material proximity, a key feature of Jesus in his embodied ministry 3\.*
 
 **7:11** Καὶ ἐγένετο ἐν τῇ ἑξῆς ἐπορεύθη εἰς πόλιν καλουμένην Ναΐν, καὶ συνεπορεύοντο αὐτῷ οἱ μαθηταὶ αὐτοῦ καὶ ὄχλος πολύς. 1 **14** καὶ προσελθὼν **ἥψατο** τῆς σοροῦ, οἱ δὲ βαστάζοντες ἔστησαν, καὶ εἶπεν· Νεανίσκε, σοὶ λέγω, ἐγέρθητι. 1, 3 **16** ἔλαβεν δὲ φόβος πάντας καὶ ἐδόξαζον τὸν θεόν. 1
 
 * *Notes on Reconstruction and Translation:*  
 * **He touched (ἥψατο \- hēpsato):** *This act is a forensic shattering of the ritual purity debris maintained by the Sadducean elite. By touching the bier, the Messenger asserts that the internal Law of Love overrides the external regulation of pollution 3, 4\.*  
-* **Raised (ἐγέρθητι \- egerthēti):** *The restoration of the physical form serves as the clinical "fingerprint" of the Divine Influx 3\.*
+* **Raised (ἐγέρθητι \- egerthēti):** *The restoration of the physical form serves as the clinical "fingerprint" of divine power 3\.*
 
 **7:19** καὶ προσκαλεσάμενος δύο τινὰς τῶν μαθητῶν αὐτοῦ ὁ Ἰωάννης ἔπεμψεν πρὸς τὸν Ἰησοῦν λέγων· Σὺ εἶ ὁ ἐρχόμενος ἢ ἄλλον προσδοκῶμεν; 5 **22** καὶ ἀποκριθεὶς εἶπεν αὐτοῖς· Πορευθέντες ἀπαγγείλατε Ἰωάννῃ ἃ εἴδετε καὶ ἠκούσατε· τυφλοὶ ἀναβλέπουσιν, χωλοὶ περιπατοῦσιν, λεπροὶ καθαρίζονται καὶ κωφοὶ ἀκούουσιν, νεκροὶ ἐγείρονται, **πτωχοὶ εὐαγγελίζονται**· 5 **23** καὶ μακάριός ἐστιν ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί. 5
 

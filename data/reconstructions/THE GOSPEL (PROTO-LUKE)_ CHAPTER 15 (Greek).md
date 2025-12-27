@@ -18,7 +18,7 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **παρατηρήσεως (paratērēseōs):** *“Observation” or “detectable signs.” The Kingdom is defined as a forensic reality that does not correspond to material monitoring 6\.*  
-* **ἐντὸς ὑμῶν (entos hymōn):** *“Within you” or “in your midst.” In the pneumatic context of the Protograph, this identifies the Kingdom as an internal state activated by the Divine Influx 4\.*
+* **ἐντὸς ὑμῶν (entos hymōn):** *“Within you” or “in your midst.” In the pneumatic context of the Protograph, this identifies the Kingdom as an internal state activated by divine power 4\.*
 
 **17:24** ὥσπερ γὰρ ἡ ἀστραπὴ ἀστράπτουσα ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ᾿ οὐρανὸν λάμπει, οὕτως ἔσται ὁ υἱὸς τοῦ ἀνθρώπου. **26** καὶ καθὼς ἐγένετο ἐν ταῖς ἡμέραις Νῶε, οὕτως ἔσται καὶ ἐν ταῖς ἡμέραις τοῦ υἱοῦ τοῦ ἀνθρώπου. 7, 8
 

@@ -10,7 +10,7 @@ This chapter encompasses the entry into Jericho, the encounter with Zacchaeus, a
 **19:8** σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· ἰδοὺ τὰ ἡμίσειά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι, καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν. 2, 8
 
 * *Notes on Reconstruction and Translation:*  
-* **Possessions (ὑπαρχόντων \- hyparchontōn):** *I have used "possessions" to reflect the material ultimates that the Jamesian community required to be liquidated or managed through communal use 2, 9\.*  
+* **Possessions (ὑπαρχόντων \- hyparchontōn):** *I have used "possessions" to reflect the material possessions that the Jamesian community required to be liquidated or managed through communal use 2, 9\.*  
 * **Restore (ἀποδίδωμι \- apodidōmi):** *This denotes a legal restitution. The fourfold repayment is a clinical compliance with the ethical demands of the Law of Liberty 8, 10\.*
 
 **19:9** εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς ὅτι σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο, καθότι καὶ αὐτὸς υἱὸς Ἀβραάμ ἐστιν. 2, 8
@@ -28,7 +28,7 @@ This chapter encompasses the entry into Jericho, the encounter with Zacchaeus, a
 
 * *Notes on Reconstruction and Translation:*  
 * **Slaves (δούλους \- doulous):** *Per the translation philosophy, "slaves" is used to denote the total, non-negotiable loyalty and accountability of the community members 10, 14\.*  
-* **Minas (μνᾶς \- mnas):** *A specific Greek unit of currency, emphasizing the financial reality of stewardship over material ultimates 2, 15\.*
+* **Minas (μνᾶς \- mnas):** *A specific Greek unit of currency, emphasizing the financial reality of stewardship over material possessions 2, 15\.*
 
 **19:22** λέγει αὐτῷ· ἐκ τοῦ στόματός σου κρινῶ σε, πονηρὲ δοῦλε. ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι, αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα; 2, 16
 

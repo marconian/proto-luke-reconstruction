@@ -31,5 +31,5 @@
 * *Notes on Reconstruction and Translation Logic:*  
 * **Son of Man (ὁ υἱὸς τοῦ ἀνθρώπου):** *Used here as the clinical referent for the representative of restored humanity in its eschatological function 11\.*  
 * **Rejected (ἀποδοκιμασθῆναι \- apodokimasthenai):** *A forensic term for being "disqualified" or "cast aside" after legal examination 13\.*  
-* **Lot's Wife:** *This stark imperative serves as a clinical warning against the "turning back" toward the material ultimates (possessions) of the old age 13\.*
+* **Lot's Wife:** *This stark imperative serves as a clinical warning against the "turning back" toward the material possessions (possessions) of the old age 13\.*
 

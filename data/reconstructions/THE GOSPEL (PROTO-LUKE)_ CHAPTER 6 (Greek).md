@@ -12,7 +12,7 @@
 * *Notes on Greek Text and Reconstruction:*  
 * **Γερασηνῶν (Gerasēnōn):** *The reading "Gerasenes" is restored based on the most primitive uncial consensus (P75, B, D). Gadarenes and Gergesenes are treated as later geographical corrections 3, 4\.*  
 * **δαιμόνια (daimonia):** *Strictly rendered as "messengers" or "spirits." In this stratum, they function as entities recognizing the Divine Human’s status, distinct from later personified "demons" Source instructions, 1564\.*  
-* **ἄβυσσον (abysson):** *The "Abyss." This specific term denotes the place of ultimate disorder. The spirit's plea recognizes Jesus's authority to impose order on the chaotic ultimates of the material realm 1, 4\.*
+* **ἄβυσσον (abysson):** *The "Abyss." This specific term denotes the place of ultimate disorder. The spirit's plea recognizes Jesus's authority to impose order on the chaotic concrete reality of the material realm 1, 4\.*
 
 **8:43** καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα, **44** προσελθοῦσα ὄπισθεν ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ, καὶ παραχρῆμα ἔστη ἡ ῥύσις τοῦ αἵματος αὐτῆς. **45** καὶ εἶπεν ὁ Ἰησοῦς· **Τίς μου ἥψατο;** **46** ὁ δὲ Ἰησοῦς εἶπεν· Ἥψατό μού τις, ἐγὼ γὰρ ἔγνων δύναμιν ἐξεληλυθυῖαν ἀπ᾿ ἐμοῦ. **48** ὁ δὲ εἶπεν αὐτῇ· Θυγάτηρ, ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην.
 
@@ -35,6 +35,6 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **Βηθσαϊδά (Bēthsaïda):** *Restored based on the earliest P75 and B witnesses. This specific location grounds the provision narrative in a known historical geography of the poor 6, 10\.*  
-* **εὐλόγησεν (eulogēsen):** *The blessing of the bread is the "Divine Bricolage"—multiplication through pneumatic conjunction, replacing the Temple's function as the source of life 6, 8\.*  
+* **εὐλόγησεν (eulogēsen):** *The blessing of the bread is divine ordering—multiplication through pneumatic conjunction, replacing the Temple's function as the source of life 6, 8\.*  
 * **The Great Omission:** *Following 9:17, the reconstruction strictly bypasses the Markan material (walking on water, Tyre/Sidon) to maintain the Lukan "seam" where Peter's confession immediately follows the feeding 6\.*
 

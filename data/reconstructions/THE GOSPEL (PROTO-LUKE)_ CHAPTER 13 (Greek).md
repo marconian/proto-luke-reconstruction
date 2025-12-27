@@ -15,8 +15,8 @@
 **15:8** ἢ τίς γυνὴ **δραχμὰς** ἔχουσα δέκα, ἐὰν ἀπολέσῃ δραχμὴν μίαν, οὐχὶ ἅπτει λύχνον καὶ σαροῖ τὴν οἰκίαν καὶ ζητεῖ ἐπιμελῶς ἕως οὗ εὕρῃ; 5, 6\. **9** καὶ εὑροῦσα συγκαλεῖ τὰς φίλας καὶ γείτονας λέγουσα· συγχάρητέ μοι, ὅτι εὕρον τὴν δραχμὴν ἣν ἀπώλεσα 5, 6\. **10** οὕτως, λέγω ὑμῖν, **χαρὰ γίνεται ἐνώπιον τοῦ θεοῦ** ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι 5, 6\.
 
 * *Notes on Greek Text and Reconstruction:*  
-* **δραχμὰς (drachmas):** *Greek silver coins. These represent material "ultimates" used to illustrate the value of the marginalized within the community of the poor 7\.*  
-* **ἐνώπιον τοῦ θεοῦ (enōpion tou theou):** *“Before God.” Consistent with verse 7, the mention of "messengers" (angels) is unattested in the Jamesian Protograph 7\. The joy is a clinical result of Divine Influx recognizing a return to order 7\.*
+* **δραχμὰς (drachmas):** *Greek silver coins. These represent material "material attachments" used to illustrate the value of the marginalized within the community of the poor 7\.*  
+* **ἐνώπιον τοῦ θεοῦ (enōpion tou theou):** *“Before God.” Consistent with verse 7, the mention of "messengers" (angels) is unattested in the Jamesian Protograph 7\. The joy is a clinical result of divine power recognizing a return to order 7\.*
 
 **15:11–32** The Parable of the Two Sons (the Prodigal Son) is **Not Present** in this stratum 7-9.
 

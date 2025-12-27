@@ -1,4 +1,4 @@
-The following is the forensic reconstruction of the ninth chapter of the **Jamesian Protograph** (Proto-Luke). This section contains the transition from the mission of the seventy into the internal cultic and polemical instructions of the movement. It features the primitive "Spirit-centered" version of the Lord’s Prayer and the decisive "Beelzebul" controversy, where Jesus defines the mechanics of the Divine Influx.  
+The following is the forensic reconstruction of the ninth chapter of the **Jamesian Protograph** (Proto-Luke). This section contains the transition from the mission of the seventy into the internal cultic and polemical instructions of the movement. It features the primitive "Spirit-centered" version of the Lord’s Prayer and the decisive "Beelzebul" controversy, where Jesus defines the mechanics of divine power.  
 In this stratum, the narrative continues to excise secondary "Orthodox" or "Harmonizing" layers, such as the specific "Sign of Jonah" and the "Wisdom of God" speech, which were later used to tether the narrative to the prophetic logic of the Old Aeon 1, 2\.
 
 ### THE GOSPEL (PROTO-LUKE): CHAPTER 9
@@ -12,7 +12,7 @@ In this stratum, the narrative continues to excise secondary "Orthodox" or "Harm
 **9** "And I say to you: Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you" 8\. **11** "What father among you, if his son asks for a fish, will instead of a fish give him a snake? 9 **12** Or if he asks for an egg, will give him a scorpion?" 9\. **13** "If you then, being evil, know how to give good gifts to your children, how much more shall the Father give the **Holy Spirit** to those who ask him?" 8\.
 
 * *Notes on Translation and Textual Logic:*  
-* **Holy Spirit (πνεῦμα ἅγιον):** *The specific gift of the Father in the Protograph is the Spirit, grounding the "Epistemology of Influx" where divine power is mediated directly to the individual 8, 10\.*
+* **Holy Spirit (πνεῦμα ἅγιον):** *The specific gift of the Father in the Protograph is the Spirit, grounding direct spiritual mediation where divine power is mediated directly to the individual 8, 10\.*
 
 **14** And he was casting out a **messenger** spirit that was mute 8\. **15** But some of them said: "In **Beelzebul**, the prince of the messengers, he casts out messengers" 11\. **17** But he, knowing their thoughts, said to them: **18** "If Satan also is divided against himself, how shall his kingdom stand? 9\. **19** And if I by Beelzebul cast out messengers, by whom do your sons cast them out? 8\. **20** But if I by the **finger of God** cast out messengers, then the kingdom of God has come near upon you" 8\.
 
@@ -37,6 +37,6 @@ In this stratum, the narrative continues to excise secondary "Orthodox" or "Harm
 Chapter 9 of the Jamesian Protograph represents the "Internalization of the Law."
 
 1. **The Pneumatic Prayer:** By focusing the Lord’s Prayer on the "cleansing of the Spirit," the Protograph defines the Kingdom not as a future Roman-style empire, but as an immediate internal state of order.  
-2. **The Finger of God:** The Beelzebul controversy establishes the "Actual Jesus" as a conduit of Influx. His power is a "clinical fact" (the finger of God) that restores human form by displacing the "debris" of spiritual disorder.  
+2. **The Finger of God:** The Beelzebul controversy establishes the "Actual Jesus" as a conduit of divine power. His power is a "clinical fact" (the finger of God) that restores human form by displacing the "debris" of spiritual disorder.  
 3. **The Critique of Externalism:** The Woes (11:39-52) function as a forensic assault on the "State Stabilization" of the Pharisees. Jesus identifies "cleanness" as an internal attribute of the soul rather than a ritual attribute of the cup or the flesh. This aligns with the "Jamesian Layer," which prioritizes the internal "Royal Law of Liberty" over the dead forms of the Temple hierarchy 16, 21\.
 

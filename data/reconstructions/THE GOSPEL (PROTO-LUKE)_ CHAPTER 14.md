@@ -40,6 +40,6 @@ Consistent with the lack of "editorial fatigue" in the Marcionite witnesses, the
 Chapter 14 of the Protograph defines the movement's relationship to wealth and lineage.
 
 1. **The Abolition of Private Mammon:** The instructions in verses 9–13 constitute an economic "Path of Reversal." Wealth is clinical debris; the only valid "use" for it is to liquidate it for the benefit of the community to secure "eternal dwellings" 1, 26\.  
-2. **Biological vs. Pneumatic Property:** By contrasting "another's" (material) wealth with "mine" (Jesus's spiritual words), the text creates a dualism where only the pneumatic influx is true property 7, 27\.  
+2. **Biological vs. Pneumatic Property:** By contrasting "another's" (material) wealth with "mine" (Jesus's spiritual words), the text creates a dualism where only the spiritual gift is true property 7, 27\.  
 3. **The Sufficiency of the Word:** The Lazarus narrative (16:19-31) functions as a polemic against those who demand signs (like physical resurrection appearances). Abraham’s refusal to send Lazarus back establishes that the "Royal Law of Love" found in the Prophets is the ultimate authority, surpassing even the resuscitation of a corpse 2, 28\.
 

@@ -1,4 +1,4 @@
-The following is the forensic reconstruction of the fourth chapter of the **Jamesian Protograph** (Proto-Luke). This section moves from the establishment of the ethical constitution (the Sermon on the Plain) into the manifestation of the "Divine Human in Ultimates" 1, 2\. Here, authority is validated through works of restoration and a direct confrontation with the suffering of the poor and marginalized 3-5.
+The following is the forensic reconstruction of the fourth chapter of the **Jamesian Protograph** (Proto-Luke). This section moves from the establishment of the ethical constitution (the Sermon on the Plain) into the manifestation of Jesus in his embodied ministry 1, 2\. Here, authority is validated through works of restoration and a direct confrontation with the suffering of the poor and marginalized 3-5.
 
 ### THE GOSPEL (PROTO-LUKE): CHAPTER 4
 
@@ -39,6 +39,6 @@ This chapter of the Protograph consolidates the authority of Jesus through the *
 
 1. **The Centurion’s Slave:** The focus is on **Distance and Faith**. Jesus does not need to be physically present; his authority resides in his "Word" 6\. This aligns with the pneumatic view that divine authority flows from the "Spirit" regardless of biological or material proximity 2, 14\.  
 2. **The Widow’s Son:** By touching the bier, Jesus shatters the Sadducean laws of ritual pollution. He asserts that Love is the "Royal Law" that supersedes the "debris" of external ritual 2, 24\.  
-3. **The Baptist’s Inquiry:** Jesus defines his identity through **function**, not genealogy. He tells John’s messengers to report the " Ultimates"—the physical changes in the poor and sick—which serve as the "fingerprint" of the Divine Influx 25, 26\.  
+3. **The Baptist’s Inquiry:** Jesus defines his identity through **function**, not genealogy. He tells John’s messengers to report the " concrete reality"—the physical changes in the poor and sick—which serve as the "fingerprint" of divine power 25, 26\.  
 4. **The Woman who Loved:** This is the primary polemic against the "State Stabilization" (Orthodoxy) of the Pharisees. While the host focuses on the "rules" of hospitality, the woman focuses on the "inner reality" of love. Jesus rewards the latter, establishing that the "Kingdom" is entered through the internal fulfillment of the Law 18, 27, 28\.
 

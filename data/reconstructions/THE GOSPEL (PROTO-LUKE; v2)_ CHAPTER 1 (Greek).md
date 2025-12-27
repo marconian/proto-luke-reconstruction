@@ -15,5 +15,5 @@
 * **Relocation (Luke 4:16–30):** *In the Jamesian Protograph, narrative logic is restored by placing the Nazareth visit after the Capernaum ministry. Forensic analysis shows "editorial fatigue" in the canonical text, where a crowd in Nazareth mentions miracles in Capernaum before the Messenger has actually visited that city 5, 10, 11\.*  
 * **Assembly (συναγωγήν \- synagōgēn):** *I have used "assembly" for synagōgēn to maintain the literal sense of a gathering place 5\.*  
 * **Excision of Biological Paternity (4:22):** *The phrase "Is this not Joseph's son?" is absent in the earliest witnesses. Its removal aligns with a pneumatic Christology based on power rather than biological descent 4, 5\.*  
-* **Healer (ἰατρέ \- iatre):** *I have used "healer" to reflect the functional role of restoration in the material ultimates of the community 1\.*
+* **Healer (ἰατρέ \- iatre):** *I have used "healer" to reflect the functional role of restoration in the material possessions of the community 1\.*
 

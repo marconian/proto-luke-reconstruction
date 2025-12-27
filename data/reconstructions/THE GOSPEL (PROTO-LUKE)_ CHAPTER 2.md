@@ -16,7 +16,7 @@ Following the rejection at Nazareth, the narrative shifts to the clinical manife
 * **Kingdom of God (τὴν βασιλείαν τοῦ θεοῦ \- tēn basileian tou theou):**  
 * *This phrase is a hallmark of the Lukan/Proto-Lukan layer. It identifies the "Actual Jesus" not as a personal savior, but as the herald of a new spiritual order 5, 6\.*  
 * **Catching Men (ἀνθρώπους ἔσῃ ζωγρῶν \- anthrōpous esē zōgrōn):**  
-* *The specific Lukan vocation narrative (5:1-11) is retained as a Jamesian original. Unlike the abrupt Markan calling, this emphasizes a "miraculous catch," establishing the dependence of the disciples on the Divine Influx rather than their own merit 7, 8\.*  
+* *The specific Lukan vocation narrative (5:1-11) is retained as a Jamesian original. Unlike the abrupt Markan calling, this emphasizes a "miraculous catch," establishing the dependence of the disciples on divine power rather than their own merit 7, 8\.*  
 * **Moses Commanded (καθὼς προσέταξε Μωυσῆς \- kathōs prosetaxe Mōysēs):**  
 * *The preservation of this reference (5:14) is critical. It shows the Jamesian Jesus upholding the Law as a "testimony," prioritizing the internal reality of cleansing while maintaining external continuity with the Torah 9, 10\.*
 
@@ -26,6 +26,6 @@ The transition from the Incipit to the calling of the disciples represents the "
 
 1. **The Rejection of Bio-History:** By initiating the narrative with the Capernaum healings (4:31) and moving the Nazareth rejection to a secondary position, the Jamesian Protograph establishes Jesus's authority through **deeds of power** rather than **Davidic genealogy** 13\.  
 2. **The Fisher of the Poor:** The choice of Simon, a manual laborer (Ebionite/Poor), identifies the movement's target demographic. The "multitude of fishes" serves as a physical manifestation of the boundless nature of divine providence, intended for a community struggling after the physical destruction of the Temple 8, 14\.  
-3. **The Forensic Healing:** The cleansing of the leper (5:12-14) is a paradigmatic example of the "Divine Human in Ultimates" 15\. Jesus does not merely speak; he **touches** the leper. This physical contact—forbidden by ritual law—shatters the corrupt external forms to restore the inner person 6\.
+3. **The Forensic Healing:** The cleansing of the leper (5:12-14) is a paradigmatic example of Jesus in his embodied ministry 15\. Jesus does not merely speak; he **touches** the leper. This physical contact—forbidden by ritual law—shatters the corrupt external forms to restore the inner person 6\.
 
 This chapter solidifies the Jamesian view that the Kingdom is entered not through a confession of faith in a "Cosmic Christ," but through active participation in the restoration of humanity through "Works of Love."  

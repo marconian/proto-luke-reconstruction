@@ -27,7 +27,7 @@ In this reconstruction, the narrative bypasses the Judean institutional markers 
 * **Tunic (χιτῶνα \- chitōna):**  
 * *This refers to the inner garment. The command is to allow the total stripping of the external self to preserve the internal "Royal Law" of love 4\.*  
 * **Despairing of nothing (μηδὲν ἀπελπίζοντες \- mēden apelpizontes):**  
-* *A difficult Greek phrase. In the Jamesian context, it implies an absolute reliance on Divine Influx rather than a calculated "return" on a loan, shunning the commercial logic of the state 5\.*
+* *A difficult Greek phrase. In the Jamesian context, it implies an absolute reliance on divine power rather than a calculated "return" on a loan, shunning the commercial logic of the state 5\.*
 
 **46** "And why do you call me 'Lord, Lord,' and do not **do** what I say? **47** Everyone coming to me and hearing my words and **doing** them—I will show you whom he is like." 1, 2  
 **48** "He is like a man building a house, who dug and deepened and laid a foundation upon the rock; and when a flood happened, the river broke against that house and was not strong enough to shake it, because it was built well." **49** "But the one hearing and not **doing** is like a man building a house upon the ground without a foundation, against which the river broke, and immediately it collapsed, and the crash of that house was great." 1, 2  
@@ -36,7 +36,7 @@ In this reconstruction, the narrative bypasses the Judean institutional markers 
 * **Doing (ποιῶν \- poiōn):**  
 * *This present participle denotes continuous, active loyalty. This is the cornerstone of the "Jamesian Layer"—that "Faith-Alone" (the Pauline Layer) is insufficient without the **Ma'asim** (Works of Love) 2, 5\.*  
 * **Foundation (θεμέλιον \- themelion):**  
-* *In this stratum, the foundation is not a creed or a church hierarchy (Orthodoxy Layer), but the internal practice of the words of Christ in ultimates—actual ethical conduct 2, 4\.*
+* *In this stratum, the foundation is not a creed or a church hierarchy (Orthodoxy Layer), but the internal practice of the words of Christ in concrete reality—actual ethical conduct 2, 4\.*
 
 ### Additional Explanation: The Charter of the Hebrews
 
@@ -44,5 +44,5 @@ Chapter 3 of the Jamesian Protograph establishes the movement's radical separati
 
 1. **Economic Reversal:** By retaining the "Woes" (6:24-26), Proto-Luke defines the Kingdom as a physical and social reality where the hierarchy of the world is inverted. This is a direct attack on any "Orthodoxy" that seeks to make the movement compatible with Roman wealth or status 5, 7\.  
 2. **The Golden Rule as Law:** Verse 31 is presented not as a suggestion, but as the definition of the "Royal Law of Liberty." It functions as the internal governor of the "Opposition Priesthood," requiring the follower to act from the neighbor's perspective 4\.  
-3. **The Rejection of Lip-Service:** The concluding parable of the two builders (6:46-49) serves as a forensic warning against the Pauline tendency to prioritize the "confession of the mouth" (Romans 10:9) over the "work of the hands." For the Jamesian Jesus, the house (the community) only stands if it is built on the **ultimates of action** 5, 8\.
+3. **The Rejection of Lip-Service:** The concluding parable of the two builders (6:46-49) serves as a forensic warning against the Pauline tendency to prioritize the "confession of the mouth" (Romans 10:9) over the "work of the hands." For the Jamesian Jesus, the house (the community) only stands if it is built on **concrete actions** 5, 8\.
 

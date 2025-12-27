@@ -40,7 +40,7 @@ The following is the forensic reconstruction of the twelfth chapter of the **Jam
 Chapter 12 of the Protograph articulates the movement's **Socio-Economic Constitution**.
 
 1. **The Abolition of Reciprocity:** By forbidding invitations to those who can "repay," Jesus severs the community from the Roman system of *patronage*. The "Resurrection" serves as the only valid transaction point 3, 5\.  
-2. **The Rejection of Debris:** The excuses offered in the Parable of the Banquet (14:18-20) are the "ultimates" of the material world—land, capital (oxen), and biological lineage. The "Master" (the Spirit) identifies these as the primary inhibitors of the Divine Influx 7, 8\.  
+2. **The Rejection of Debris:** The excuses offered in the Parable of the Banquet (14:18-20) are the "material attachments" of the material world—land, capital (oxen), and biological lineage. The "Master" (the Spirit) identifies these as the primary inhibitors of divine power 7, 8\.  
 3. **The Call to the Margin:** The filling of the house with the "maimed" and "blind" is the clinical manifestation of the **Theology of Reversal**. The "Poor" are not an object of charity but the very substance of the Kingdom 2, 11\.  
-4. **The Law of Hate:** The command to "hate" one’s family (14:26) is a forensic requirement to detach the self from the "Proprium" (self-love) mediated through biological ties, ensuring absolute loyalty to the Messenger 10, 12\.
+4. **The Law of Hate:** The command to "hate" one’s family (14:26) is a forensic requirement to detach the self from self-centered attachments mediated through biological ties, ensuring absolute loyalty to the Messenger 10, 12\.
 

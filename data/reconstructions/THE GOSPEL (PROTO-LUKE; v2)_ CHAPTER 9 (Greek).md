@@ -15,13 +15,13 @@
 **11:9** κἀγὼ ὑμῖν λέγω· αἰτεῖτε καὶ δοθήσεται ὑμῖν, ζητεῖτε καὶ εὑρήσετε, κρούετε καὶ ἀνοιγήσεται ὑμῖν. **11** τίνα δὲ ἐξ ὑμῶν τὸν πατέρα αἰτήσει ὁ υἱὸς ἰχθύν, καὶ ἀντὶ ἰχθύος ὄφιν αὐτῷ ἐπιδώσει; **12** ἢ καὶ αἰτήσει ᾠόν, ἐπιδώσει αὐτῷ σκορπίον; **13** εἰ οὖν ὑμεῖς πονηροὶ ὑπάρχοντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὁ ἐξ οὐρανοῦ δώσει **πνεῦμα ἅγιον** τοῖς αὐτοῦσιν αὐτόν.
 
 * *Notes on Reconstruction and Translation:*  
-* **Holy Spirit (πνεῦμα ἅγιον):** *The specific gift in the Protograph is the "Holy Spirit" 5\. This grounds the movement in the "Epistemology of Influx," where authority and power are mediated directly to the individual without institutional debris 5\.*
+* **Holy Spirit (πνεῦμα ἅγιον):** *The specific gift in the Protograph is the "Holy Spirit" 5\. This grounds the movement in the "direct spiritual mediation," where authority and power are mediated directly to the individual without institutional debris 5\.*
 
 **11:14** Καὶ ἦν ἐκβάλλων δαιμόνιον κωφόν· ἐγένετο δὲ τοῦ δαιμονίου ἐξελθόντος ἐλάλησεν ὁ κωφός. καὶ ἐθαύμασαν οἱ ὄχλοι. **15** τινὲς δὲ ἐξ αὐτῶν εἶπον· ἐν **Βεελζεβοὺλ** τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια. **17** εἰδὼς δὲ αὐτῶν τὰ διανοήματα εἶπεν αὐτοῖς· Πᾶσα βασιλεία ἐφ᾽ ἑαυτὴν διαμερισθεῖσα ἐρημοῦται, καὶ οἶκος ἐπὶ οἶκον πίπτει. **18** εἰ δὲ καὶ ὁ σατανᾶς ἐφ᾽ ἑαυτὸν διεμερίσθη, πῶς σταθήσεται ἡ βασιλεία αὐτοῦ; **19** εἰ δὲ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια, οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν; **20** εἰ δὲ ἐν **δακτύλῳ θεοῦ** ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.
 
 * *Notes on Reconstruction and Translation:*  
 * **Messenger Spirit (δαιμόνιον \- daimonion):** *Rendered here as "messenger" to denote a functional entity of the unseen world, stripped of later religious weight 6\.*  
-* **Finger of God (δακτύλῳ θεοῦ):** *Jesus identifies the "Kingdom" as a specific field of power or influx ("finger of God") rather than a geographical territory 6\.*  
+* **Finger of God (δακτύλῳ θεοῦ):** *Jesus identifies the "Kingdom" as a specific field of power or divine power ("finger of God") rather than a geographical territory 6\.*  
 * **Beelzebul (Βεελζεβοὺλ):** *The orthography follows the primitive tradition found in the earliest manuscripts 6\.*
 
 **11:27** Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας. **28** αὐτὸς δὲ εἶπεν· μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ **ποιοῦντες**.

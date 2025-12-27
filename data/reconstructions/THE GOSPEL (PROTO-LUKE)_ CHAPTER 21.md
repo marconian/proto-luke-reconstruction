@@ -34,7 +34,7 @@
 
 * *Notes on the Final Act:*  
 * **Commend (παρατίθεμαι):** *A forensic deposit. The spirit is clinically returned to its source as the material vessel is exhausted 18\.*  
-* **Relationship to the Father:** *The prayer "Father, into your hands..." (23:46) contrasts with the Markan cry of abandonment, depicting the Messenger as one whose spiritual sight remains open even during physical vastation 18, 20\.*
+* **Relationship to the Father:** *The prayer "Father, into your hands..." (23:46) contrasts with the Markan cry of abandonment, depicting the Messenger as one whose spiritual sight remains open even during physical destruction 18, 20\.*
 
 **23:50** And, behold, there was a man named **Joseph**, a counselor... 18, 19\. **51** (The same had not consented to the counsel and deed of them)... 18, 19\. **52** This man went to **Pilate**, and begged the body of **Jesus** 18, 19\. **53** And he took it down, and wrapped it in **linen**, and laid it in a **sepulchre that was hewn in stone**, where never man before was laid 18, 19\.
 

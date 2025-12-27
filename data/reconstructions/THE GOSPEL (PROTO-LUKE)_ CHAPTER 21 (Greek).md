@@ -10,7 +10,7 @@
 **23:4** Ὁ δὲ Πιλᾶτος εἶπεν πρὸς τοὺς ἀρχιερεῖς καὶ τοὺς ὄχλους· Οὐδὲν εὑρίσκω αἴτιον ἐν τῷ ἀνθρώπῳ τούτῳ. **5** οἱ δὲ ἐπίσχυον λέγοντες ὅτι ἀνασείει τὸν λαὸν διδάσκων καθ᾿ ὅλης τῆς Ἰουδαίας, καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε 3\.
 
 * *Notes on Translation and Textual Logic:*  
-* **Accusation of Teaching (διδάσκων):** *The elite view the spread of the Word as a forensic disturbance (ἀνασείει \- "stirring up"). The geographic scope (Galilee to Judea) marks the clinical progression of the Spirit's descent into the historical Ultimates 4, 5\.*
+* **Accusation of Teaching (διδάσκων):** *The elite view the spread of the Word as a forensic disturbance (ἀνασείει \- "stirring up"). The geographic scope (Galilee to Judea) marks the clinical progression of the Spirit's descent into historical time 4, 5\.*
 
 **23:6–12** The narrative concerning the trial before Herod is **Not Present** in the primitive stratum 6\.
 

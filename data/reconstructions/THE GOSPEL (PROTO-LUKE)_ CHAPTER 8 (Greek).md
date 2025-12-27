@@ -4,7 +4,7 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **ἑβδομήκοντα (hebdomēkonta):** *I have retained the number "seventy" (70) following the primitive uncial and papyri consensus (P75, B). The addition of "two" (72) is treated as a later expansion 1-4.*  
-* **μὴ ὑποδήματα (mē hypodēmata):** *The prohibition of sandals is restored as a dry fact of the primitive ascetic requirement of the Jamesian mission, emphasizing total reliance on Divine Influx 4, 5\.*  
+* **μὴ ὑποδήματα (mē hypodēmata):** *The prohibition of sandals is restored as a dry fact of the primitive ascetic requirement of the Jamesian mission, emphasizing total reliance on divine power 4, 5\.*  
 * **Excision of 10:5–8:** *The detailed instructions for house-entry are abbreviated in this stratum to maintain the focus on the herald's urgent announcement 6\.*
 
 **10:9** ...καὶ θεραπεύετε τοὺς ἐν αὐτῇ ἀσθενεῖς καὶ λέγετε αὐτοῖς· **ἤγγικεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ**. **10** εἰς ἣν δ᾽ ἂν πόλιν εἰσέλθητε καὶ μὴ δέχωνται ὑμᾶς, ἐξελθόντες εἰς τὰς πλατείας αὐτῆς εἴπατε· **11** καὶ τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν εἰς τοὺς πόδας ἀπομασσόμεθα ὑμῖν· πλὴν τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ. **16** ὁ ἀκούων ὑμῶν ἐμοῦ ἀκούει, καὶ ὁ ἀθετῶν ὑμᾶς ἐμὲ ἀθετεῖ· ὁ δὲ ἐμὲ ἀθετῶν ἀθετεῖ τὸν ἀποστείλαντά με.

@@ -17,7 +17,7 @@
 **21:12** πρὸ δὲ τούτων... διώξουσιν... 6 **21:13** ἀποβήσεται ὑμῖν εἰς μαρτύριον 6\. **21:14** μὴ προμελετᾶν ἀπολογηθῆναι 6\. **21:15** σοφίαν, ᾗ οὐ δυνήσονται ἀντιστῆναι οὐδὲ ἀντειπεῖν 6\. **21:16** παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ ἀδελφῶν καὶ συγγενῶν καὶ φίλων 6\. **21:17** μισούμενοι... διὰ τὸ ὄνομά μου 6\. **21:18** Οὗτος ὁ στίχος οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι 6\. **21:19** ἐν τῇ ὑπομονῇ σώσετε ἑαυτούς 6\.
 
 * *Notes on Reconstruction and Textual Logic:*  
-* **Internal Wisdom (21:15):** *The promise of "wisdom" (σοφίαν) denotes a direct pneumatic influx that overrides the legal debris of the opposition.*  
+* **Internal Wisdom (21:15):** *The promise of "wisdom" (σοφίαν) denotes a direct spiritual gift that overrides the legal debris of the opposition.*  
 * **Excision of 21:18:** *The promise that "not a hair of your head will perish" is clinically absent in this stratum, as it contradicts the prior warning of betrayal and death, likely representing a later harmonizing gloss to soften the reality of martyrdom 6, 7\.*
 
 **21:20** Ὅταν δὲ ἴδητε **τὸ βδέλυγμα τῆς ἐρημώσεως ἑστηκότα ὅπου οὐ δεῖ**, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς 8, 9\. **21:21–22** Οὗτοι οἱ στίχοι οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι 6\.

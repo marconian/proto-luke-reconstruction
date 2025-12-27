@@ -14,7 +14,7 @@
 * *Notes on Greek Text and Reconstruction:*  
 * **δούλους (doulous):** *Strictly rendered as "slaves" to reflect the actual socioeconomic contract of absolute loyalty to the Nobleman (the Messenger) 2\.*  
 * **μνᾶς (mnas):** *“Minas.” Retained as the specific unit of currency, denoting the pneumatic resources entrusted to the community members 5\.*  
-* **Πραγματεύσασθε (Pragmateysasthe):** *“Trade” or “transact.” This is the constitutional imperative for the community to actively utilize the Spirit's influx rather than remain passive 5\.*  
+* **Πραγματεύσασθε (Pragmateysasthe):** *“Trade” or “transact.” This is the constitutional imperative for the community to actively utilize the Spirit's divine power rather than remain passive 5\.*  
 * **δούλους τούτους (doulous toutous):** *“These slaves.” Reconstructed from the primitive layer to identify the specific accountable stewards of the new order 5\.*
 
 **19:37** ἤρξαντο ἅπαν τὸ πλῆθος τῶν μαθητῶν χαίροντες αἰνεῖν τὸν θεὸν φωνῇ μεγάλῃ περὶ πασῶν ὧν εἶδον δυνάμεων, **38** λέγοντες· Εὐλογημένος ὁ βασιλεύς ἐν ὀνόματι κυρίου· **εἰρήνη ἐν οὐρανοῖς** καὶ δόξα ἐν ὑψίστοις.

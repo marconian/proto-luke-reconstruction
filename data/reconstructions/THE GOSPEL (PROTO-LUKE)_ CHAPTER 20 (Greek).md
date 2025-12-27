@@ -11,7 +11,7 @@
 * *Notes on Translation and Textual Logic:*  
 * **Omission of 22:3:** *The phrase “And Satan entered into Judas” is entirely absent from this stratum. The betrayal is recorded as a clinical legal and economic transaction between the defector and the authorities, not a supernatural possession 2\.*  
 * **στρατηγοῖς (stratēgois):** *Literally “commanders.” I have used this to denote the specific military-police authority of the Temple guard rather than generic officials 1, 2\.*  
-* **ἀργύριον (argyrion):** *Silver. This highlights the economic substrate of the betrayal, consistent with the Jamesian focus on the corrupting nature of material ultimates.*
+* **ἀργύριον (argyrion):** *Silver. This highlights the economic substrate of the betrayal, consistent with the Jamesian focus on the corrupting nature of material possessions.*
 
 **22:14** Καὶ ὅτε ἐγένετο ἡ ὥρα, ἀνέπεσεν καὶ οἱ **δώδεκα** σὺν αὐτῷ. **15** καὶ εἶπεν πρὸς αὐτούς· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ' ὑμῶν πρὸ τοῦ με παθεῖν· **16** λέγω γὰρ ὑμῖν ὅτι οὐ μὴ φάγω **αὐτὸ** ἕως ὅτου πληρωθῇ ἐν τῇ βασιλείᾳ τοῦ θεοῦ.
 

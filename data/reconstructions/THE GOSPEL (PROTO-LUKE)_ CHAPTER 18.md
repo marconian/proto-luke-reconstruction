@@ -33,7 +33,7 @@ Crucially, the "Parable of the Wicked Tenants" (20:9–18) and the "Proof from t
 *Notes on Translation and Textual Logic:*
 
 * **Attain (τυχεῖν):** *The reconstruction confirms that entry into the "age to come" is a pneumatic achievement rather than a biological right 11\.*  
-* **Neither marry nor are given in marriage:** *This highlights the Jamesian/Ebionite focus on asceticism and the dissolution of the "Proprium" (self-love) through the abolition of biological family structures 9, 12\.*
+* **Neither marry nor are given in marriage:** *This highlights the Jamesian/Ebionite focus on asceticism and the dissolution of self-centered attachments through the abolition of biological family structures 9, 12\.*
 
 **20:36** The verse concerning "equal to messengers" is **Unattested** in this stratum 1\.  
 **20:37–38a** The passage concerning Moses and the Bush is **Not Present** in this stratum 1, 13\.  

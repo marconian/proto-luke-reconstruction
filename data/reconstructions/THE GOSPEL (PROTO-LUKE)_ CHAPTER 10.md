@@ -31,8 +31,8 @@ The following is the forensic reconstruction of the tenth chapter of the **James
 
 Chapter 10 of the Protograph articulates the movement's radical **Anti-Anxiety Protocol**.
 
-1. **The Rejection of Material Worry:** By commanding the disciples to "Consider the ravens" (12:24) and "the lilies" (12:27), Jesus establishes a lifestyle of total reliance on the **Divine Influx** (Providence). This was the economic substrate of the Jerusalem *Ebionim* (The Poor), who surrendered private property to live in a community of "Use" 22, 23\.  
+1. **The Rejection of Material Worry:** By commanding the disciples to "Consider the ravens" (12:24) and "the lilies" (12:27), Jesus establishes a lifestyle of total reliance on the **divine power** (Providence). This was the economic substrate of the Jerusalem *Ebionim* (The Poor), who surrendered private property to live in a community of "Use" 22, 23\.  
 2. **The Divider of Inheritance:** Jesus's refusal to adjudicate a property dispute (12:14) is a clinical rejection of the "Old Aeon" legalism. He asserts that his authority is not to regulate the distribution of material "debris" but to restore the internal state of humanity 24, 25\.  
 3. **The Fire of Division:** The "Fire" and "Division" mentioned in 12:49-51 serve as a forensic warning that the Truth is not an irenic synthesis but a sword of separation. It severs the follower from biological family ties (12:53) and social approval (12:8-9) to foster absolute loyalty to the Spirit 26, 27\.  
-4. **The Archeology of the Soul:** The warning against "Hypocrites" who can read the weather but not the "Time" (12:56) targets those who rely on external sensory data (the "Serpent" principle) while ignoring the internal arrival of the Divine Human in ultimates 28, 29\.
+4. **The Archeology of the Soul:** The warning against "Hypocrites" who can read the weather but not the "Time" (12:56) targets those who rely on external sensory data (the "Serpent" principle) while ignoring the internal arrival of Jesus in his embodied ministry 28, 29\.
 

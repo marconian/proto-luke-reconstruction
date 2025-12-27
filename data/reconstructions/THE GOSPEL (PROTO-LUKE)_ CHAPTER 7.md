@@ -27,7 +27,7 @@ In this stratum, the narrative focuses on the internal authority of the Messenge
 
 ### Additional Explanation: The Ascension of the Spirit
 
-Chapter 7 of the Jamesian Protograph marks the "Transfiguration"—the phenomenological manifestation of the **Divine Human**.
+Chapter 7 of the Jamesian Protograph marks the "Transfiguration"—the phenomenological manifestation of the **Jesus**.
 
 1. **The Spiritual Body:** The description of Jesus's face and clothing (9:29) reflects a visionary, pneumatic experience rather than a material change. This aligns with the "Spiritual Resurrection" theology of the Jerusalem pillars, where the physical body is a shell for the glorified "Being of Light" 22, 23\.  
 2. **The Rejection of Bio-Dynasty:** In the "following" narratives (9:57-62), Jesus demands total renunciation of property (nests/holes) and biological family (burying the father). This is the "Epistemology of Doing," where loyalty to the community of the Poor (*Ebionim*) is the only valid marker of identity 21, 24\.  

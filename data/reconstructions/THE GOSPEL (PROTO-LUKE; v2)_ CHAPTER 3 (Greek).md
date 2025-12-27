@@ -10,7 +10,7 @@
 
 * *Notes on Translation and Textual Logic:*  
 * **Level Place (τόπου πεδινοῦ \- topou pedinou):** *This identifies the setting for the "Sermon on the Plain," a foundational document for the Jerusalem Church 3, 4\.*  
-* **Power (δύναμις \- dynamis):** *Refers to the "Divine Influx." The physical presence of the Messenger acts as a clinical conduit for restoring those in disorder 2, 5\.*
+* **Power (δύναμις \- dynamis):** *Refers to the "divine power." The physical presence of the Messenger acts as a clinical conduit for restoring those in disorder 2, 5\.*
 
 **6:20** Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· Μακάριοι οἱ **πτωχοί**, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τοῦ θεοῦ. **21** μακάριοι οἱ πεινῶντες νῦν, ὅτι χορτασθήσεσθε. μακάριοι οἱ κλαίοντες νῦν, ὅτι γελάσετε. **22** μακάριοί ἐστε ὅταν μισήσωσιν ὑᾶς οἱ ἄνθρωποι καὶ ὅταν ἀφορίσωσιν ὑμᾶς καὶ ὀνειδίσωσιν καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου· **23** χάρητε ἐν ἐκείνῃ τῇ ἡμέρᾳ καὶ σκιρτήσατε, ἰδοὺ γὰρ ὁ μισθὸς ὑμῶν πολὺς ἐν τῷ οὐρανῷ· κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν 2, 3, 6\.
 
@@ -28,7 +28,7 @@
 
 * *Notes on Translation and Textual Logic:*  
 * **The Royal Law (v. 31):** *The Golden Rule is presented as a functional definition of the "Law of Liberty" within the community 9, 10\.*  
-* **Despairing of nothing (μηδὲν ἀπελπίζοντες):** *In the Jamesian context, this implies an absolute reliance on Divine Influx rather than the commercial logic of the material world 2\.*
+* **Despairing of nothing (μηδὲν ἀπελπίζοντες):** *In the Jamesian context, this implies an absolute reliance on divine power rather than the commercial logic of the material world 2\.*
 
 **6:46** Τί δέ με καλεῖτε· κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω; **47** Πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς, ὑποδείξω ὑμῖν τίνι ἐστὶν ὅμοιος· **48** ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· **49** ὁ δὲ ἀκούσας καὶ μὴ **ποιήσας** ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα 2, 9\.
 

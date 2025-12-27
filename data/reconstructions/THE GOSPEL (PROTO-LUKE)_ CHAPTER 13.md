@@ -18,7 +18,7 @@ Significantly, the most famous pericope of the canonical chapter—the Parable o
 
 * *Notes on Translation and Textual Logic:*  
 * **Drachmas (δραχμάς \- drachmas):** *Greek silver coins. The loss of a material "ultimate" (the coin) serves as a dry fact to illustrate the value of the individual within the community of the poor 6\.*  
-* **Before God (ἐνώπιον τοῦ θεοῦ):** *Consistent with the prior verse, the mention of "messengers" (angels) is unattested here in the primitive stratum. The "joy" is a direct result of the Divine Influx recognizing the return to order 8\.*
+* **Before God (ἐνώπιον τοῦ θεοῦ):** *Consistent with the prior verse, the mention of "messengers" (angels) is unattested here in the primitive stratum. The "joy" is a direct result of divine power recognizing the return to order 8\.*
 
 **15:11–32** The Parable of the Two Sons (the Prodigal Son) is **Not Present** in this stratum 1, 2, 7\.
 

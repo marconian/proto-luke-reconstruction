@@ -17,7 +17,7 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **μεριστὴν (meristēn):** *“A divider.” I have used the literal term for a functional legal office of distribution 3\. The Messenger’s refusal to act in this capacity reinforces the separation between the Kingdom and material debt-management.*  
-* **ὑπαρχόντων (hyparchontōn):** *“Possessions” or “Ultimates.” The Greek clinical fact is that life does not consist of material accumulation.*
+* **ὑπαρχόντων (hyparchontōn):** *"Possessions." The Greek term emphasizes that life does not consist of material accumulation.*
 
 **12:22** Εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ· Διὰ τοῦτο λέγω ὑμῖν, μὴ μεριμνᾶτε τῇ ψυχῇ τί φάγητε... **24** κατανοήσατε τοὺς **κόρακας** ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν, οἷς οὐκ ἔστιν ταμεῖον οὐδὲ ἀποθήκη, καὶ ὁ θεὸς τρέφει αὐτούς· πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν 3\.
 

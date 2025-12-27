@@ -11,7 +11,7 @@ This chapter constitutes the Passion Narrative of the **Jamesian Protograph** (P
 **23:7** Καὶ ἐπιγνους ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστίν, ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην. **8** Ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν· ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτὸν διὰ τὸ ἀκούειν περὶ αὐτοῦ, καὶ ἤλπιζέν τι σημεῖον ἰδεῖν ὑπ᾽ αὐτοῦ γινόμενον. **9** ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς· αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ.
 
 * *Notes on Greek Reconstruction and Textual Logic:*  
-* **Sent up (ἀνέπεμψεν \- anepempsen):** *The transfer to Herod is recorded as a clinical movement within the Ultimates of the Judean legal framework 7, 8\.*  
+* **Sent up (ἀνέπεμψεν \- anepempsen):** *The transfer to Herod is recorded as a clinical movement within concrete reality of the Judean legal framework 7, 8\.*  
 * **Signs (σημεῖον \- sēmeion):** *The narrative highlights Herod's desire for a physicalist "sign," which the Messenger clinically refuses, maintaining the silence of the new aeon before the curiosity of the old 7\.*
 
 **23:18** Ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν· **19** ὅστις ἦν διὰ στάσιν τινὰ γενομένην ἐν τῇ πόλει καὶ φόνον βληθεὶς ἐν τῇ φυλακῇ. **22** Ὁ δὲ τρίτον εἶπεν πρὸς αὐτούς· Τί γὰρ κακὸν ἐποίησεν οὗτος; οὐδὲν αἴτιον θανάτου εὗρον ἐν αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω. **23** οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν. **25** ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν.

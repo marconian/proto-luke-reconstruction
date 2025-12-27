@@ -1,6 +1,6 @@
 ### THE GOSPEL (PROTO-LUKE): CHAPTER 14
 
-This chapter corresponds to the sixteenth chapter of the canonical text and constitutes the ethical core regarding the stewardship of material "ultimates" and the definitive Lazarus narrative 1, 2\.  
+This chapter corresponds to the sixteenth chapter of the canonical text and constitutes the ethical core regarding the stewardship of material "material attachments" and the definitive Lazarus narrative 1, 2\.  
 **16:1–8** Οὗτοι οἱ στίχοι, οἱ περὶ τοῦ οἰκονόμου τῆς ἀδικίας, οὐκ ἔνεστιν ἐν τούτῳ τῷ στρώματι 3\.
 
 * *Notes on Reconstruction and Excision:*  
@@ -15,8 +15,8 @@ This chapter corresponds to the sixteenth chapter of the canonical text and cons
 **16:13** Οὐδεὶς **οἰκέτης** δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ 4\. **14** Ἤκουον δὲ ταῦτα πάντα οἱ Φαρισαῖοι φιλάργυροι ὑπάρχοντες καὶ ἐξεμυκτήριζον αὐτόν 4, 7\. **15** καὶ εἶπεν αὐτοῖς· ὑμεῖς ἐστε οἱ δικαιοῦντες ἑαυτοὺς ἐνώπιον τῶν ἀνθρώπων, ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν· ὅτι τὸ ἐν ἀνθρώποις ὑψηλὸν βδέλυγμα ἐνώπιον τοῦ θεοῦ 4, 7\.
 
 * *Notes on Translation and Textual Logic:*  
-* **Household Slave (οἰκέτης \- oiketēs):** *Rendered literally. The Jamesian layer emphasizes the total, non-negotiable loyalty of the slave to a single source of Influx 8\.*  
-* **God (θεῷ \- theō):** *Refers to the Divine Source. The plurality of Elohim is not reflected here in the Greek script, which uses the singular term to denote the First Influx Notes.*
+* **Household Slave (οἰκέτης \- oiketēs):** *Rendered literally. The Jamesian layer emphasizes the total, non-negotiable loyalty of the slave to a single the divine source 8\.*  
+* **God (θεῷ \- theō):** *Refers to the Divine Source. The plurality of Elohim is not reflected here in the Greek script, which uses the singular term to denote the divine source Notes.*
 
 **16:16** Ὁ νόμος καὶ οἱ προφῆται **μέχρι** Ἰωάννου· ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται καὶ πᾶς εἰς αὐτὴν βιάζεται 9, 10\. **17** εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ **τῶν λόγων μου** μίαν κεραίαν παρελθεῖν 9, 10\. **18** πᾶς ὁ ἀπολύων τὴν γυναῖκα αὐτοῦ καὶ γαμῶν ἑτέραν μοιχεύει, καὶ ὁ ἀπολελυμένην ἀπὸ ἀνδρὸς γαμῶν **ὁμοίως μοιχός ἐστιν** 10, 11\.
 

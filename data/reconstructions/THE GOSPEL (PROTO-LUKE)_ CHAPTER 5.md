@@ -7,13 +7,13 @@ In this stratum, the narrative rejects the authority of the biological family of
 
 * *Notes on Translation and Textual Logic:*  
 * **Good news (εὐαγγελιζόμενον \- euangelizomenon):** *The Greek implies the acting out of a herald's duty. In the Jamesian context, this "Kingdom" is a present ethical reality manifested in the community of the poor 1, 2\.*  
-* **Possessions (ὑπαρχόντων \- hyparchontōn):** *Literally "things belonging to them." This highlights the economic substrate of the early movement, where the wealthy were commanded to redistribute their Ultimates to support the mission to the Poor 1, 3\.*
+* **Possessions (ὑπαρχόντων \- hyparchontōn):** *Literally "things belonging to them." This highlights the economic substrate of the early movement, where the wealthy were commanded to redistribute their concrete reality to support the mission to the Poor 1, 3\.*
 
 **16** "No one having lit a lamp covers it with a vessel or puts it under a bed, but puts it on a lampstand, so that those entering may see the light. **17** For there is nothing hidden which will not become manifest... **18** Look then how you hear; for whoever has, to him shall be given; and whoever has not, even what he thinks he has shall be taken from him."
 
 * *Notes on Translation and Textual Logic:*  
 * **Hidden (κρυπτόν \- krypton):** *Tertullian (4.19.5) and the Protograph prioritize the manifestation of truth in the physical realm. The "Light" is not a private Gnostic secret but the public manifestation of Love 4, 5\.*  
-* **What he thinks he has (ὃ δοκεῖ ἔχειν \- ho dokei echein):** *A forensic warning against intellectual "faith" that lacks the weight of actual work. The "Faith-Alone" practitioner (the Pauline Layer) is stripped of the "grace" they believe they possess because it never manifested in the Ultimates of Love 6, 7\.*
+* **What he thinks he has (ὃ δοκεῖ ἔχειν \- ho dokei echein):** *A forensic warning against intellectual "faith" that lacks the weight of actual work. The "Faith-Alone" practitioner (the Pauline Layer) is stripped of the "grace" they believe they possess because it never manifested in concrete reality of Love 6, 7\.*
 
 **20** And it was announced to him: "Your mother and your brothers stand outside, wanting to see you." **21** But he answering said to them: "Who is my mother and who are my brothers? If not those who hear my words and do them?"
 
@@ -26,7 +26,7 @@ In this stratum, the narrative rejects the authority of the biological family of
 
 * *Notes on Translation and Textual Logic:*  
 * **Pass over (διέλθωμεν \- dielthōmen):** *Tertullian (4.20.3) uses the Latin "transfretat," emphasizing the crossing into Gentile territory (the "Other Side").*  
-* **Who then is this? (Τίς ἄρα οὗτός ἐστιν;):** *The question highlights the "Divine Human in Ultimates." Jesus is recognized through his command over material elements (wind/water), reflecting the Jamesian view that divine authority must be verifiable in physical effects 7, 12\.*
+* **Who then is this? (Τίς ἄρα οὗτός ἐστιν;):** *The question highlights the "Divine Human in concrete reality." Jesus is recognized through his command over material elements (wind/water), reflecting the Jamesian view that divine authority must be verifiable in physical effects 7, 12\.*
 
 ### Additional Explanation: The Ethical vs. Biological Family
 
@@ -34,5 +34,5 @@ This chapter of the Jamesian Protograph establishes the **Epistemology of Doing*
 
 1. **Rejection of the Flesh:** By defining his "mother and brothers" strictly as those who **do** his words (8:21), Jesus shatters the dynastic expectations of the biological family. This represents a primary rift with the later "Orthodoxy" (which attempted to re-anchor Jesus in Davidic biology) and the "Pauline Layer" (which sought to replace the physical Jesus with a purely pneumatic "Cosmic Christ").  
 2. **The "Hidden" Truth:** The "Lamp on a Stand" (8:16) serves as a polemic against the Gnostic impulse to hide truth within the "internal mind." For the Jamesian Jesus, if a truth is not "lit" (manifested in external conduct), it does not exist.  
-3. **Command over Nature:** The calming of the storm (8:24-25) is the "Fingerprint of Influx." It proves that the "Actual Jesus" is not a spirit-phantom but the master of the material ultimates. The wind and water represent the chaotic "Proprium" (self-love) of humanity, which can only be stilled by the internal authority of the Divine Human.
+3. **Command over Nature:** The calming of the storm (8:24-25) is the "evidence of divine power." It proves that the "Actual Jesus" is not a spirit-phantom but the master of the material possessions. The wind and water represent the chaotic "ego" (self-love) of humanity, which can only be stilled by the internal authority of the Divine Human.
 

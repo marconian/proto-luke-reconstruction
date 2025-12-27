@@ -11,7 +11,7 @@
 **11:9** Κἀγὼ ὑμῖν λέγω· αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν 4\. **11** τίνα δὲ ἐξ ὑμῶν τὸν πατέρα αἰτήσει ὁ υἱὸς ἰχθύν, καὶ ἀντὶ ἰχθύος ὄφιν αὐτῷ ἐπιδώσει; **12** ἢ καὶ αἰτήσει ᾠόν, ἐπιδώσει αὐτῷ σκορπίον; **13** εἰ οὖν ὑμεῖς πονηροὶ ὑπάρχοντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατήρ ὁ ἐξ οὐρανοῦ δώσει **πνεῦμα ἅγιον** τοῖς αἰτοῦσιν αὐτόν 4\.
 
 * *Notes on Greek Text and Reconstruction:*  
-* **πνεῦμα ἅγιον (pneuma hagion):** *The climax of the "Ask/Seek/Knock" discourse is the specific gift of the Holy Spirit 4\. In the Jamesian Protograph, the Father does not provide generic "good things" but the clinical mechanism of divine influx 4\.*  
+* **πνεῦμα ἅγιον (pneuma hagion):** *The climax of the "Ask/Seek/Knock" discourse is the specific gift of the Holy Spirit 4\. In the Jamesian Protograph, the Father does not provide generic "good things" but the clinical mechanism of divine power 4\.*  
 * **ᾠόν / σκορπίον (ōon / skorpion):** *The contrast between the "egg" and the "scorpion" is a forensic analogy for the safety of those operating under the Spirit’s protection 4\.*  
 * **Excision of 11:14–36:** *The "Sign of Jonah" and the "Wisdom of God" speech are excised as secondary layers used to link the narrative to the prophetic modulo of the old age 3\.*
 

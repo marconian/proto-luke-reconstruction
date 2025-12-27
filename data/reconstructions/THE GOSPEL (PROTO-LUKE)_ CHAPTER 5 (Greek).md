@@ -4,12 +4,12 @@
 
 * *Notes on Greek Text and Reconstruction:*  
 * **εὐαγγελιζόμενος (euangelizomenos):** *The Greek identifies the Messenger’s primary function as an announcer or herald of a new governance 1\. In the Jamesian context, this "Kingdom" is a present ethical reality manifested in the community of the poor 2\.*  
-* **ὑπαρχόντων (hyparchontōn):** *Literally "things belonging to them." This highlights the economic substrate of the early movement, where the wealthy were commanded to redistribute their material Ultimates to support the mission to the Poor 2\.*
+* **ὑπαρχόντων (hyparchontōn):** *Literally "things belonging to them." This highlights the economic substrate of the early movement, where the wealthy were commanded to redistribute their material possessions to support the mission to the Poor 2\.*
 
 **8:16** Οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν, ἀλλ᾽ ἐπὶ λυχνίας τίθησιν, ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς. **17** οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται, οὐδὲ ἀπόκρυφον ὃ οὐ μὴ γνωσθῇ. **18** βλέπετε οὖν πῶς ἀκούετε· ὃς ἂν γὰρ ἔχῃ, δοθήσεται αὐτῷ, καὶ ὃς ἂν μὴ ἔχῃ, καὶ ὃ **δοκεῖ ἔχειν** ἀρθήσεται ἀπ᾽ αὐτοῦ.
 
 * *Notes on Greek Text and Reconstruction:*  
-* **δοκεῖ ἔχειν (dokei echein):** *“What he thinks he has.” This is a dry forensic warning against an intellectual or "spiritualized" faith that lacks the weight of actual work. The practitioner is stripped of the perceived grace because it never manifested in the Ultimates of Love 3\.*  
+* **δοκεῖ ἔχειν (dokei echein):** *“What he thinks he has.” This is a dry forensic warning against an intellectual or "spiritualized" faith that lacks the weight of actual work. The practitioner is stripped of the perceived grace because it never manifested in concrete reality of Love 3\.*  
 * **κρυπτόν (krypton):** *The Protograph prioritizes the manifestation of truth in the physical realm. The "Light" is not a private Gnostic secret but the public manifestation of Love 3\.*  
 * **Omission in 8:17:** *The reconstruction follows the more primitive stratum which omits "and come to light." This focuses on the clinical state of the hidden becoming known through the Spirit’s presence.*
 
